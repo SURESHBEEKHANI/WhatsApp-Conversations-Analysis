@@ -1,52 +1,56 @@
+import matplotlib.pyplot as plt  # type: ignore
 from urlextract import URLExtract
-from collections import Counter
-import emoji
-from wordcloud import WordCloud
+import pandas as pd
 
-# Create an object that will help in extracting URLs
-extract = URLExtract()
+# Initialize URL extractor globally
+url_extractor = URLExtract()
 
-# Create an object that will help in extracting URLs
-extract = URLExtract()
-class Helper:
-    def __init__(self, df):
-        self.df = df
+def fetch_stats(df, selected_user):
+    """
+    Fetch basic statistics for a selected user or for all users if 'Overall' is selected.
 
-    def fetch_stats(self, selected_user):
-        """
-        Fetch basic statistics for a selected user or for all users if 'Overall' is selected.
+    Parameters:
+        df (pd.DataFrame): The DataFrame containing the chat data.
+        selected_user (str): The user to fetch stats for, or 'Overall' for aggregate stats.
 
-        Parameters:
-            selected_user (str): The user to fetch stats for, or 'Overall' for aggregate stats.
+    Returns:
+        tuple: A tuple containing:
+               - Number of messages
+               - Number of words
+               - Number of media messages
+               - Number of links shared
+    """
+    # Filter the DataFrame based on the selected user
+    if selected_user != 'Overall':
+        df_filtered = df[df['User'] == selected_user]
+    else:
+        df_filtered = df
 
-        Returns:
-            tuple: A tuple containing the number of messages, number of words, 
-                   number of media messages, and number of links shared.
-        """
-        # Ensure selected_user is a string (in case it's a pandas Series)
-        if not isinstance(selected_user, str):
-            raise ValueError("selected_user should be a string")
+    # Calculate statistics
+    num_messages = df_filtered.shape[0]
+    words = [word for message in df_filtered['Message'] for word in message.split()]
+    num_media_messages = df_filtered[df_filtered['Message'] == '<Media omitted>'].shape[0]
+    links = [link for message in df_filtered['Message'] for link in url_extractor.find_urls(message)]
 
-        # If the selected user is not 'Overall', filter the data for that specific user
-        if selected_user != 'Overall':
-            df_filtered = self.df[self.df['User'] == selected_user]
-        else:
-            df_filtered = self.df  # Use entire DataFrame for 'Overall' stats
+    return num_messages, len(words), num_media_messages, len(links)
 
-        # Count how many messages the selected user has sent
-        num_messages = df_filtered.shape[0]
+def top_active_users(df):
+    """
+    Calculates the top N most active users based on their message count.
 
-        # Create a list to hold all words from the messages
-        words = []
-        for message in df_filtered['Message']:
-            words.extend(message.split())
+    Parameters:
+        df (pd.DataFrame): The DataFrame containing the chat data.
+        top_n (int): The number of top users to display (default is 5).
 
-        # Count how many media messages (like images or videos) the user sent
-        num_media_messages = df_filtered[df_filtered['Message'] == '<Media omitted>'].shape[0]
+    Returns:
+        tuple: A tuple containing:
+               - A Series of the top users and their message counts
+               - A DataFrame of the top users and their percentage of total messages
+    """
+    # Get the top N users by message count
+    x = df['User'].value_counts().head()
+    
+    # Calculate the percentage of total messages for these top users
+    df = round((df['User'].value_counts() / df.shape[0]) * 100, 2).reset_index().rename(columns={'index': 'name', 'User': 'percent'})
 
-        # Create a list to hold all the links shared by the user
-        links = []
-        for message in df_filtered['Message']:
-            links.extend(extract.find_urls(message))
-
-        return num_messages, len(words), num_media_messages, len(links)
+    return x, df
