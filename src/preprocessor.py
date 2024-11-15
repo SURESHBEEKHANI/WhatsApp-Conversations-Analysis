@@ -1,51 +1,39 @@
 import re
 import pandas as pd
 
-def preprocess(data):
-    pattern = '\d{1,2}/\d{1,2}/\d{2,4},\s\d{1,2}:\d{2}\s-\s'
+def parse_whatsapp_chat(data):
+    # Regex pattern to match the chat log format
+    pattern = r"(\d{2}/\d{2}/\d{4}),\s(\d{1,2}:\d{2}\s?[ap]m)\s-\s(\+\d{2}\s\d{3}\s\d{7}):\s(.*)"
 
-    messages = re.split(pattern, data)[1:]
-    dates = re.findall(pattern, data)
+    # Find all matches using regex
+    matches = re.findall(pattern, data)
 
-    df = pd.DataFrame({'user_message': messages, 'message_date': dates})
-    # convert message_date type
-    df['message_date'] = pd.to_datetime(df['message_date'], format='%d/%m/%Y, %H:%M - ')
+    # Create a DataFrame from the extracted matches
+    df = pd.DataFrame(matches, columns=['Date', 'Time', 'User', 'Message'])
 
-    df.rename(columns={'message_date': 'date'}, inplace=True)
+    # Split the 'Date' column into 'Day', 'Month', 'Year'
+    df[['Day', 'Month', 'Year']] = df['Date'].str.split('/', expand=True)
 
-    users = []
-    messages = []
-    for message in df['user_message']:
-        entry = re.split('([\w\W]+?):\s', message)
-        if entry[1:]:  # user name
-            users.append(entry[1])
-            messages.append(" ".join(entry[2:]))
-        else:
-            users.append('group_notification')
-            messages.append(entry[0])
+    # Convert 'Date' to datetime format to extract the day name and month name
+    df['Date'] = pd.to_datetime(df['Date'], format='%d/%m/%Y')
 
-    df['user'] = users
-    df['message'] = messages
-    df.drop(columns=['user_message'], inplace=True)
+    # Extract the Day name (e.g., Monday, Tuesday)
+    df['Day'] = df['Date'].dt.strftime('%A')  # Get the day name (e.g., "Monday")
 
-    df['only_date'] = df['date'].dt.date
-    df['year'] = df['date'].dt.year
-    df['month_num'] = df['date'].dt.month
-    df['month'] = df['date'].dt.month_name()
-    df['day'] = df['date'].dt.day
-    df['day_name'] = df['date'].dt.day_name()
-    df['hour'] = df['date'].dt.hour
-    df['minute'] = df['date'].dt.minute
+    # Extract the Month name (e.g., January, February)
+    df['Month'] = df['Date'].dt.strftime('%B')  # Get the full month name (e.g., "July")
 
-    period = []
-    for hour in df[['day_name', 'hour']]['hour']:
-        if hour == 23:
-            period.append(str(hour) + "-" + str('00'))
-        elif hour == 0:
-            period.append(str('00') + "-" + str(hour + 1))
-        else:
-            period.append(str(hour) + "-" + str(hour + 1))
+    # Clean up and split the 'Time' column into 'Hour', 'Minute', and 'AMPM'
+    df['Time'] = df['Time'].str.replace('\u202f', ' ')  # Remove non-breaking spaces
 
-    df['period'] = period
+    # Split the cleaned 'Time' column into 'Hour:Minute' and 'AMPM'
+    df[['Hour_Minute', 'AMPM']] = df['Time'].str.extract(r'(\d{1,2}:\d{2})\s?(am|pm)', expand=True)
 
+    # Split the 'Hour_Minute' into 'Hour' and 'Minute'
+    df[['Hour', 'Minute']] = df['Hour_Minute'].str.split(':', expand=True)
+
+    # Drop the original 'Date' and 'Time' columns if you don't need them anymore
+    df = df.drop(columns=['Date', 'Time', 'Hour_Minute'])
+
+    # Return the DataFrame
     return df
