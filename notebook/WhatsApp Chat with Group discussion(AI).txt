@@ -1,0 +1,1942 @@
+30/05/2023, 6:26 pm - Group creator created group "Group discussion(AI)"
+30/05/2023, 6:26 pm - You were added
+18/07/2024, 6:39 pm - +92 303 6123098: Assalamualaikum wa rehmatullahi wa baraktuh 
+Ap main say Kisi ko best cv bnani Ati Hy. Agr Ati Hy tou please aik bar Meri cv check kr lyn k thek bni hue
+18/07/2024, 6:40 pm - +92 303 6123098: Agr koe kr skta to mjy bta dyn Mai unko cv personal Mai send kr dyti hun
+18/07/2024, 9:36 pm - +92 328 9460713: <Media omitted>
+18/07/2024, 9:38 pm - +92 328 9460713: Remember Brothers, Don't miss it !
+19/07/2024, 3:18 am - +92 310 8668380: <Media omitted>
+19/07/2024, 8:12 am - +92 344 0544757: Yes
+19/07/2024, 9:19 am - +92 336 2710451: I need backend developer, if anyone want to join us.
+19/07/2024, 9:59 am - +92 344 0544757: Backend developer language kon se chiya
+19/07/2024, 9:59 am - +92 344 0544757: Larvel , node ya other
+19/07/2024, 4:32 pm - +92 319 7200178: Yes
+20/07/2024, 11:40 am - +92 328 9460713: https://youtu.be/i3Cim461ybQ?si=92XvBnFsOhq9fk4Y
+20/07/2024, 10:19 pm - +92 315 4534792: https://www.youtube.com/live/l2CrvG6zdf8?si=lks5P-gWgFKdvB0j
+20/07/2024, 10:36 pm - +92 306 6785416: Assalamualaikum 
+Any one having study material for IELTS preparation....? 
+Kindly send please
+Stay blessed ❣️
+21/07/2024, 2:50 am - +92 313 4997451: Assalam-o-Alaikum 
+Mujhe university k lie documents translate karvane hein
+English to Arabic 
+Police clearance certificate 
+Character certificate 
+Result Card per picture he
+Or main parda karti hon 
+Main chahti hon main khud translate karlon
+Koi mujhe aisa ai tool bta skta he
+Jahan main apne document ki pic upload karon or wo mujhe arabic me de dein
+21/07/2024, 4:25 am - +92 321 2721004: Google lens try kren
+21/07/2024, 11:19 am - +92 306 6785416: I think agar foreign Uni k leya ha tu vo different process hota ha
+ Approx every relevant country k authorise Institutes hoty jo apka documents ko first verify krtay then translate in required language 
+And in that particular county the same format is use and acceptable that is designed by that institute Jo ap k documents ko verify kr k translate kra ga....
+21/07/2024, 5:02 pm - +92 323 8862333: <Media omitted>
+21/07/2024, 6:08 pm - +92 328 9460713: <Media omitted>
+21/07/2024, 6:32 pm - +92 306 9287947: سلام ان پر جنہوں نے بس سٹیٹس پہ جہاد کیا🤣
+21/07/2024, 7:46 pm - +92 323 8862333: بھائی جان آپکو کیا لگتا ہے کہ جہاد صرف تلواروں سے ہی ہوتا ہے۔
+21/07/2024, 7:48 pm - +92 323 8862333: آج کل کے نوجوان اپنی آئی ڈی بین ہونے کے ڈر سے کوئی فلسطین کے حق میں بات کرنے سے بھی گھبراتے ہیں۔
+21/07/2024, 7:49 pm - +92 313 4997451: Assalam-o-Alaikum 
+Hmare neighbours me aik family he bht ziada needy hein
+Aik kamra he onk ghar me bs osi me kitchen he 
+Husband wife ka accident hova he or anti k sir per bht bht chot ai he
+Uncle bhi behosh hein
+Kindly sb thori thori donations de dein ta k onki help ki jaye
+21/07/2024, 7:51 pm - +92 323 8862333: تو پھر پیارے بھائی خالی ہاتھ بےحس ہو کر پڑے رہنے سے بہت بہتر ہے کہ آدمی کم از کم بار بار امت کو شعور دلانے کیلئے آئ ڈی بین ہونے کے ڈر سے نکل کر فلسطینیوں کے حق میں آواز اٹھاتا رہے۔
+21/07/2024, 7:53 pm - +92 323 8862333: پیارے بھائی میرا مقصد صرف سمجھانا ہے کسی کی تذلیل کرنا نہیں ، امید ہے آپ برا نہیں منائیں گے ۔
+21/07/2024, 7:54 pm - +92 323 8862333: اللّہ تعالیٰ ہم سب کو ہدایت دے ۔ آمین
+23/07/2024, 10:48 am - +92 326 0927271: Fiverr reviews available.
+Contact ib
+23/07/2024, 12:55 pm - +92 323 6606342: batch 2 ki class horhi hain?
+23/07/2024, 1:19 pm - +92 317 1476609: G
+23/07/2024, 2:16 pm - +92 323 6606342: Discussion group?
+23/07/2024, 2:32 pm - +92 307 7789508: Yes you can
+23/07/2024, 4:29 pm - +92 328 9460713: Scenarios Where Autoencoders Work Well:
+Dimensionality Reduction:
+
+Autoencoders are effective in reducing the dimensionality of data while preserving important features, similar to Principal Component Analysis (PCA).
+Useful for visualizing high-dimensional data and improving the performance of other machine learning algorithms.
+Denoising:
+
+Denoising autoencoders can remove noise from data, making them ideal for image and audio processing where the goal is to reconstruct clean data from noisy inputs.
+Anomaly Detection:
+
+Autoencoders can detect anomalies by learning the normal patterns of data and identifying data points with high reconstruction errors as anomalies.
+Applied in fields like fraud detection, network security, and industrial monitoring.
+Feature Learning:
+
+Autoencoders can learn meaningful representations of data in an unsupervised manner, which can be used to improve performance on supervised learning tasks.
+Data Generation:
+
+Variational autoencoders (VAEs) can generate new data samples that resemble the training data, useful in creative applications like image synthesis and text generation.
+Scenarios Where Autoencoders Do Not Work Well:
+High-Dimensional Data with Low Sample Size:
+
+Autoencoders may struggle with overfitting when the data is high-dimensional but the sample size is small, as they need a large amount of data to learn meaningful representations.
+Supervised Learning Tasks:
+
+Autoencoders are not directly applicable to supervised learning tasks since they do not use labeled data. Instead, they are typically used for preprocessing or feature extraction before applying a supervised algorithm.
+Complex Data Relationships:
+
+If the relationships in the data are too complex or nonlinear, simpler autoencoders may fail to capture these relationships adequately. More advanced architectures like VAEs or GANs might be needed in such cases.
+Loss of Interpretability:
+
+The latent representations learned by autoencoders can be difficult to interpret, making them less suitable for applications where interpretability is crucial.
+Alternative Methods:
+
+For some tasks, traditional methods like PCA or linear discriminant analysis (LDA) might perform equally well or better, especially when computational efficiency and simplicity are important.
+23/07/2024, 4:57 pm - +92 321 3605311: Admin @923129581399 @923077789508 @923260927271 
+Please update the basic & advance course slides links both are not working.
+23/07/2024, 4:59 pm - +92 321 3605311: When updated these 
+Informed here waiting
+23/07/2024, 5:00 pm - +92 312 9581399: I checked, both are working
+23/07/2024, 5:21 pm - +92 333 2203353: Done
+23/07/2024, 5:24 pm - +92 326 0927271: Both are working fine.
+23/07/2024, 10:55 pm - +92 328 9460713: <Media omitted>
+23/07/2024, 11:05 pm - +92 306 6785416: <Media omitted>
+23/07/2024, 11:22 pm - +92 304 5561462: Acha kam kiya hai ap ny bhi
+To abhi kya chahty hain ap
+23/07/2024, 11:26 pm - +92 307 7789508: <Media omitted>
+23/07/2024, 11:33 pm - +92 306 6785416: Shaid ya Mera sms e na ho
+Just post share ke ho....
+23/07/2024, 11:34 pm - +92 304 5561462: Ohh
+Masha Allah
+Ap ny tou kafi فلاسفرانہ soch pai hai
+Thumbs up 👍🏿 <This message was edited>
+25/07/2024, 4:17 am - +92 331 4484468: Aoa everyone, is there a way to access quizzes from AI basic course?
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://forms.gle/SyfFNTL3yHyvYM6U6
+25/07/2024, 5:02 am - +92 321 3605311: Here's the quiz link: https://forms.gle/mmmDcjfeYjKz5FyKA
+25/07/2024, 5:02 am - +92 321 3605311: Lecture 5 & 6 Slides are uploaded in week 3 folder:
+
+https://drive.google.com/drive/folders/1vIWjcXA4WDSXOQT9FHoSK5OCWIejVG7J?usp=sharing
+25/07/2024, 5:02 am - +92 321 3605311: Here's a quiz link: https://forms.gle/oSHEe2SYAg6JW1AE7
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://forms.gle/Bu4F36Kys1R8DzdQ6
+25/07/2024, 5:02 am - +92 321 3605311: Here's today's quiz link: https://docs.google.com/forms/d/e/1FAIpQLSePD_vEc0M5fo0w3xwRt_g002Iy6kEVI-97mQP4WgCPaoMMlA/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Quiz link: https://forms.gle/xrXgohpuCGgQpj1U6
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdpRNIxkd0ji67t2oystc9q4RGQjyf47IinD0fCk9cetbhBCQ/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdmVgGuhtBreZf01UqCKjyXZoGU0dZgBgBk4HtcEqCqv024RQ/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's a quiz link: https://docs.google.com/forms/d/e/1FAIpQLSd1Jtm4HXWJM-ul_m3AN93g9omlmg6h_HI89h4Sx74Ck0HS5Q/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdTf78SbltcS-iRsPFMmPA753Ymu9SnQEk0mJTqOcWborCTdg/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://docs.google.com/forms/d/e/1FAIpQLSfc3zpAQB0Sil7AprGCA_4jivfKE28QJqgYWddooigBHYXG-A/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeQLYgGGMggx7aQ99nDnXnhizYxpubV_RSl6qi1Kz5giaUCoA/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://docs.google.com/forms/d/e/1FAIpQLSdaagj6DkWBvlsl817rN9OUyXEUi2B0jvfZS1PBDJEB0E6edA/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSepmilG79294XPGL-M9ZHTsy30D8VlI04ZHFn0PKSTHUmdPYQ/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's a quiz link:
+https://forms.gle/c5j98aaCqyhLHV7k7
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://docs.google.com/forms/d/e/1FAIpQLSeukkfNkw8eTslNLJtepQHX6Ir4z383OCmkH1egGdWpN7bQpA/viewform?usp=send_form
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+https://docs.google.com/forms/d/e/1FAIpQLSeUHBy_lSIj0UO6vG-fdQTbmVjbTzdAGnnOLLCWpQubsHIaXQ/viewform
+25/07/2024, 5:02 am - +92 321 3605311: Here's a quiz link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfdMrSaF_-iWsu4lpmr1V8IdFRrDhDAeovxhcAapm1vTmT6Dw/viewform?usp=send_form
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://docs.google.com/forms/d/e/1FAIpQLSereFRku_ycNyomorNnafqcm3G3shXJSCLtDastU1nSjiAJdQ/viewform?usp=send_form
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link:
+
+https://forms.gle/547n62soV63BN1zz9
+25/07/2024, 5:02 am - +92 321 3605311: Here's quiz link: https://forms.gle/EUMpXJ45nBN9EKCv5
+25/07/2024, 5:02 am - +92 321 3605311: Here'e quiz link:
+
+https://forms.gle/f41Ybx9ZW815GtRWA
+25/07/2024, 6:09 am - +92 331 4484468: tysm jazaakAllah
+25/07/2024, 6:31 am - +92 331 4484468: I was trying to make prompts for stable diffusion from chat gpt, but its giving very long prompts like this one
+25/07/2024, 6:31 am - +92 331 4484468: Create a detailed photorealistic scene featuring a polar bear in its Arctic habitat. Zoom out to capture the expansive icy landscape, with towering glaciers and patches of sea ice stretching to the horizon under a crisp, blue sky. Include other Arctic wildlife, such as seals lounging on ice floes and seabirds soaring overhead. Pay close attention to the shimmering textures of the ice, reflecting the ambient light and creating a sense of cold tranquility. Render the polar bear with meticulous detail, showcasing its thick fur, powerful stature, and curious expression as it navigates the frozen terrain.
+25/07/2024, 6:31 am - +92 331 4484468: is it a good prompt to use
+25/07/2024, 6:31 am - +92 331 4484468: ?
+25/07/2024, 6:31 am - +92 331 4484468: <Media omitted>
+25/07/2024, 8:33 am - +92 310 4361015: If it gives the desired results then it is okay.👍🏻
+25/07/2024, 7:21 pm - +92 307 3732356: Kisi Dost kay pas English language ka koi whatsapp group hoto plz link send kerdy koi bhai
+26/07/2024, 10:30 am - +92 328 9460713: If Assignment no 7 of AI Advance Course is uploaded, So please share the link of assignment, not Drive link.
+26/07/2024, 10:41 am - +92 312 9581399: <Media omitted>
+26/07/2024, 10:02 pm - +92 328 8822005: Hey
+26/07/2024, 10:16 pm - +92 334 1352612: Salam Kisi ka pass adobe illustrator Hai?
+Jo files ko AI format Mai convert kerke send kerskay?
+26/07/2024, 10:27 pm - +92 323 8862333: <Media omitted>
+26/07/2024, 10:34 pm - +92 333 2203353: Beshak
+27/07/2024, 12:42 pm - +92 334 5332804: Kia Coursera p free courses khatm kr die gai han? Me financial aid pe 3 courses kr rhi thi but jb end hone wale the to Coursera ne graded quiz lock kr die and they are asking for subscription charges. Kia kisi ne Coursera se totally free course kie han with certification?
+27/07/2024, 7:14 pm - +92 306 9287947: Yes
+27/07/2024, 7:23 pm - +92 306 6785416: <Media omitted>
+28/07/2024, 12:50 am - +92 300 8760724: I've just published my latest notebook for the Titanic Kaggle competition, where I achieved an impressive 90% accuracy on the test dataset! 🚢🎯
+
+Your feedback would be invaluable to me, and if you find the notebook helpful, a 👍 upvote would be greatly appreciated.
+
+Check out the notebook here: https://www.kaggle.com/code/ahmedislam0/titanic-survival-prediction-achieving-acc-90
+
+Thank you for your support❤🫶🏻
+28/07/2024, 1:41 pm - +92 306 9287947: بجلی کا بل بھرنا حرام عمل ہے
+28/07/2024, 1:44 pm - Only messages that mention @Meta AI are sent to Meta. Meta can't read any other messages in this chat. Some responses may be inaccurate or inappropriate. *Tap to learn more*.
+28/07/2024, 1:44 pm - +92 336 0367246: @13135550002 whata your opinion on this
+28/07/2024, 1:44 pm - Meta AI: I don't have opinions, but I can provide information or insights on a wide range of topics. Please share what you'd like me to discuss, and I'll do my best to provide a helpful response!
+28/07/2024, 1:44 pm - +92 336 0367246: @13135550002 rehny do
+28/07/2024, 1:44 pm - Meta AI: I'm not familiar with the term "rehny do". Could you please provide more context or clarify what you mean? This will help me better understand and provide a more accurate response.
+28/07/2024, 1:45 pm - +92 306 9287947: میں عالم ہوں میں اس کا جواب دہ ہوں قیامت کے دن ۔
+28/07/2024, 1:46 pm - +92 306 9287947: ظلم پہ چپ رہنا بذات خود ظلم ہے
+28/07/2024, 1:50 pm - +92 306 9287947: تم لوگ سود بھی دو، ٹیکسز بھی دو ظلم بھی برداشت کرو تم جانور ہو یا انسان
+28/07/2024, 1:52 pm - +92 307 7789508: ہم*
+28/07/2024, 1:52 pm - +92 306 9287947: میں نہیں کیونکہ میں بجلی کا بل نہیں دیتا
+28/07/2024, 1:59 pm - +92 309 2095756: Tu phir kesy use krty ho bijlii
+28/07/2024, 1:59 pm - +92 306 9287947: کنڈا لگا کر
+28/07/2024, 2:00 pm - +92 309 2095756: Mtlb
+28/07/2024, 2:01 pm - +92 306 9287947: 500 یونٹ ہر ماہ استعمال کرتا ہوں 3 روپے کے حساب سے 1500 بنتا ہے میں 1500 مسجد میں دے دیتا ہوں ہر ماہ
+28/07/2024, 2:02 pm - +92 309 2095756: Yeh kya hota
+28/07/2024, 2:02 pm - +92 306 9287947: یہ آپ آئیں کبھی تو دکھائیں یہ کیا ہوتا ہے
+28/07/2024, 2:03 pm - +92 305 2142860: ye jaiz hy
+28/07/2024, 2:03 pm - +92 306 9287947: ہاں جی
+28/07/2024, 2:03 pm - +92 336 0367246: 😆😆😆
+28/07/2024, 2:04 pm - +92 306 9287947: 2 روپے یونٹ کے 60 روپیہ دینا جائز ہے پھر اس پیسے سے وہ شرابیں پیتے ہیں وہ جائز ہے ؟
+28/07/2024, 2:05 pm - +92 309 2095756: Yeh tu bijli chori hui
+28/07/2024, 2:05 pm - +92 306 9287947: وہ ہمارا جینا مرنا حرام کر چکے ہیں وہ جائز ہے
+28/07/2024, 2:05 pm - +92 306 9287947: نہیں جی اپنا حق لینا ہوا
+28/07/2024, 2:06 pm - +92 300 9480599: Is this discussion relevant to this group, humble request to adopt the group policy
+28/07/2024, 2:07 pm - +92 306 9287947: جس کی جیب اجازت دیتی ہے وہ 100 روپے یونٹ بھی دے سکتا ہے میری جیب 2 روپے اجازت دیتی ہے میں اتنا ہی دے سکتا ہوں
+28/07/2024, 2:07 pm - +92 309 2095756: Kindly ignore if it is not useful for you
+28/07/2024, 2:07 pm - +92 306 9287947: یہ بھی ریلونٹ ہے بھائی زندگی موت کا سوال ہے
+28/07/2024, 2:08 pm - +92 306 9287947: لوگ خود کشیاں کر رہے ہیں قتل ہو رہے ہیں
+28/07/2024, 2:08 pm - +92 309 2095756: Hmein b btao na
+28/07/2024, 2:08 pm - +92 306 9287947: او تو پھر دکھاؤں
+28/07/2024, 2:11 pm - +92 336 0367246: Right place pr right point km ata h yey AI ka group h yha is bt ka faida nh
+28/07/2024, 2:13 pm - +92 306 9287947: Right place liberty chowk h?
+28/07/2024, 3:50 pm - +92 310 4361015: Kya qualification h bhai jan ki?
+28/07/2024, 9:00 pm - +92 306 6785416: <Media omitted>
+28/07/2024, 11:00 pm - +92 328 9460713: <Media omitted>
+28/07/2024, 11:00 pm - +92 328 9460713: <Media omitted>
+28/07/2024, 11:09 pm - +92 323 5114548: 2013
+28/07/2024, 11:09 pm - +92 312 9581399: 2013
+28/07/2024, 11:14 pm - +92 323 5114548: Han na sehal pasandi ny to ab top 10nsy bhi out kr dia ho ga,..
+
+Ye us zamany ki BAAT hy jub bacha bacha phone k pechy nahi pata rehta tha
+28/07/2024, 11:15 pm - +92 306 9287947: 🤣🤣
+28/07/2024, 11:16 pm - +92 306 9287947: میں نے ایک ماہ کے لیے موبائل استعمال نہیں کیا میری پرو ڈکٹیویٹی بڑھ گئی تھی
+28/07/2024, 11:17 pm - +92 307 7789508: <Media omitted>
+28/07/2024, 11:18 pm - +92 306 9287947: موبائل والا وقت اللہ کو دے دیں انشاءاللہ کام آسان ہوتے دیکھیں
+28/07/2024, 11:20 pm - +92 306 9287947: اللہ کے ساتھ جڑ کر اپنے کام پہ فوکس کریں یقین جانیے آپ کی پروڈکیٹیوٹی بڑھ جائے گی اپنی فیلڈ میں
+28/07/2024, 11:21 pm - +92 306 9287947: حضرت ڈاکٹر عبد الحئی عارفی رحمتہ اللہ علیہ پیشہ کے اعتبار سے ہومیوپیتھک معالج تھے اور مطب (کلینک) کرتے تھے۔ 
+جید علماء ان سے بیعت ہوئے، جیسے حضرت مولانا مفتی محمد تقی عثمانی صاحب اور مفتی اعظم پاکستان حضرت مولانا مفتی محمد رفیع عثمانی صاحب، حضرت مولانا محمد یوسف لدھیانوی صاحب وغیرہ، ڈاکٹر صاحب سے بیعت ہوئے۔
+
+مشہور کتاب اسوۂ رسولِ اکرم صلی اللہ علیہ وسلم ڈاکٹر صاحب ہی کی لکھی ہوئی ہے۔
+
+ایک دفعہ حاضرین مجلس سے فرمانے لگے؛
+آپ کہاں لمبے لمبے مراقبے اور وظائف کرو گے۔ میں تمہیں اللہ کے قرب کا مختصر راستہ بتائے دیتا ہوں۔ کچھ دن کر لو پھر دیکھو کیا ہوتا ہے، قرب کی منزلیں کیسے طے ہوتی ہیں:
+
+1 ____  اللہ پاک سے چُپکے چُپکے باتیں کرنے کی عادت ڈالو۔ وہ اس طرح کہ جب بھی کوئی جائز کام کرنے لگو دل میں یہ کہا کرو؛ 
+
+اللہ جی۔۔
+
+(ا) اس کام میں میری مدد فرمائیں۔۔
+(ب) میرے لئے آسان فرما دیں۔۔
+(ج) عافیت کے ساتھ پایہ تکمیل تک پہنچائیں۔۔
+(د) اپنی بارگاہ میں قبول فرما لیں۔۔
+یہ چار مختصر جملے ہیں، مگر دن میں سینکڑوں دفعہ اللہ کی طرف رجوع ہو جائیگا اور یہ ہی مومن کا مطلوب ہے کہ اسکا تعلق ہر وقت اللہ سے قائم رہے۔
+
+2 ____ انسان کو روز مرہ زندگی میں چار حالتوں سے واسطہ پڑتا ہے۔۔
+(ا)۔ طبیعت کے مطابق۔
+(ب)۔ طبیعت کے خلاف۔
+(ج)۔ ماضی کی غلطیاں اور نقصان کی یاد۔
+(د)۔ مستقبل کے خطرات اور اندیشے۔ 
+
+جو معاملہ طبیعت کے مطابق ہو جائے اس پر اللهم لَكَ الحَمدُ ولَكَ الشُّكر کہنے کی عادت ڈالو۔
+جو معاملہ طبیعت کے خلاف ہو جائے تو انا لله وانا اليه راجعون کہو۔
+ماضی کی لغزش یاد آجائے تو فورا استغفراللہ کہو۔
+مستقبل کے خطرات سامنے ہوں تو کہو 
+اللهم اِنّى أعوذ بكَ مِن جَمِيعِ الفِتَنِ ما ظَهَرَ مِنها وما بَطَن۔
+
+شکر سے موجودہ نعمت محفوظ ہو گئی۔ 
+نقصان پر صبر سے اجر محفوظ ہو گیا اور اللہ کی معیت نصیب ہو گی۔۔ 
+استغفار سے ماضی صاف ہو گیا۔۔
+اور اللهم انى أعوذ بك سے مستقبل کی حفاظت ہوگئی۔۔
+
+3 ____ شریعت کے فرائض و واجبات کا علم حاصل کر کے وہ ادا کرتے رہو اور گناہِ کبیرہ سے بچتے رہو۔
+
+4 ____ تھوڑی دیر کوئی بھی مسنون ذکر کر کے اللہ پاک سے یہ درخواست کر لیا کرو؛ 
+اللہ جی۔۔۔ میں آپ کا بننا چاھتا ہوں، مجھے اپنا بنا لیں، اپنی محبت اور معرفت عطا فرما دیں۔
+
+چند دن یہ نسخہ استعمال کرو پھر دیکھو کیا سے کیا ہوتا ہے اور قرب کی منزلیں کیسے تیزی سے طے ہوتی ہیں۔۔!!
+28/07/2024, 11:22 pm - +92 306 9287947: اس بات سے کسی کو اختلاف ہو سکتا ہے مگر یقین جانیے اس کا بہت فایدہ ہو گا آپ کے دنیاوی کاموں میں
+28/07/2024, 11:24 pm - +92 306 9287947: میں نے کمپیوٹر سائنس کے بعد اپنا بہت سا وقت ضائع کیا کچھ سمجھ ہی نہیں آتی تھی آگے کیا کرنا ہے جب سے اس فارمولے پر عمل کیا ہے راستے خود بخود بنتے گئے
+29/07/2024, 1:11 am - +92 346 2764766: Tu ab ap kya krte ho
+29/07/2024, 8:32 am - +92 320 8587480: Ab bijli chori kr rae han...
+29/07/2024, 8:32 am - +92 320 8587480: Ager itne hi aap ache han to solar panels lagwa len takeh na bijli chori krni paray or na bills bharne paren
+
+Bulkeh dosron ko bhi lagwa kr den takeh wo bhi bill na bhren
+29/07/2024, 8:34 am - +92 320 8587480: Bulkeh solar park banain pora.. 2 rupee/unit ke lihaaz se sale kren
+29/07/2024, 8:34 am - +92 320 8587480: Or is fees ko masjid me de dena baad me
+29/07/2024, 8:36 am - +92 309 2095756: Ap Logo ko AI and  no code or low code tools ka future kesa lgta?
+29/07/2024, 8:40 am - +92 306 9287947: Hyee bheeg mangny waly sari zindgi bheeg hi mngna apna haq to cheen ni skty logn se bheeg mngty rehna
+29/07/2024, 8:41 am - +92 320 8587480: Iska future bohot acha ha.. Bulkeh me to soch raha tha keh abhi hamen is tarhan ki websites bohot kam milti han jis se drag and drop kr keh puri website banai ja sake, ager hum kuch log mil kr kisi aise project per kaam kren to ye kaafi powerful project hoga
+29/07/2024, 8:41 am - +92 320 8587480: Han jaise mene solar panels laga kr bheeg mangi ha na .... Kia soraj se mangi ha ya aap se?
+29/07/2024, 8:45 am - +92 320 8587480: No-code ya low code tools abhi bohot kam nazar aate han or kam kaafi starting me ha.. is liye ager aise projects me kaam kiya jae to ye kaafi faiday ki baat hogi... However kam mushkil hoga
+29/07/2024, 8:54 am - +92 309 2095756: Right 👍
+29/07/2024, 9:40 am - +92 307 7789508: Kaam mushkil nhii ha or bht kaam ho chuka ha is field main oor bht kuch ho rha ha,
+29/07/2024, 10:09 am - +92 323 5114548: ye try karen 
+
+https://app.vextapp.com/
+https://flowiseai.com/
+29/07/2024, 10:09 am - +92 323 5114548: ab to code karna mushkil nahi hy zeada zarori hy k hm theory ko aur backend py kiya concepts ahin un ko understand karen
+29/07/2024, 1:20 pm - +92 306 6785416: ❗❗❗
+*Assalamualaikum* 
+*Every one aik request ha*
+*Kindly is page ko report to kr deen plz*
+👇👇👇
+https://www.facebook.com/profile.php?id=100094453076874&mibextid=ZbWKwL
+
+Actually is ke access ab mra pass ni ha 
+Or ya number Jo is page pa ha wo b kahen use ni ho sk ra ab....
+29/07/2024, 4:50 pm - +92 306 9287947: مولوی دین کا ٹھیکیدار نہیں ذمہ دار ہے۔
+@followers@highlight
+آج اچانک خیال آیا کہ مبارک احمد ثانی قادیانی کیس میں پہلے دن سے ابھی تک صرف مولوی، مذہبی جماعتیں ہی کیوں پیچھے لگی ہوئی ہیں؟ 
+
+کیا ختم نبوت وکیلوں کا مسئلہ نہیں؟ ججوں کا مسئلہ نہیں؟ فوج کا مسئلہ نہیں؟ بیوروکریٹس کا مسئلہ نہیں؟ تاجروں کا مسئلہ نہیں؟ استادوں کا مسئلہ نہیں؟ انجینیئروں کا مسئلہ نہیں؟ خلاصہ یہ ہے کہ مولوی کے علاوہ معاشرے کے تمام شعبوں سے تعلق رکھنے والی کسی بھی تنظیم، ادارے نے اس حساس موضوع پر کیا ابھی تک آواز اٹھائی ہے؟ تو سادہ سا جواب ہے کہ نہیں! 
+
+اس کا مطلب یہ ہوا کہ پاکستان میں مولوی ، مذہبی جماعتیں نہ ہوں تو اسلام کے نام پر بنے پاکستان میں اسلام کا تحفظ کرنے والا تو پھر کوئی بھی نہیں ہوگا۔ ہر ایک اپنے کام دھندے میں لگا ہوگا جیسا کہ ابھی لگا ہوا ہے تو پھر تو پاکستان کو سیکیولر کیا شیطانی اسٹیٹ بنانا دو منٹوں کا کام ہوگا۔
+
+حالانکہ سب کا دعوی ہے کہ وہ نبی کریم ﷺ کا امتی ہے ، اسے قیامت میں ان کی شفاعت بھی چاہئے تو ختم نبوت کے مسئلہ کے لئے وہ اپنا حصہ کیوں نہیں ڈال پایا؟ 
+
+اب سمجھ آئی کہ ٹارگیٹڈ ہر ایک کے منہ سے کیوں یہ بات نکلوائی جاتی ہے کہ اس ملک میں انتشار کی بنیاد مولوی ہے؟ عوام کو دین معلوم ہی نہیں تو تحفظ دین کی امید ہی نہیں رکھی جاسکتی البتہ جو دین کا تحفظ کرسکتا ہے اسے عوام میں بدنام کرو، عوام کو مولوی سے بدظن کرو تاکہ بھانے بھانے سے آئین پاکستان سے ایک ایک اسلامی شق کو متنازع بناکر مفاد عامہ کے نام پر نکالا جاسکے اور گریڈ گیم کے منصوبہ کے تحت اس ملک کو سیکولر اسٹیٹ بنایا جاسکے جو ان شاء اللہ کبھی کامیاب نہیں ہونے والا۔
+
+اپنے علماء کی قدر کریں۔ یہ ہم ہی میں سے ہیں لہذا ان کے عیوب اور صفات ہمارے ہی جیسی ہیں البتہ یہ واحد جماعت ہے ہمارے معاشرے کی جو دین کی حفاظت کے لئے ہر قسم کی قربانیاں دیتی آئی ہے، دے رہی ہے اور دیتی رہے گی تاکہ ہماری نسلیں مسلمان ہی رہیں۔
+29/07/2024, 4:55 pm - +92 310 4361015: Bhai ap khud hi image khrab kr rhy ho
+Khud hi btaya ap alim ho
+Phir kehty ho mn zbrdsti apna haq lyta hn wo bhi rayast ki bijli chori kr k🤧
+29/07/2024, 4:56 pm - +92 310 4361015: Hamary jesy anprh log kya kryn
+29/07/2024, 4:56 pm - +92 306 9287947: کونسی ریاست
+29/07/2024, 4:56 pm - +92 310 4361015: Jisy ap manty nhin ho
+Ryast ryast hi hoti h chahy jesi bhi ho
+29/07/2024, 4:57 pm - +92 306 9287947: جہاں حقوق چھننے پڑیں جہاں ظلم و بربریت کا بازار ہو جہاں حکماء شرابی،زانی ہوں
+29/07/2024, 4:58 pm - +92 310 4361015: I'd card bna h?
+29/07/2024, 4:58 pm - +92 306 6785416: بات درست ہے ہر شخص ذمہ دار ہے لیکن کیا ہماری زمہ داری صرف یہیں تک کہ بس ہم نکلیں اور آواز بلند کریں۔۔۔۔۔
+ہم کبھی اس طرف کیوں نہیں آتے کہ یہ سب ہوتا کیوں ہے۔۔۔۔؟
+29/07/2024, 4:59 pm - +92 306 9287947: ہم نے نکلنا ہی نہیں ہم نے بس ظلم برداشت کرنا ہے
+29/07/2024, 4:59 pm - +92 307 7789508: بھائی جان، ، ہر کوئی اپنے حصے کی شمع جلائے اور اردگرد کے ماحول کو صاف رکھے۔
+29/07/2024, 4:59 pm - +92 306 9287947: ہمیں ظلم برداشت کرنے کی عادت ہو گئی ہے
+29/07/2024, 5:00 pm - +92 307 7789508: Mazrat k sath, ye group Ai k related ha, so plz irrelevant talk na ki jaye to bhter ha,
+29/07/2024, 5:00 pm - +92 306 6785416: Bhi har state k apna rules and regulations heen
+Kbhe niklen to si Pakistan sa bahir....
+Aglay ura k rakh detay heen
+29/07/2024, 5:00 pm - +92 306 9287947: جب گھر کا سربراہ ہی آپ کی جان کا آپ کے ایمان کا دشمن ہو تب؟
+29/07/2024, 5:01 pm - +92 336 0367246: Admin @923129581399 @923260927271
+29/07/2024, 5:01 pm - +92 310 4361015: Payar bhai I'd card bna h kya?
+Jawab to do
+29/07/2024, 5:06 pm - +92 326 0927271: Everybody should talk about only AI and keep their talking related to topic last warning as already Muddasar bahi already give you a warning this is last chance. Otherwise I will remove to you
+29/07/2024, 5:12 pm - +92 328 9460713: null
+29/07/2024, 5:19 pm - +92 307 7789508: Bhai mary, is group ko siysat or dosrii irrelevant posting sy گریز کریں ،
+Everybody knows what is happening in the country,  
+If you really want to change the system, then we must have education and creative ideas for empowering youth,
+29/07/2024, 5:23 pm - +92 307 7789508: Subha is bhai ny bht acha idea dya lkn hm main seekhny ka janoon hi nhi ha, 
+Agr hamin is technology main agy barhna ha to seekhna seekho,
+29/07/2024, 5:51 pm - +92 310 4361015: Bhai unko mention kr k warning do jo roz nai khani shuru kr dyty hain
+29/07/2024, 5:53 pm - +92 326 0927271: ainda jo b new khani share kre ga use group se use time remove kr dea jae ga. this is rule
+29/07/2024, 5:54 pm - +92 326 0927271: agr AI se relvant na b ho to kam ki chiz ho. na k politics etc
+29/07/2024, 5:54 pm - +92 310 4361015: Good ispy forn implement bhi krna
+29/07/2024, 5:55 pm - +92 326 0927271: In Sha Allah
+29/07/2024, 9:56 pm - +92 323 8862333: null
+30/07/2024, 12:16 am - +92 309 2095756: AI lead generation agency Kya hoti h?
+30/07/2024, 3:05 am - +92 314 1721775: <Media omitted>
+30/07/2024, 10:27 am - +92 321 3605311: Assalam o alikum 
+Koi asi website ya trick k without IDM hum video download kr skyn 
+Please suggest me?
+30/07/2024, 10:33 am - +92 304 6510483: Save from.net pe link paste kr ke Kar Lyn download
+30/07/2024, 10:34 am - +92 321 3605311: Ok I will try
+30/07/2024, 11:44 am - +92 312 3478519: This message was deleted
+30/07/2024, 11:44 am - +92 312 3478519: This message was deleted
+30/07/2024, 7:36 pm - +92 326 0927271: <Media omitted>
+31/07/2024, 10:02 am - +92 323 8862333: null
+31/07/2024, 5:06 pm - +92 336 0367246: 25 Years of Journey of Zia Khan and the Team
+
+https://youtu.be/rNkiBX6omrs 
+
+
+
+Zia Khan Profile:
+
+https://www.linkedin.com/in/ziaukhan/
+
+
+
+Current Syllabus:
+
+Certified Cloud Native Applied Generative AI Engineer
+
+Master the Future: Getting You Ready For The $100 Trillion AI Industrial Revolution
+
+https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing
+31/07/2024, 5:09 pm - +92 326 0927271: @923238862333 last warning
+31/07/2024, 5:09 pm - +92 323 8862333: This message was deleted
+02/08/2024, 12:52 pm - +92 321 3605311: null
+02/08/2024, 1:29 pm - +92 327 6110594: Click on the course icon
+02/08/2024, 1:32 pm - +92 334 7636590: This message was deleted
+02/08/2024, 1:34 pm - +92 307 7789508: Course ki duration main hi download hota ha after that nhii
+02/08/2024, 1:35 pm - +92 327 6110594: Nahi deekh saktay hain or YouTube par download bhi kr saktay
+02/08/2024, 1:36 pm - +92 307 7789508: Videos ki baat nhi karrha dear
+02/08/2024, 2:36 pm - +92 336 0367246: Agr admissions Wala month hga js m students enrol krty h tou videos show nh hngi apki na just books or exercise material show hga lkn agr training k 3 months wala time period hga tou apko videos show hojygi old course k section m.
+02/08/2024, 11:47 pm - +92 315 4292972: Urgent need After affect video editor, contract base work, plz text me
+03/08/2024, 7:39 am - +92 326 0927271: Yes
+03/08/2024, 10:14 am - +92 300 8760724: https://www.linkedin.com/posts/ahmed-islam01_are-you-inspired-by-any-leader-and-want-to-activity-7225352506321604608-t3QI
+
+
+DO LIKE COMMENT AND REPOST😊
+03/08/2024, 3:15 pm - +92 334 9417243: <Media omitted>
+03/08/2024, 3:17 pm - +92 312 9581399: Free main aaj kal API nahin milti. You need to purchase it
+03/08/2024, 3:18 pm - +92 334 9417243: How?
+03/08/2024, 3:19 pm - +92 312 9581399: OpenAI ki website pr pricing check krain, boht sary models hain. I think at least 5$ ka credit aapky account main hona chahiye API use krny k lye
+03/08/2024, 3:20 pm - +92 334 9417243: Acha sahi hain. Thank you
+03/08/2024, 3:25 pm - +92 310 4361015: Mn kuch din pehly use ki🙄
+03/08/2024, 3:26 pm - +92 312 9581399: You're lucky then
+03/08/2024, 3:27 pm - +92 310 4361015: It's algorithms.
+Ismy luck kahan sy a gai😒
+03/08/2024, 3:27 pm - +92 310 4361015: Yr new create kro new nmb use kro
+03/08/2024, 3:28 pm - +92 312 9581399: Boht students ne try kiya hy, new account aur number se bhi yahi error aata hy. Ksi ksi ko free mil jaye to phir qismat 😄
+03/08/2024, 3:29 pm - +92 336 0367246: <Media omitted>
+03/08/2024, 3:30 pm - +92 310 4361015: Acha mn again try krta
+03/08/2024, 3:32 pm - +92 334 9417243: Try kary agher create ho jaye phir batao please
+03/08/2024, 3:57 pm - +92 310 4361015: Okay
+03/08/2024, 10:26 pm - +92 336 0367246: AI, data sciences, and ML experts are in high demand worldwide. We need to focus on emerging/trending technologies.
+
+Mr.Zafar is looking for talented people from Pakistan. If interested, fill in the form in video link below. 
+
+This could be your life-changing moment.
+
+https://youtu.be/lM_fksNcrS8?si=89_bnZQVCU7sq4yM
+03/08/2024, 10:26 pm - +92 336 0367246: Apply
+03/08/2024, 10:52 pm - +92 336 2710451: <Media omitted>
+03/08/2024, 10:55 pm - +92 332 2080596: Congratulations 👏
+03/08/2024, 11:54 pm - +92 307 7789508: <Media omitted>
+04/08/2024, 12:40 am - +92 332 2080596: Congratulations 👏🎉
+04/08/2024, 7:48 am - +92 342 1822526: Congratulations.
+04/08/2024, 9:50 am - +92 300 6372500: <Media omitted>
+04/08/2024, 11:45 am - +92 321 2226008: Aoa
+04/08/2024, 11:46 am - +92 300 6372500: Dear Participants,
+Thankyou participants! We have received an enormous amount of response for attending Demo Session Online, due to which we had to shift from Zoom to Youtube Live where each of you can attend the session directly and share your queries via live chat on youtube.
+
+Please use the following Link to access demo session
+*Date: Sunday 04 August 2024*
+*Time: 12 Noon*
+*Link: https://www.youtube.com/live/0G8DFkOaW38*
+
+Regards,
+Team AIN GenX
+04/08/2024, 11:47 am - +92 321 2226008: agr Snapchat or WhatsApp  account hack ho Jay... password share Kia Tha glti c... to kya koi tarika h hack hony c bcanhy ka
+04/08/2024, 11:47 am - +92 321 2226008: mtlb koi data na ly os c
+04/08/2024, 11:47 am - +92 321 2226008: plz agr kisi ko pta h to bta dyn kindly
+04/08/2024, 11:49 am - +92 307 7789508: Agr email/number apka apna ha to password chang karlain,
+06/08/2024, 2:22 pm - +92 346 2764766: Kci k pass python k question with solutions wali pdf hae tu send kr dein
+07/08/2024, 10:07 am - +92 317 9661942: Assalamualaikum
+07/08/2024, 10:07 am - +92 343 6411185: null
+07/08/2024, 5:55 pm - +92 324 3909940: null
+07/08/2024, 6:22 pm - +92 312 3478519: This message was deleted
+07/08/2024, 8:55 pm - +92 300 4974756: Is group main koi bhai Faisalabad say hai
+07/08/2024, 8:56 pm - +92 300 4974756: Kuch help chaheye
+07/08/2024, 9:52 pm - +92 324 3909940: null
+08/08/2024, 11:58 am - +92 300 8760724: https://www.linkedin.com/posts/ahmed-islam01_deeplearning-ai-contentmoderation-activity-7227205316705230849-whsz
+
+Do engage and share your thoughts
+
+Do comment.
+08/08/2024, 2:53 pm - +92 300 8760724: <Media omitted>
+08/08/2024, 4:22 pm - +92 306 6785416: New course for beginners from *Andrew NG* who's the father of *Artificial intelligence*
+👇👇👇
+https://www.facebook.com/share/v/tbvrCpz81ZszGupL/?mibextid=qi2Omg
+
+❗ *it's free of cost not paid*
+
+*Link for enrolment*
+👇👇👇
+https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+08/08/2024, 5:54 pm - +92 326 0927271: LinkedIn premium Available for 2 months in just 3000/- pkr
+08/08/2024, 6:23 pm - +92 307 7789508: What are the benefits of premium account 🤔
+08/08/2024, 6:24 pm - +92 326 0927271: Multiple searches.
+Free courses
+Profile suggestions 
+Many more
+08/08/2024, 6:24 pm - +92 326 0927271: Job search filters etc
+08/08/2024, 6:25 pm - +92 336 0367246: Kuch lg premium free m dety h wha s nh liay hm n😅
+08/08/2024, 6:26 pm - +92 336 0367246: Growing businesses of LinkedIn chahy apka barhey ya nh wesy bnda professional lgta h or kafi course or events miljaty h
+08/08/2024, 6:27 pm - +92 326 0927271: Yeah
+11/08/2024, 9:08 pm - +92 336 0367246: <Media omitted>
+11/08/2024, 9:08 pm - +92 336 0367246: <Media omitted>
+11/08/2024, 9:08 pm - +92 336 0367246: Done ✅ sb krrhy teh tou mein ney beh krdae😄@923077789508 🙃😎
+11/08/2024, 9:14 pm - +92 341 0113675: Please share course link and requirements
+11/08/2024, 9:18 pm - +92 328 9460713: <Media omitted>
+11/08/2024, 9:18 pm - +92 328 9460713: Brother I'm sorry, because now you can't enroll for it.
+11/08/2024, 9:23 pm - +92 307 7789508: <Media omitted>
+11/08/2024, 9:31 pm - +92 326 0927271: Ma Sha Allah
+11/08/2024, 11:06 pm - +92 336 0367246: https://pafla.org.pk/dashboard/get-certified/10 certification ka link h yey krlein bd m prh lejiyyga 4 hi videos h lkn achi h kafi
+11/08/2024, 11:40 pm - +92 328 9460713: If you need videos then I'll provide you
+12/08/2024, 12:09 am - +92 304 6510483: Es KY course ma joing Kase kr sakty
+12/08/2024, 12:21 am - +92 328 9460713: Ab nahi kar sakty
+12/08/2024, 12:30 am - +92 332 2080596: How to take this course
+12/08/2024, 12:31 am - +92 328 9460713: Now you can't take this course
+12/08/2024, 12:32 am - +92 328 9460713: Time is out
+12/08/2024, 6:56 am - +92 341 0113675: Thanks brother,
+12/08/2024, 6:56 am - +92 341 0113675: Yes, please share videos
+12/08/2024, 9:09 am - +92 304 6510483: Again nai start hona
+12/08/2024, 9:16 am - +92 324 0849609: Provide
+12/08/2024, 11:57 am - +92 328 9460713: I don't know
+12/08/2024, 11:58 am - +92 328 9460713: Please give me some time I'll provide you
+13/08/2024, 11:47 am - +92 302 1104820: <Media omitted>
+13/08/2024, 11:47 am - +92 302 1104820: Soft copy*
+13/08/2024, 11:57 am - +92 309 2095756: Mere paas ni h
+13/08/2024, 12:03 pm - +92 302 1104820: Anyone else please 🙏
+13/08/2024, 12:47 pm - +92 331 4484468: <Media omitted>
+13/08/2024, 12:47 pm - +92 331 4484468: 👆🏻
+13/08/2024, 12:49 pm - +92 321 3605311: Book ka name written form mn send kren my b mry ps ho
+Abhi to mry ps net stable nhi book k name ka pta nhi chl reha 
+
+Internet 🤦‍♀️🤦‍♀️🤦‍♀️
+13/08/2024, 1:15 pm - +92 302 1104820: Thank you soo much 😊
+13/08/2024, 7:53 pm - +92 327 7179560: 🔹 500 TB Tutorials + Books + Courses + Trainings + Workshops + Educational Resources 💻
+
+🟡Data science
+🟡Python
+🟡Artificial Intelligence 
+🟡AWS Certified 
+🟡Cloud
+🟡BIG DATA
+🟡Data Analytics
+🟡BI
+🟡Google Cloud Platform
+🟡IT Training
+🟡MBA
+🟡Machine Learning
+🟡Deep Learning
+🟡Ethical Hacking
+🟡SPSS
+🟡Statistics
+🟡Data Base
+🟡Learning language resources ( English🌍 , French🇫🇷 , German🇩🇪 )
+
+🐱 Download link:
+https://drive.google.com/drive/mobile/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD
+13/08/2024, 8:16 pm - +92 328 9460713: We don't want PayPal now!
+
+We want Internet in Pakistan. 😅
+13/08/2024, 8:53 pm - +92 307 7789508: Internet provider for Sale🤣
+13/08/2024, 8:55 pm - +92 307 7789508: <Media omitted>
+13/08/2024, 10:00 pm - +92 342 1485637: <Media omitted>
+13/08/2024, 10:00 pm - +92 342 1485637: Ye book ke pdf kese hy pass plz snd krdy
+13/08/2024, 10:01 pm - +92 307 7789508: <Media omitted>
+13/08/2024, 10:02 pm - +92 342 1485637: Thank you so much.
+13/08/2024, 10:32 pm - +92 328 9460713: I'm sorry because I was forget to share link with you
+13/08/2024, 10:36 pm - +92 328 9460713: This message was deleted
+13/08/2024, 10:38 pm - +92 328 9460713: Anyone who want to learn about
+Time Management
+Professional Communication
+Networking
+Professional Branding
+Interview Communication
+Critical Thinking
+Problem Solving
+You can visit this link and watch videos that provided by PAFLA
+https://drive.google.com/drive/u/0/folders/1Y2TNFhdYcBzKA42wOI2w1J3NrFrKqYz1
+13/08/2024, 11:19 pm - +92 332 2080596: Can any one send group link
+14/08/2024, 3:11 am - +92 321 3605311: Check group description, there's present group link
+14/08/2024, 8:53 am - +92 307 7789508: <Media omitted>
+14/08/2024, 4:48 pm - +92 326 0927271: any one in UAE?
+14/08/2024, 4:50 pm - +92 307 7789508: Yes, mra dost ha
+14/08/2024, 6:33 pm - +92 348 7906778: Content writing ki achi site link hai to kindly send
+14/08/2024, 9:18 pm - +92 328 9460713: <Media omitted>
+15/08/2024, 1:54 pm - +92 336 0367246: null
+15/08/2024, 1:57 pm - +92 326 0927271: don't do that
+15/08/2024, 1:57 pm - +92 326 0927271: because is se ap k mobile b hack kia ja sakta ha
+15/08/2024, 3:29 pm - +92 310 4361015: Wo kesy?😲
+15/08/2024, 3:30 pm - +92 326 0927271: App kis ki ha??
+Kon responsible ha is se ap k mobile ki Jo permission li jae gi. Like gallery 
+Phone book
+Voice 
+Camera 
+Sub k responsible Kon ha woh apko deakhe ge ni
+15/08/2024, 3:31 pm - +92 310 4361015: Aesi apps kbsy ya sari permissions lyny lag gai hain bhai👀
+15/08/2024, 3:32 pm - +92 326 0927271: app install kr k deakh le. install hona k bad foran woh permession manga gi
+15/08/2024, 3:33 pm - +92 326 0927271: kbi agr vpn install kia ho agr to woh permesiion q mangta ha. kbi ap ne koi calcolar install kia ho use gallry ki permesion q chye. kbi ap app locker install kre use gallry ki permesion q chye. numbers k sath us k kia kam ha
+15/08/2024, 3:34 pm - +92 336 0367246: Bhai mry yey permission hr app mangti h
+15/08/2024, 3:35 pm - +92 310 4361015: Payary bhai cloudflare ki app h😊
+100M+ downloads
+1M+ reviews 
+There's no such thing as app permissions.
+Just 2 to 3 permissions are required
+15/08/2024, 3:35 pm - +92 310 4361015: <Media omitted>
+15/08/2024, 3:35 pm - +92 310 4361015: Exactly
+15/08/2024, 3:36 pm - +92 305 2142860: **1.1.1.1** is a public DNS resolver provided by Cloudflare in partnership with APNIC. Here are some key points about it:
+
+### What is 1.1.1.1?
+- **DNS Resolver**: It translates domain names (like example.com) into IP addresses (like 192.0.2.1), which are necessary for browsers to load Internet resources³.
+- **Speed and Privacy**: 1.1.1.1 is known for its speed and privacy. It aims to make DNS queries faster and more secure³.
+- **WARP**: Cloudflare also offers a service called WARP, which enhances privacy and security by encrypting more of the traffic leaving your device¹.
+
+### Benefits:
+- **Faster Internet**: By using 1.1.1.1, you can potentially experience faster internet speeds due to its efficient DNS resolution¹.
+- **Enhanced Privacy**: It prevents your Internet Service Provider (ISP) from seeing which websites you visit, enhancing your online privacy¹.
+
+### How to Use:
+- **On Windows**: You can configure your DNS settings to use 1.1.1.1 by following the instructions on the [Cloudflare website](https://one.one.one.one/).
+- **Mobile App**: There is also a mobile app available for both Android and iOS that makes it easy to use 1.1.1.1 on your phone².
+
+If you have any more questions or need further assistance, feel free to ask! 😊
+
+¹: [Cloudflare 1.1.1.1](https://one.one.one.one/)
+²: [Google Play Store](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en_US)
+³: [Cloudflare Learning](https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/)
+
+Source: Conversation with Copilot, 8/15/2024
+(1) What is 1.1.1.1? | Cloudflare. https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/.
+(2) 1.1.1.1 — The free app that makes your Internet faster.. https://one.one.one.one/.
+(3) 1.1.1.1 + WARP: Safer Internet - Apps on Google Play. https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en_US.
+(4) Overview | Cloudflare 1.1.1.1 docs. https://developers.cloudflare.com/1.1.1.1/.
+(5) 1.1.1.1 - Wikipedia. https://en.wikipedia.org/wiki/1.1.1.1.
+(6) undefined. https://developers.cloudflare.com/warp-client/.
+15/08/2024, 3:37 pm - +92 310 4361015: Yes that's what I'm talking about.
+It's the official app of cloudflare.
+15/08/2024, 3:37 pm - +92 326 0927271: bahi ap use kr le. ma to ni kr sakta qk mana in apps ki wja se ak banda ko khodkhoshi krta deakha because of vpn
+15/08/2024, 3:38 pm - +92 326 0927271: if its official that's fine othersise koi b unknow app download na kre
+15/08/2024, 3:38 pm - +92 310 4361015: Bhai theek h agreed
+Lekin ap km az km pehly tasdeeq to krlo na mn bs ya keh rha😊
+15/08/2024, 3:38 pm - +92 326 0927271: koi b calcolater. app locaker. gallery, file manager ya koch b. bina tehkeek k download na kre. or playstore k ilawa to bilkul b khi se download na kre
+15/08/2024, 3:39 pm - +92 326 0927271: jis chiz ki zaarorat ho woh app b bina tasali k download na kro. mobile phone aj k dor ma har insan k acha bura sub cheze is k andr ham ne save ki hote ha. jub ya kisi k hand lag jati to yahi hmara lea issue ban jata ha
+15/08/2024, 5:12 pm - +92 305 2142860: point 👈
+15/08/2024, 5:19 pm - +92 307 7789508: Good @923260927271  ,
+Cyber security ki awareness honi chaye, Ai k sath cyber security best combination ha, 👌
+15/08/2024, 5:20 pm - +92 336 0367246: Pakistan m kya krna h in sbka
+15/08/2024, 5:20 pm - +92 307 7789508: Pakistan k lye hii seekh lo
+15/08/2024, 5:21 pm - +92 336 0367246: Rhny dey mazdori sekhni chahea pkstn m rhny k loyy
+15/08/2024, 5:22 pm - +92 307 7789508: Hn to digital mazdoor banain na, Cyber security ki field main bht kaam ha freelancing main
+15/08/2024, 5:23 pm - +92 326 0927271: Agreed
+15/08/2024, 5:23 pm - +92 326 0927271: Ak seccion rakhta ha
+15/08/2024, 5:24 pm - +92 326 0927271: Muddasar bahi bat wohi aa jati. Ya log apna lea to Koch b kr sakta ha. Magr apna mulk apni qom apna logo k lea Koch ni kr sakta
+15/08/2024, 5:26 pm - +92 336 0367246: U ve 2g so Fiverr has banned ur account and next bari Upwork ki h
+15/08/2024, 5:27 pm - +92 336 0367246: Sahi bt b krna b nh chah rhy
+15/08/2024, 5:28 pm - +92 336 0367246: Na pkstan m rhny k paisy h na jany k apny liyy khak krygey bchy kuch
+15/08/2024, 5:28 pm - +92 307 7789508: Hn to achii baat ha, Work chest use karin, or bhii bht platforms hn,
+15/08/2024, 5:28 pm - +92 307 7789508: Kidney for sale🤣
+15/08/2024, 5:30 pm - +92 346 2764766: Enka aik hi vision he apni legacy kaim rhe qom bhaar me jae 
+Jo awaz uthae usko ghadar watan declare kr k utha lo bus
+Or phr kehte hae nojwan nafrat krte hae
+15/08/2024, 5:30 pm - +92 307 7789508: Bahnay na bnain, laptop or net ha to sahii oor kiya chaye
+15/08/2024, 5:31 pm - +92 307 7789508: Mary Bhai, hum apny comfort zone sy niklain gy to Nafrat bhi karain gy
+15/08/2024, 5:31 pm - +92 336 0367246: Can't afford i ve also brain for sale but attention brain has fried aftrr living in these situations
+15/08/2024, 5:32 pm - +92 336 0367246: Yey bt agr ap unko khy jn becharon k account unavailable hgy h wo btygey net h ya nh
+15/08/2024, 5:34 pm - +92 307 7789508: Bhna, ye to kuch din hoye masla aye hoyee, 
+Solution ksi k pas ha kiya is problem ka, ya sirf gov ko hi kosna ha
+15/08/2024, 5:36 pm - +92 336 0367246: Sir irfan s khy yey
+15/08/2024, 5:36 pm - +92 336 0367246: Nh net ka msla hi rehta h
+15/08/2024, 5:41 pm - +92 331 4484468: I need advice, kia web development or data science main kuch common hai or kia ye dono skills mutually beneficial hain?. I mean k jo log dono field learn krty hain kia wo thk hai ya just data science pr hi focus rakhna chahye? Please explain with reason, thanks.
+15/08/2024, 5:47 pm - +92 326 0927271: Skill seakh k khud ko best kr lo.
+15/08/2024, 5:47 pm - +92 326 0927271: Good
+15/08/2024, 5:47 pm - +92 326 0927271: Good mashrwa
+15/08/2024, 5:48 pm - +92 326 0927271: Ha g
+15/08/2024, 5:48 pm - +92 326 0927271: Facebook or Whatsapp ni chal rha. Ap use na kre
+15/08/2024, 5:48 pm - +92 326 0927271: Bilkul
+15/08/2024, 5:50 pm - +92 326 0927271: VPN use na krte. Jub Fiverr ne khud kha hoa ha
+15/08/2024, 5:51 pm - +92 326 0927271: Kisi ak skill k chete bn jae. Do berio me sawar hamesha girte ha. Na idr k rhe ge na udr k
+15/08/2024, 6:03 pm - +92 307 7789508: Assalam o Alikum, 
+Web development and data science share some skills but are different fields. Both can be beneficial to learn, but focusing on one or the other depends on your interests and career goals. If you enjoy both, combining them can be advantageous.
+15/08/2024, 6:05 pm - +92 305 2142860: AI engineering
+15/08/2024, 6:06 pm - +92 307 7789508: Ab ye kiya ha Sir g
+15/08/2024, 6:08 pm - +92 305 2142860: https://www.youtube.com/watch?v=zghjRYt8bcM
+15/08/2024, 6:08 pm - +92 309 2095756: Cyber security Mei graduation koi kr rha idr?
+15/08/2024, 6:10 pm - +92 307 7789508: Yes
+15/08/2024, 6:34 pm - +92 309 2095756: Is mei Kon Kon sy subject hoty hain
+15/08/2024, 6:34 pm - +92 305 2142860: btao bhai
+15/08/2024, 7:58 pm - +92 307 7789508: Cissp
+GRC
+Network security 
+Cryptography 
+Ethical hacking 
+Operating system security 
+Database security 
+Cloud security
+15/08/2024, 8:02 pm - +92 305 2142860: bhaiya siem , soc?
+15/08/2024, 8:12 pm - +92 307 7789508: <Media omitted>
+15/08/2024, 8:13 pm - +92 305 2142860: Oh, you know, because you totally know everything, right?
+15/08/2024, 8:15 pm - +92 307 7789508: Don't know, brother. 
+I'm learning 😌
+15/08/2024, 8:15 pm - +92 305 2142860: good bhaiya
+15/08/2024, 10:10 pm - +92 306 6785416: <Media omitted>
+16/08/2024, 12:13 am - +92 326 0927271: Anyone using LinkedIn recruiter lite plan
+16/08/2024, 8:36 am - +92 336 2710451: https://youtube.com/shorts/Mveg-C3SvpA?si=JI2JMDeNHuPPA5WP
+16/08/2024, 12:44 pm - +92 336 0367246: " *AI Apps"* 
+
+ چونکہ (آرٹیفیشل انٹیلیجنس) AI ہر جگہ متعارف ہوچکی ہے تو اس کے بھی مختلف ٹولز ہیں مختلف Apps ہیں جو ہماری درکار ضروریات کو پورا کرنے میں ہماری مدد کرتے ہیں.
+ان میں اکثر فری Apps ہیں جبکہ چند Premium ہیں یعنی جن کے استعمال کرنے کے واسطے ہم انھیں ادائیگی کے پابند ہیں تاہم ان کا Trial period چند دن ملتا جو مفت ہوتا ہے.
+
+ *کچھ کا ذکر ذیل میں ہے* .
+
+
+1- Chat GPT
+
+سوالات کے جواب جاننے, معلومات لینے,مسائل کا حل پوچھنے, علمی میدان میں مدد کے لیے الغرض بہت کام لیا جاسکتا ہے, اس سے Siri کی طرح بات بھی کی جاسکتی ہے اور کمپیوٹر میں بھی اسی طور یہ کام کرتی ہے.
+2-Elsa Speak
+یہ واضح طور پہ کمزور انگریزی کے حامل افراد کی انگریزی اور اس کا تلفظ درست کرنے کے لیے مددگار ہے.
+3-Microsoft Math
+اس میں ہم ریاضی کے سوالات کا حل جان سکتے ہیں, ہم سوال type بھی کر سکتے ہیں اور صفحے پہ لکھے گئے سوال کی تصویر بنا کر بھی اس کا حل جان سکتے ہیں.
+4-Microsoft swift key
+ہمارے text کو کسی بھی زبان میں ترجمہ کرنے کے لیے یہ مددگار ہے یہ ہماری آواز کو بھی کسی مطلوبہ زبان میں translate کرنے کی اہلیت رکھتی ہے.
+5-Pi 6
+اسے ایک Therapy focused کہہ سکتے ہیں جیسے اگر آپ کو فون کی Battery life کے مسئلے کا سامنا ہے تو یہ آپکو ایسی سیٹنگ تجویز کرے گی جو بہت مفید ثابت ہوگی, اچھا مواد چاہتے ہیں تو یہ آپ کو تازہ ترین خبروں اور کھیلوں سے متعلق آگاہی بھی دے گی.
+6-Perplexity
+یہ آپ کو معلومات دینے کے ساتھ اس کا حوالہ بھی دیتی ہے کہ کن ذرائع سے یہ معلومات حاصل شدہ ہیں لیکن یہ pdf کا حوالہ دینے سے قاصر ہے.
+7-Dolby On
+ تصاویر,ویڈیوز کے Back ground ہٹانے کے لیے, آواز ریکارڈ اور آواز کے پیچھے شور ختم کرنے کے لیے یہ فائدہ مند ہے.
+8-CapCut
+اگر آپ ایک ٹک ٹاکر ہیں یا ویڈیوز, شارٹس یا ریلز بناتے ہیں تو یہ ایک بہترین ایڈیٹر ہے.
+9- Dopepics
+پرانی تصاویر کو صاف بنانے یا دھندلی تصاویر کو واضح کرنے کے لیے یہ مستعمل ہے.
+10-Photo leap
+تصاویر یا گرافکس ڈیزائن کرنے کے لیے, فوٹو skyland میں تبدیلی کیلئے, یا کسی اور شے جیسے پیزا کی شکل میں تصویر ڈھالنے کے لیے یہ مفید ہے, اس میں پہلے سے Prompts بھی موجود ہوتے ہیں.
+11-Motion leap
+کسی منظر سے کچھ ہٹانے کے لیے, فوٹو کو متحرک بنانے کے لیے, بارش کا اضافہ, برفباری, اضافی روشنی, متحرک تتلی یا کوئی متحرک پرندہ , یہ سب اس سے ممکن ہے.
+12-Photo Room
+اگر آپ پروفیشنل تصاویر بنانا چاہتے ہیں تو یہ بہترین ایپ ہے اس میں کسی بھی شے کی فوٹو بنا کے اسکا Back ground ہٹا کے کچھ بھی خوبصورت اضافہ کیا جا سکتا ہے.
+13-Design Sense
+کرنا یہ ہے ایک عدد اپنے کمرے کی مکمل تصویر لیں اور یہ آپ کو بتا دے گا کہ کس جگہ کونسا فرنیچر یا Interior موزوں ہے اور فی الحال آپ کتنے غریب ہیں.
+14- Clip Drop
+تصویر میں کسی بھی رنگ کی روشنی کا اضافہ, کسی ناپسندیدہ شے کو ہٹایا جا سکتا ہے اس کی بدولت کسی image کا Water mark بھی ہٹا سکتے ہیں.
+15-Starry AI
+Magic canvas, Classy image, کسی فوٹو پہ کچھ تحریر کرنا ہو تو یہ بہت مفید ہے, یہ تصاویر کی Continuous sequence 
+میں ویڈیو بنانے میں بھی معاون ہے.
+16/08/2024, 2:42 pm - +92 344 5881772: https://chat.whatsapp.com/HeQhm0aSZ6o56S4iu4jQNb
+
+Join Only  *Serious And Postive*
+Youth of Pakistan 
+*School, College,University Students + Teachers*
+*SDG's Cybersecurity AI Technology Block chain PISA*
+
+Note 
+*Stay Away Negative People's*
+
+Regards 
+*Digital Pakistan* *Digital Senator* *Digital Ummah*
+*Digital Punjab Islamabad Sindh KPK Balochistan Gilgit Baltistan*
+
+Sadam Hussain *Digital Coach*
+17/08/2024, 7:21 am - +92 334 9417243: This message was deleted
+17/08/2024, 6:27 pm - +92 324 3909940: null
+18/08/2024, 11:13 am - +92 344 0544757: Bro add me
+18/08/2024, 9:49 pm - +92 309 2095756: What do you guys think of entrepreneurship opportunities in AI , Web design, cyber security and web development?
+18/08/2024, 10:10 pm - +92 306 6785416: Jither Ai implement ho ge uther cyber security to khud e a Jane...
+Kau k without Cyber security and block chain Ai implementation difficult process ha 
+Or ideas bht sa niklata heen jb ap field ko depply study krta heen
+18/08/2024, 10:46 pm - +92 307 7789508: Brother, 
+Ai or cyber security main app  consultancy dy sagty hn, tools bna sagty hn or Ai powerd solutions or Ai powered platform provide kar sagtyy hn..
+Or web design or development main bhii same hi oor is main specialized design or development dy sagty hn
+19/08/2024, 10:18 am - +92 344 5881772: Click on link
+19/08/2024, 10:18 am - +92 322 5305720: Aoa!
+Agr kisi ke pas The power of subconscious mind by dr Joseph ki pdf urdu me hai tou send kr dein
+19/08/2024, 10:19 am - +92 344 5881772: <Media omitted>
+19/08/2024, 10:24 am - +92 344 5881772: <Media omitted>
+19/08/2024, 12:25 pm - +92 307 7789508: <Media omitted>
+19/08/2024, 12:25 pm - +92 305 2142860: gazab <This message was edited>
+19/08/2024, 12:27 pm - +92 309 2095756: B2B mtlb
+19/08/2024, 12:32 pm - +92 344 5881772: B2B
+Business 2 Business 
+B2C
+Business 2 Customer
+19/08/2024, 1:07 pm - +92 306 6785416: <Media omitted>
+19/08/2024, 2:10 pm - +92 344 0544757: Yar ya kuch ulta he suna ge bas yar 🤬😠 Payoneer new freelancer ka liya nahi ban raha
+19/08/2024, 2:11 pm - +92 344 0544757: Ab new update
+19/08/2024, 2:11 pm - +92 307 7789508: Aagy aagy dakhoo hota kiya ha,
+19/08/2024, 5:55 pm - +92 323 5114548: This is notable enough I figured it was worth posting.  A company in Switzerland is using brain tissue as bio-computers, supposedly 100,000x less energy usage than CPU/GPU pairs.  and they're streamed live... https://finalspark.com/live/
+19/08/2024, 6:19 pm - +92 315 4296900 changed to +92 319 5773230
+19/08/2024, 11:38 pm - +92 305 3109193 changed to +92 311 3286157
+21/08/2024, 11:16 am - +92 331 4484468: Aoa
+Im progressing through ai basic course. First issue i faced is when using open ai in google colab. The way they showed lectures doesnt work. May be because open ai got updated. I tried but couldnt figure out.
+
+Secondly, after this the cleaning of data and stuff started in the next few lectures. Where i felt bombarded with so much code it felt overwhelming as where is all this code coming from. I get it that they executed the code but when working independently how is a non-tech background person gonna get the idea about all this stuff. Its overwhelming and i feel lost and i dont know how to grasp all this.
+
+Any guidance from the seniors?
+21/08/2024, 12:19 pm - +92 344 8693214: "The 4-Hour Work Week" by Timothy Ferriss
+21/08/2024, 12:21 pm - +92 344 8693214: Agar ye book Kisi ki pass pdf mi hi TU send karday please
+21/08/2024, 12:24 pm - +92 307 7789508: Ws,
+Brother, send the screenshot of the problem you are facing with Open Ai,
+The second issue is noraml for every nontech person. 
+Try to grasp the overall goal of each code snippet. What is it trying to achieve?
+Break down the code into smaller, manageable chunks. Understand what each line does and how it contributes to the overall functionality.
+21/08/2024, 12:44 pm - +92 331 4484468: <Media omitted>
+21/08/2024, 12:45 pm - +92 312 9581399: Response wali line ko is trh likhain:
+response= openai.chat.completions.create(
+# baki code same likhain 
+)
+21/08/2024, 12:48 pm - +92 331 4484468: It worked seemingly, but says my quota is exceeded, which lies on my end, so thanks 👍🏻
+21/08/2024, 12:48 pm - +92 309 2095756: This book is available as audiobook
+21/08/2024, 12:49 pm - +92 331 4484468: This message was deleted
+21/08/2024, 12:52 pm - +92 331 4484468: <Media omitted>
+21/08/2024, 12:56 pm - +92 331 4484468: one more question, I remember before the advanced ai course began sir said in a video that if u haven't taken basic course you should listen to first 10 lectures or so. So should I first complete the entire basic course before moving to advance or should I start advance midway after clearing the initial concepts?
+21/08/2024, 12:59 pm - +92 307 7789508: It depends on your understanding. If u grasp the first ten videos smoothly, then you can move on to the Advanced course, but complete the basic course is beneficial for you.
+21/08/2024, 1:05 pm - +92 331 4484468: I think i should focus on basic for now. By the way any other international course should i study alongside? As sir always encourage us to listen to international courses
+21/08/2024, 1:24 pm - +92 317 1476609: You can learn from Andrew NG, Datacamp, WS cube etc
+21/08/2024, 1:25 pm - +92 317 1476609: First try to grasp the key concepts by listening to Sir Irfan's lectures. Only then move on to further advance courses.
+21/08/2024, 1:26 pm - +92 317 1476609: He encourages us to take lectures from international teachers because this improves our communication skills. You can never excel without this basic skill.
+21/08/2024, 1:56 pm - +92 331 4484468: Understandable
+21/08/2024, 3:16 pm - +92 307 7789508: <Media omitted>
+21/08/2024, 3:25 pm - +92 305 2142860: baat to shi keh rhi hy <This message was edited>
+21/08/2024, 11:14 pm - +92 326 0927271: Any mackbook user from lahore
+21/08/2024, 11:48 pm - +92 309 3108513: > *Giveaway 🔥*
+*Canva Pro For Life Time 😋*
+
+*Link:*
+https://www.canva.com/class/join
+*Code:*
+BPCNKIKNB
+
+
+*⚠️Code expire in 4 Hours.*
+
+* 𝐉𝐨𝐢𝐧 𝐋𝐞𝐚𝐫𝐧𝐖𝐢𝐭𝐡𝐅𝐚𝐢𝐳𝐚𝐧 🗿:
+https://whatsapp.com/channel/0029VaRuOC4DjiOgKzHjfB2s
+21/08/2024, 11:48 pm - +92 309 3108513: Harry Up
+21/08/2024, 11:55 pm - +92 346 2764766: Increases the team size
+21/08/2024, 11:57 pm - +92 309 3108513: already filled 🥲
+21/08/2024, 11:58 pm - +92 346 2764766: 😔
+22/08/2024, 5:34 pm - +92 307 3732356: Asalam o alikum Mujhai Data analysis banna hai mujhai Yeh puchna hai Python ki jo library hai 
+Numpy
+Tensorflow
+Scipy
+Pandas
+Seaborn 
+Matplotlib
+Scikit learn
+Keras
+Mujhai Data analysis kay liye konsi library per practice kerna chahiye kon konsi important hai library Chart bananay kay liye  kiya sub library aik hey kaam kerti hai ya sub alag alag kerti hai hai kaam
+22/08/2024, 6:50 pm - +92 307 7789508: Walikum salaam,
+Data analysis k lye aapko saari libraries master karnay ki zaroort nhiii bhai,
+Baqi library saarii hi important hn, aapko ML main sab use karnii hn gi apnii need k mutabiq.
+22/08/2024, 7:47 pm - +92 336 2710451: *WE ARE LIVE EVERYONE*
+
+Join Us Now: https://fb.watch/u70-0Wq4KB/
+22/08/2024, 11:19 pm - +92 331 2470902: This message was deleted
+22/08/2024, 11:19 pm - +92 331 2470902: This message was deleted
+22/08/2024, 11:19 pm - +92 331 2470902: This message was deleted
+22/08/2024, 11:21 pm - +92 331 2470902: Aoa. I need help with my computer assignment. It is urgent. I need to submit the assignment tomorrow. I have tried so many times but the answers are always wrong. I need someone to please help me with this.
+22/08/2024, 11:31 pm - +92 332 2080596: What type of assignment? <This message was edited>
+22/08/2024, 11:31 pm - +92 332 2080596: How I can help you?
+22/08/2024, 11:32 pm - +92 331 2470902: Can you do it now
+22/08/2024, 11:32 pm - +92 331 2470902: The deadline is tomorrow morning
+22/08/2024, 11:33 pm - +92 332 2080596: Assignment kis bary me hai? Bro
+22/08/2024, 11:43 pm - +92 307 7789508: Share the assignment in chat if u can't drop it here.
+22/08/2024, 11:44 pm - +92 331 2470902: <Media omitted>
+22/08/2024, 11:44 pm - +92 331 2470902: <Media omitted>
+22/08/2024, 11:44 pm - +92 331 2470902: <Media omitted>
+22/08/2024, 11:44 pm - +92 331 2470902: <Media omitted>
+22/08/2024, 11:44 pm - +92 331 2470902: Page 1
+22/08/2024, 11:44 pm - +92 331 2470902: Page 2
+22/08/2024, 11:44 pm - +92 331 2470902: Page 3
+22/08/2024, 11:44 pm - +92 331 2470902: This assignment has to be done on ms word
+23/08/2024, 12:06 am - +92 303 6123098: One fb post design k kitnay charge krny chahiya local client say ??
+23/08/2024, 12:06 am - +92 303 6123098: Any one please tell me
+23/08/2024, 12:06 am - +92 303 6123098: As a beginner
+23/08/2024, 12:13 am - +92 300 7045809: Per post 500 bki depend krta post ki quality etc.....
+23/08/2024, 12:14 am - +92 303 6123098: Thank you sir
+23/08/2024, 3:32 pm - +92 306 9287947: What's scope of robotics and any one with bscs how can switch to thi any one can help
+23/08/2024, 3:32 pm - +92 306 9287947: Please
+23/08/2024, 3:33 pm - +92 300 4974756: Assalla mu allikum mujhe kuch information chaheye kay hum jo chatgpt say content generate krty hai AI content hota google pr  share krty hain tu us main Plagiarism ata hai hum usko human touch main kesay lay kr ayain main nay free quillbot bi use keya hai phaly 90% a raha tha pher akhir main 40% say kam nahi ho raha kya koi bhai bata sakta hai kesay clean karin
+23/08/2024, 7:24 pm - +92 336 2710451: https://youtube.com/shorts/ABs9QNdgn2U?si=xdsZIGN0-AmQW679
+23/08/2024, 7:25 pm - +92 336 2710451: Plz like subscribe n share my vedio
+23/08/2024, 11:06 pm - +92 344 5881772: https://www.facebook.com/share/p/kGDnFcD91zMapWoA/?mibextid=oFDknk
+ 
+*Yes Sir*
+Thanks To My Lovely Sir Ammar Jaffri X Dj FIa⁩
+24/08/2024, 12:15 am - +92 308 3769685: AOA, sir irfan ki video dekhi RAG  wali to pochna ye tha ager meni basic AI and advance ka Ik bhi lecture na liya ho to bhi ye class main le sakhta hun means start kar sakhta hun is class se ya nahi? 
+And second question k kia ye recorded mile gi ager koe nahi le sakhta class to?
+24/08/2024, 12:48 am - +92 328 9460713: 1. Yes, You can take RAG series with basic Ai knowledge
+2. Yes, Recorded lecture will available on YouTube channel
+24/08/2024, 12:51 am - +92 308 3769685: Thank you so much❤
+24/08/2024, 8:14 am - +92 307 7789508: https://www.datacamp.com/blog/what-is-retrieval-augmented-generation-rag
+24/08/2024, 4:42 pm - +92 326 0927271: https://www.facebook.com/share/v/H3xYPGRoVnXr2WMo/?mibextid=qi2Omg
+25/08/2024, 2:01 pm - +92 336 0367246: *Sir irfan or sir hisham ki ak sath ak picture teh na wo ksi k pas h tou send kry*
+25/08/2024, 2:05 pm - +92 306 6785416: <Media omitted>
+25/08/2024, 2:33 pm - +92 336 0367246: Yy nh
+25/08/2024, 2:34 pm - +92 336 0367246: Nh bhae only sir irfan and sir hisham mid shoot tah office m
+25/08/2024, 9:08 pm - +92 306 6785416: Aj aik professional bnda sa baat sune bht psnd i wo ya k...
+*"Investor kbhe b ap k business ya idea ma invest ni krta wo hamesha ap p invest kra ga ♥️"*
+25/08/2024, 9:10 pm - +92 309 2095756: Tb hi kry ga, jb koi capability dekhy ga
+25/08/2024, 9:11 pm - +92 306 6785416: Yeah 🙂
+26/08/2024, 1:29 pm - +92 344 0544757: Assalam u alaikum
+26/08/2024, 1:29 pm - +92 344 0544757: Kindly guide karan muja please sir irfan ka advance ai course ke youtube pa only 34 lecture han
+26/08/2024, 1:29 pm - +92 344 0544757: Jab ka 37 hona chiya han
+26/08/2024, 1:30 pm - +92 344 0544757: Or lecture no 33 be missing ha YouTube sa
+26/08/2024, 1:30 pm - +92 344 0544757: Or sir ka rag wala lecture ke 1st recording be nahi mil rahi ha
+26/08/2024, 1:31 pm - +92 344 0544757: @923260927271 @923077789508
+26/08/2024, 1:31 pm - +92 344 0544757: Recorded lecture nahi mil raha yt pa
+26/08/2024, 1:33 pm - +92 307 7789508: Bhai live waly section main jain wahn sab available hn,
+26/08/2024, 1:33 pm - +92 307 7789508: Walikum salaam
+26/08/2024, 1:33 pm - +92 344 0544757: YouTube pa kya
+26/08/2024, 1:33 pm - +92 307 7789508: Gg
+26/08/2024, 1:34 pm - +92 307 7789508: https://www.youtube.com/live/7qUIJgBjU6Q?si=gjF3dwuDbTJ884o5
+26/08/2024, 1:34 pm - +92 344 0544757: Rag lecture 36 sa start ho raha ha ya 35 sa
+26/08/2024, 1:34 pm - +92 344 0544757: Thanks bro
+26/08/2024, 1:35 pm - +92 307 7789508: 36 sy hii
+27/08/2024, 10:20 am - +92 323 5114548: Incidents of WhatsApp getting hacked are becoming frequent.
+
+To secure your Whatsapp you may follow the following steps:
+
+
+1.  Go to your whatsapp
+
+2.  Go to Settings (on whatsapp).  Click to open.
+
+3.  Go to “Privacy” and click
+
+4.  Scroll down to “Advanced” and click
+
+5.  Here click on both “Protect IP address in calls” and “Disable link previews”
+
+Once you do this, hackers can’t hack your phones because your IP address is protected!! Once you protect your IP in whatsapp, the chances of your whatsapp getting hacked becomes minimal.
+
+Android phones are more susceptible to such hackers if IP is not protected.
+
+Stay Cyber-safe!
+27/08/2024, 10:24 am - +92 315 1521759: Disable link previews? Wouldn't it become more difficult if we can't preview link? Please guide so, I can follow
+27/08/2024, 10:29 am - +92 323 5114548: It's about to protect your IP link
+27/08/2024, 10:29 am - +92 323 5114548: <Media omitted>
+27/08/2024, 12:14 pm - +92 315 1521759: Okay😇
+27/08/2024, 2:08 pm - +92 344 0544757: Langchain ke file lecture ma kaha gaya ha ha ka share ke jaya ge kya share koi group ma to muja be da do koi
+27/08/2024, 2:09 pm - +92 344 0544757: RAG ka lecture kis kis na liya ha
+27/08/2024, 2:09 pm - +92 344 0544757: Muja kuch question ha pochna
+27/08/2024, 2:14 pm - +92 333 0229088: yes
+27/08/2024, 2:22 pm - +92 331 2470902: https://www.youtube.com/channel/UCuZDlMLGfvpVT_L-qPquhBg
+27/08/2024, 2:22 pm - +92 331 2470902: please subscribe my page
+29/08/2024, 9:44 am - +92 326 0927271: Kisi bahi k ghr se koi Kal asr k bad se khoshboo aa rhi ha kia?
+29/08/2024, 9:44 am - +92 326 0927271: Any high perfume 
+Flower
+Dr khof anything
+29/08/2024, 9:49 am - +92 326 0927271: Dunyia news pe news me b ya bat aye ha
+29/08/2024, 9:49 am - +92 304 6510483: Bhai Apne esa Koch feel keya
+29/08/2024, 10:06 am - +92 307 7789508: Ye kiya logic ha 🤔
+29/08/2024, 10:06 am - +92 336 0367246: Pakistani logic 🤣🤣🤣
+29/08/2024, 10:07 am - +92 336 0367246: Allah kry ajy jitna kaxhra h pkstn m kuch tou smel km hgi🤫🤲🏻😅
+29/08/2024, 10:07 am - +92 319 6457650: funny 😅
+29/08/2024, 10:08 am - +92 319 6457650: what!!!....news kam par gye hongi shayad is lye keh diya ho ga 😅
+29/08/2024, 10:48 am - +92 306 6785416: <Media omitted>
+29/08/2024, 10:53 am - +92 326 0927271: Yar Kal se ghr se aa rhi ha. Or b kafi logo ne kha ha idr udr. Mana socha group members se b poch lo
+29/08/2024, 10:53 am - +92 326 0927271: Agr ap ko b ana lag gae yo funny nae sar dard bn jae gi
+29/08/2024, 10:59 am - +92 319 6457650: Not at all bro in baton se bache darte hon ge hum to sambhaal k rakhte hn apni cheezen agar kisi ko khushboo aa rhi ha to lazmi us ki perfume ko bottle toti ho gi 21th century mein bhi log in rubbish baton ko sach mante hn that so childish <This message was edited>
+29/08/2024, 11:55 am - +92 304 1933595: Bhi Jan Phasto voice KO Urdu ya English may convert krny Waly koi tool hy too bta dain 
+Thanks
+29/08/2024, 1:04 pm - +92 336 2710451: https://www.facebook.com/share/r/m9fJ8mxiySNnN77y/?mibextid=YA1HMP
+29/08/2024, 2:10 pm - +92 326 0927271: I am totally agree with you. But this was something different. Now solved...
+29/08/2024, 2:38 pm - +92 319 6457650: Nice yr matlb k Pakistan mein ase log hn jo samajhte hn dosron ko ni to mane bachpan se dekha kisi ko batao k ap ghalat ho to wo kehte hn k ni tum ghalat ho....Good bro nice to meet you! 😊 where are you from? 😊
+29/08/2024, 2:43 pm - +92 326 0927271: I am from sargoda, regarding this issue. Ya believe kre ya ap na kre. Allah pak ki Jin b makhlok ha jis k Allah pak ne Quran me b kha ha. So ap mana ya na mana apko manana pre ga. Shak or harqat do alg cheze ha. Apko dono ko deakhna pre ga
+29/08/2024, 2:46 pm - +92 319 6457650: Nice bro g bilkul jin to hote hn ye bat bilkul sahi ha ap ki
+29/08/2024, 3:23 pm - +92 311 1323932: Hello! I'm Ayesha Noor Shaikh, and I’m excited to apply for the Microsoft Learn Student Ambassadors (MLSA) program. 🌟 Your support would mean a lot to me!
+
+🚀 Elevate Your Tech Skills with Free Microsoft Courses! 🚀
+
+Take advantage of these free courses from Microsoft, designed to boost your tech skills and keep you updated with the latest in technology. No fees, no sign-ups—just learning!
+
+Just 5 to 8 minutes to get started! ⏱
+
+Featured Courses:
+
+Azure Fundamentals 📈🤖
+Course Code: Azure-900
+Enroll Here: https://lnkd.in/eAkwiRd5
+
+Microsoft Copilot 365 💻🌐
+Course Code: MicrosoftLearn-204l0
+Explore MS Copilot Modules: https://lnkd.in/eh-w9qYG
+
+Introduction to GitHub 🧑‍💻🔧
+Course Code: GitHub-Intro
+Enroll Here: https://lnkd.in/ezb4qjzT
+
+🔥 Share with Your Network and Friends! 🔥
+
+Thanks for your support! 🌟
+
+Explore More Courses
+29/08/2024, 3:25 pm - +92 311 1323932: Visit the courses through  links ... These courses are free from Microsoft🙌🏻🙌🏻 <This message was edited>
+29/08/2024, 6:21 pm - +92 306 6785416: <Media omitted>
+29/08/2024, 6:23 pm - +92 336 0367246: 🤥 fake? @923077789508
+29/08/2024, 6:24 pm - +92 307 7789508: Poch rhii hn ya btaa rhii hn🤔
+29/08/2024, 6:29 pm - +92 336 0367246: Both😅 asking bhae
+29/08/2024, 6:31 pm - +92 306 6785416: Over heat sa ya issue to bn jata ha agar simple laptop ho or load zada or gy
+29/08/2024, 6:31 pm - +92 307 7789508: G blkll possible ha,
+29/08/2024, 6:33 pm - +92 306 6785416: Phir kis trah ka lia gy....
+Ma ab i7-9th generation use krta abhe to itna heavy load try e ni kia😁
+29/08/2024, 6:35 pm - +92 307 7789508: System ki specs zayada afford nhi kar sagty to model training or dosri ram consumption waly task cloud py karo
+29/08/2024, 6:35 pm - +92 306 6785416: Si
+29/08/2024, 6:36 pm - +92 336 0367246: Ak fan 🪭 beh lna hga😂
+29/08/2024, 6:36 pm - +92 307 7789508: Hmmm
+29/08/2024, 6:36 pm - +92 306 6785416: ni to Ac Wala room b chala ga 😁
+29/08/2024, 6:44 pm - +92 336 0367246: Bill b chaleyag
+29/08/2024, 6:45 pm - +92 309 2095756: Storage buy b ki jaskti h?
+29/08/2024, 6:49 pm - +92 307 7789508: G
+30/08/2024, 8:29 pm - +92 332 2080596: AoA!
+30/08/2024, 8:29 pm - +92 332 2080596: can any one share link of google drive of RAG sys of xeven sol?
+02/09/2024, 11:54 am - +92 344 0544757: Hey
+02/09/2024, 11:59 am - +92 307 7789508: Yes
+02/09/2024, 3:51 pm - +92 309 2095756: Asslamualaikum 
+Jo Student non technical back ground sy hoty hain Yani sciences k unhein web site k liye WordPress seekhna chahiye ya custom coding
+02/09/2024, 3:56 pm - +92 333 2203353: Donon hee kar sakte hen' , WordPress men' zyadah technical approach ki zaroorat nahen hotee. Albatta non technical bhi coding ki taraf aa sakte hen' agar unhen interest ho aur mehnat Karne ki aadat bhi ho ho.
+02/09/2024, 4:07 pm - +92 309 2095756: WordPress agency mei Kon Kon c cheezein involve hoti hain?
+02/09/2024, 4:09 pm - +92 333 2203353: <Media omitted>
+02/09/2024, 4:10 pm - +92 333 2203353: <Media omitted>
+02/09/2024, 4:13 pm - +92 343 2078351: Telegram se kn kn earning kr rha hai Guys ??
+02/09/2024, 4:18 pm - +92 309 2095756: Shukriya
+02/09/2024, 4:21 pm - +92 307 7789508: Telegram waly
+02/09/2024, 4:29 pm - +92 309 2095756: Mere khyaal sy telegram sy earning fake h
+02/09/2024, 7:57 pm - +92 346 2764766: kya plugin or themes free hoti hae ya pay krna prta he
+02/09/2024, 7:59 pm - +92 333 2203353: Paid and free both are available
+02/09/2024, 8:00 pm - +92 333 2203353: https://youtu.be/Bx3qRM19BYM?si=c2iW40qyb6QhKLkt
+ Yeh video dekhiye
+04/09/2024, 12:33 pm - +92 307 7789508: *P2P Scam⚠️‼️⚠️🚨*
+
+*کبھی بھی OKX, Binance,  etc پے P2p نہ کریں، آج کل سکیمر Scamer بیٹھے ہوئے ہیں P2p پر ، وہ کیا کام کرتے ہیں کے آپ کو Payment بھیج دیتے ہیں ، جب آپ کریپٹو Release کرتے تو اس کے کچھ ٹائم بعد آپ کے Bank Account پے وہ Dispute لگا دیتے ہیں جس کی وجہ آپ کا اکاؤنٹ اور Payment بلوک ہو جاتی ہے ، کافی سارے دوستوں کے اکاؤنٹ بلوک ہو چکے ہیں اسی طرح تو جتنا ہو سکے گریز کیا کریں P2p کرنے سے ، local Market میں اپنے کسی Trusted بندے کو دے دیا کریں چاہے 1,2 روپے کم یا زیادہ ہی کیوں نہ ہوں*🌸🔥♥️
+04/09/2024, 5:35 pm - +92 311 1323932: Unlock Your Future with Free Microsoft Courses! 🚀
+
+Hey LinkedIn network!
+ 🌟 Are you ready to take your career to the next level? 🤔 We've got an amazing opportunity for you! 🎉 Microsoft is offering FREE courses that can help you earn certifications and enhance your professional profile! 🎓✨
+Whether you're looking to break into tech, advance your career, or just want to add some impressive credentials to your resume, these courses are a fantastic chance to get started—no fees, no registrations! 💻📚
+
+Why Take These Courses?
+✨ No Cost: Access high-quality training without any financial commitment. ✨ No Registration Required: Get started immediately with easy access. ✨ Microsoft Certification: Gain credentials from one of the world's leading tech companies.
+
+Boost Your Career with Microsoft Certifications! 🚀
+Don't miss out on this opportunity to:
+
+✨ Enhance your professional profile ✨ Increase your earning potential ✨ Stay ahead of the competition
+Get Started Now! 🎉
+
+Check out the full list of free Microsoft courses and certifications here: https://lnkd.in/ei56u3ys
+
+Share with Your Network! 🤝
+Help your friends and colleagues unlock their future with free Microsoft courses! Share this post with your network and let's grow together! 🌟
+
+#Microsoft #FreeCourses #Certifications #CareerGrowth #TechSkills #ProfessionalDevelopment #LearnForFree #MicrosoftTraining #CareerAdvancement #TechCertifications
+05/09/2024, 12:47 am - +92 317 1476609: https://x.com/AndrewYNg/status/1831346457854771255
+05/09/2024, 9:00 am - +92 344 5881772: Plz Share here Group Link ?
+05/09/2024, 9:11 am - +92 305 1859128: https://chat.whatsapp.com/GW3oXLNuNBh2tpc7M3DAI5
+05/09/2024, 9:16 am - +92 307 7789508: https://chat.whatsapp.com/Gu4TVwgnBSpF6hPzcqOZXu
+05/09/2024, 10:01 am - +92 326 0927271: 😖
+06/09/2024, 6:50 pm - +92 333 2203353: https://youtu.be/mU2e3NZlIUI?si=u7FRi8wNkmNNi4mK
+07/09/2024, 11:32 pm - +92 303 6123098: Capcut pro version mil skta hai ??
+07/09/2024, 11:32 pm - +92 303 6123098: Free Mai ?
+07/09/2024, 11:35 pm - +92 321 8788609: ni
+08/09/2024, 12:24 am - +92 300 8760724: 🚀 New dataset alert! 🌫️🌞
+
+I’ve just uploaded a dataset of clear and foggy images on Kaggle—great for anyone working on computer vision tasks. 
+
+Please check it out and give it an upvote! 
+Let’s build something cool together!
+
+🔗   https://www.kaggle.com/datasets/ahmedislam0/fog-or-smog-detection-dataset/data
+08/09/2024, 12:51 pm - +92 306 6785416: 𝑰𝒎𝒑𝒂𝒄𝒕 𝒐𝒇 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆 𝒐𝒏 𝑰𝒔𝒍𝒂𝒎 & 𝒀𝒐𝒖𝒕𝒉.
+
+Speaker: *Irfan Malik*
+Link to the video
+👇👇👇
+https://www.linkedin.com/posts/rehman4y7_ai-quran-islam-activity-7238452612985982976-LyWb?utm_source=share&utm_medium=member_android
+08/09/2024, 6:58 pm - +92 302 6188000: * CAPCUT PRO MOBILE👇🖇
+
+Download link 🔗
+https://drive.google.com/drive/folders/1CpaBSbLJCiUVJNMUsOTV1Ng_3i1AulBl?usp=sharing
+
+Capcut Login: sebarkim3@gmail.com
+Pass: databaruku
+Renew: 2025-04-01
+08/09/2024, 6:58 pm - +92 302 6188000: Check this
+10/09/2024, 12:46 am - +92 307 7789508: <Media omitted>
+10/09/2024, 9:31 pm - +92 334 9417243: This message was deleted
+10/09/2024, 9:45 pm - +92 334 9417243: <Media omitted>
+10/09/2024, 10:03 pm - +92 312 9581399: Notebook abhi upload nahin ki hogi Sir ne
+10/09/2024, 10:49 pm - +92 334 9417243: Ok
+11/09/2024, 2:17 pm - +92 309 2095756: Voice edit krny k liye best tool or software konsa h
+11/09/2024, 3:34 pm - +92 331 2470902: Reaper
+Wavepad
+FL studio
+Audacity
+Adobe audition
+11/09/2024, 3:35 pm - +92 336 0367246: Premiere pro. Official software use in industry for professional video editing filming, and other things
+11/09/2024, 4:01 pm - +92 309 2095756: Is it free of cost
+11/09/2024, 4:03 pm - +92 328 9460713: Yes, Adobe Premier Pro is free of cost
+11/09/2024, 4:14 pm - +92 346 2764766: Notebook link he kci k pass
+11/09/2024, 4:16 pm - +92 336 0367246: Ys
+12/09/2024, 12:00 pm - +92 300 8760724: <Media omitted>
+12/09/2024, 4:23 pm - +92 340 5790021: What we if we do not have a student mail
+12/09/2024, 4:37 pm - +92 300 8760724: No issue u can use ur personal mail
+12/09/2024, 7:41 pm - +92 340 5790021: But I think when we try to avail all the free azure services offered by Microsoft then they ask for a student mail, and after that they provide you $150 or $100 credit points, plus access to Microsoft 365 and much more, which you can see on  their site.
+12/09/2024, 7:47 pm - +92 336 0367246: Ys
+13/09/2024, 12:34 am - +92 307 7789508: <Media omitted>
+13/09/2024, 6:33 pm - +92 336 0367246: sir Irfan keys tag hty h linkdin pr? user name?
+13/09/2024, 6:48 pm - +92 312 9581399: @irfan xeven
+13/09/2024, 6:51 pm - +92 336 0367246: Hey, I created an AI tool called My Study Companion! 🌟 It’s an AI-driven assistant I built that offers real-time support for programming and AI tasks—completely FREE! 📚 Whether you're working on a project or need quick insights, this tool will boost your efficiency instantly. The best part? No subscriptions required! Try it now: https://huggingface.co/chat/assistant/66dcc989ca44e713ca243600
+
+Check out more details of my work here on GitHub:
+https://github.com/NainTara-GenAI/My-Study-Companion-Hugging-Face-AI-Assitant 🚀
+
+https://www.linkedin.com/posts/nain-tara_ai-edtech-programminghelp-activity-7240353201655296001-ZHg8?utm_source=share&utm_medium=member_android
+14/09/2024, 9:07 pm - +92 306 6785416: *let's connect* 
+
+https://www.linkedin.com/in/rehman4y7
+15/09/2024, 10:31 am - +92 309 2095756: Kisi k laptop mei waplyzer extension Installed h
+15/09/2024, 6:45 pm - +92 340 5790021: Yes
+15/09/2024, 6:45 pm - +92 340 5790021: Are you talking about the chrome extension
+15/09/2024, 6:47 pm - +92 340 5790021: Which is used to identify the technologies used on that website like programming languages, framework etc
+15/09/2024, 6:58 pm - +92 309 2095756: Yes
+15/09/2024, 9:14 pm - +92 306 6785416: <Media omitted>
+16/09/2024, 10:58 am - +92 311 1323932: Guys aik help chahiye
+16/09/2024, 10:59 am - +92 311 1323932: <Media omitted>
+16/09/2024, 11:27 am - +92 323 5114548: It is google colab an online hosted jupyter notebook. search Google Colab its free
+16/09/2024, 11:30 am - +92 311 1323932: To yaha pr humen bh same ye sari cheezen milen gi?
+16/09/2024, 11:30 am - +92 311 1323932: Langchain or ye different  loaders
+16/09/2024, 11:34 am - +92 312 9581399: Aap ne basic course kiya tha? Ya python learn ki hy?
+16/09/2024, 11:35 am - +92 311 1323932: Nhi
+16/09/2024, 11:36 am - +92 311 1323932: Na basic parha hai na hi python
+16/09/2024, 11:36 am - +92 312 9581399: Pehly python learn kr lain, us k baghair RAG ka koi faida nahin.
+16/09/2024, 11:37 am - +92 311 1323932: Ooh okieee👍🏻
+16/09/2024, 11:38 am - +92 311 1323932: To phir pehle mai basic course karon?
+Us mai python bh cover ho jaye gi
+16/09/2024, 11:39 am - +92 312 9581399: Basic course k first 10 lectures lain.. aur sath main python ka koi separate course krain.
+16/09/2024, 11:39 am - +92 311 1323932: Ap koi channel suggest karen gy python k liye
+16/09/2024, 11:41 am - +92 312 9581399: Is playlist ko achi trah master krain with practice:
+
+https://youtube.com/playlist?list=PL1bX3raHNMEzDDq5r3aKLwpRfRDrB_LWz&si=91Pgv71NrM7h7i-G
+16/09/2024, 11:42 am - +92 311 1323932: Bundle of thanks🙏🏻🫶🏻
+17/09/2024, 12:39 pm - +92 340 3832748: Koyee Bhai list main bata sakta Hy Emerging techniques related to computer science ?
+17/09/2024, 3:54 pm - +92 306 6785416: Ai
+Iot 
+Block chain 
+Cyber security 
+Quantum computing
+17/09/2024, 4:14 pm - +92 300 6372500: https://youtu.be/QvPekMN4F0w?si=Bw_fCf0rFU9-6cS6
+18/09/2024, 8:38 pm - +92 309 2095756: https://www.qeip.com
+18/09/2024, 8:39 pm - +92 309 2095756: Aisa portfolio type WordPress mei bn skta
+18/09/2024, 10:10 pm - +92 332 9620056: <Media omitted>
+18/09/2024, 10:11 pm - +92 332 9620056: <Media omitted>
+19/09/2024, 9:43 am - +92 336 0367246: https://youtube.com/@officialquranicsongs?si=dv6h4WVGuSn-XPK_
+19/09/2024, 9:43 am - +92 336 0367246: <Media omitted>
+19/09/2024, 9:43 am - +92 336 0367246: Report this
+19/09/2024, 9:43 am - +92 336 0367246: New channel link
+19/09/2024, 10:04 am - +92 336 0367246: Dear YouTube 
+
+Islam is a peacefull religion and our religion music is Haram he has targeted our religion and it's very bad impact on our religion please remove this channel from YouTube it's Humble request and ban this user permanently.
+
+Thank you
+19/09/2024, 10:04 am - +92 336 0367246: <Media omitted>
+19/09/2024, 2:13 pm - +92 307 4641982: جی ہاں یہ بات بالکل درست ہے کہ قادیانی قرآن مجید کو بانٹا جا رہا ہے ۔ اس لیے جب بھی کہیں میلاد پر جائیں اپنا قرآن مجید ساتھ لے کر جائیں ۔ اور نیا قرآن مجید اعتبار کے دکان سے خریدیں ۔ کہیں کوئی یاسین یا وظائف کا ہدیہ ملے تو پہلے تصدیق کر لیں ۔ موبائل میں بھی ایپس کو ڈاؤن لوڈ نہ کریں ۔ اسلام 360 ایپ ٹھیک ہے ۔
+19/09/2024, 3:14 pm - +92 345 9138794: <Media omitted>
+19/09/2024, 8:54 pm - +92 331 3632939: Is account ma tou koi content nhi hy
+19/09/2024, 9:06 pm - +92 323 8862333: <Media omitted>
+19/09/2024, 9:07 pm - +92 323 8862333: Bhai jan yeh content hay to hay yeh new channel hay his per 23 hours pehlay tumaam 12 videos Dali hain
+19/09/2024, 9:09 pm - +92 323 8862333: Pehlay doosra channel tha Jis per ab koi content nhi delete kr dia gia hay
+19/09/2024, 10:27 pm - +92 323 8862333: *‼️ہمیں بے وقوف بنانے کی کوشش‼️*
+
+اب پتا چلا ہے کہ یہ خبیث اپنی ویڈیوز کو ڈیلیٹ کرنے کی بجائے صرف انہیں private کر دیتا ہے اور دوبارہ پھر کچھ دیر بعد ان ویڈیوز کو public کر دیتا ہے جیسا کہ یہ آج کر چکا ہے کہ آج مورخہ 19 ستمبر دوپہر کے وقت یہ ویڈیوز کوئی بھی نظر نہیں آرہی تھی مگر پھر رات 9 بجے میں نے خود اسکے چینل پر دوبارہ  وزٹ کیا تو 12 ویڈیوز چینل پر نظر آرہی تھیں مگر اب 10 بجے دوبارہ سے کوئی ویڈیو نظر نہیں آرہی مزید یہ کہ اب اس نے چینل کا نام اور username بھی تبدیل کرلیا ہے جو کہ صبح کو کوئی اور تھا۔ تاکہ لوگ اسے رپورٹ کرنے سے رک جائیں۔
+19/09/2024, 11:28 pm - +92 331 3632939: Yehi hua hy many bhi notice kia hy k ab name change hy
+20/09/2024, 11:02 am - +92 321 3605311: My USB flash is not showing on mobile & Pc? 
+How can I solve this problem? Please @anyone
+20/09/2024, 11:13 am - +92 323 8862333: <Media omitted>
+20/09/2024, 12:11 pm - +92 323 8862333: <Media omitted>
+20/09/2024, 4:59 pm - +92 336 0367246: #Paid Task
+ Any AI video editor
+DM me with Portfolio/Work 
+For permanent work 
+Specially From Lahore
+I provide script and editor work on it and make an engaging video for my client for YouTube channel
+
+Urgent need
+dm on this number +92 327 0878517
+21/09/2024, 9:13 am - +92 334 2787399: https://forms.gle/nhbgUULssMoDyRC17
+21/09/2024, 9:13 am - +92 334 2787399: Kindly do fill this form and share among your freelancer community for awareness,
+
+Regards,
+21/09/2024, 9:13 am - +92 334 2787399: This initiative is taken by Ministry of IT and Telecommunications Govt of Pakistan, please fillup the required information and stay touch with Ministry for startup of freelancing...
+Regards
+21/09/2024, 1:47 pm - +92 310 4943542 joined using this group's invite link
+22/09/2024, 6:35 pm - +92 321 2226008: Aoa... C Language ki practice k lia VS code M mingw k ilawa koi or compiler use ho skta h.?
+22/09/2024, 6:47 pm - +92 336 7509812: Aoa innovista ai m grou
+22/09/2024, 6:47 pm - +92 336 7509812: Groups m hy koi ap m sy
+22/09/2024, 6:47 pm - +92 336 7509812: ?
+23/09/2024, 10:42 am - +92 321 2226008: <Media omitted>
+23/09/2024, 10:42 am - +92 321 2226008: Koi bta skta h?
+24/09/2024, 6:52 pm - +92 323 8862333: <Media omitted>
+26/09/2024, 7:07 pm - +92 312 7715134 changed to +92 300 7605707
+28/09/2024, 11:37 am - +92 320 8587480: *https://youtu.be/OoABZ1UNQfI?si=gkVT6mxCVUD2-0OP*
+
+Kindly see this video of an international project of a student.
+
+Your one view matters a lot as it will help the project to be successfully approved.
+
+ *Also share it in other groups.* Thanks👍
+29/09/2024, 10:06 pm - +92 313 2040046: Hello everyone plz kindlye send me English whatsapp channel link plz send me if you dont mind plz
+29/09/2024, 11:30 pm - +92 343 6411185: Any one have dhruve rathe chatgpt and time management course if then send me the link of drives
+30/09/2024, 6:42 pm - +92 323 8862333: <Media omitted>
+30/09/2024, 9:50 pm - +92 323 8862333: null
+01/10/2024, 7:47 pm - +92 336 2710451: https://youtube.com/shorts/fnACvSUKm88?si=3MQJiJTCVNRo9b8Y
+05/10/2024, 2:41 pm - +92 306 6785416: *Show your love please ♥️* 
+
+https://www.linkedin.com/posts/rehman4y7_im-happy-to-share-that-im-starting-a-new-activity-7248264819613548544-ys2e?utm_source=combined_share_message&utm_medium=member_android
+05/10/2024, 9:16 pm - +92 332 8298997: @Sir Irfan Malik🌹On this special day, 🌹I want to express my heartfelt gratitude for all that you do. Your guidance, support, and encouragement have made a significant impact on my life. Your tireless efforts to shape young minds and inspire us to reach our full potential are truly appreciated.
+
+Thank you for being an exceptional teacher, mentor, and role model. Your passion for teaching and dedication to your students are qualities that make you truly special.
+
+I wish you a Happy Teachers' Day filled with joy, love, and appreciation. May your day be as wonderful as you are!
+
+With sincere appreciation and best wishes,❤️
+S.Usman
+05/10/2024, 10:02 pm - +92 317 1476609: Anyone in this group who is working as a data scientist or ML Engineer in any company? I need a few suggestions.  Thanks
+05/10/2024, 10:12 pm - +92 306 6785416: ❗Any one deal with furniture setup for office...?
+. Revolving chair 
+. Office Table 
+. Sofa Set with tables
+
+Combine/separate if anyone have kindly respond please
+06/10/2024, 11:02 am - +92 318 4886563 was added
+06/10/2024, 11:01 am - +92 318 4886563 joined using this group's invite link
+07/10/2024, 6:02 pm - +92 309 2095756: <Media omitted>
+07/10/2024, 6:06 pm - +92 309 2095756: Aisi videos kesy bnayi ja skti hain
+08/10/2024, 12:02 pm - +92 323 5114548: I was about to ask the same question!
+08/10/2024, 12:44 pm - +92 343 2078351: ap YouTube se dekh le
+08/10/2024, 12:58 pm - +92 307 7789508: Mobile sy hii ban jaati hn,
+08/10/2024, 1:53 pm - +92 334 9417243: Check out this video to learn how to create animated videos using AI-generated images. It explains the process step by step! https://youtu.be/SeGNUfnAv8U?si=VzS928dtz7j-k8Xu
+08/10/2024, 2:04 pm - +92 331 3632939: G Ai se bni hy. chat gpt se scripting kare. Leoardo se picture generate karen. Pika lab se slight animation krwaen eleven labs se script pr voice over krwaen aur capcut ma ja k sari images aur audios ko upload kar k editing karen. Apki video bn jaegi
+10/10/2024, 8:14 pm - +92 323 5114548: https://airisk.mit.edu/
+10/10/2024, 8:16 pm - +92 336 0367246: Details plj
+10/10/2024, 8:17 pm - +92 323 5114548: Explore please
+10/10/2024, 8:17 pm - +92 323 5114548: Apny hisy ki mehnat karna sekheay hm sir irfan k students hain 😊
+10/10/2024, 8:23 pm - +92 307 7789508: <Media omitted>
+10/10/2024, 8:36 pm - +92 332 2080596: Aslam u Alikum! Koi Bata skta hai k ye Jo RAG k lectures chal rhy hain in ki files khn sy miln gi?
+10/10/2024, 8:40 pm - +92 307 7789508: Walikum salaam..
+
+https://drive.google.com/drive/folders/1RQPeya2iT1hAzcLxrzBJVNcRkymv4EpM
+10/10/2024, 8:57 pm - +92 346 2764766: Rag k lecture mazeed hon ge ya khatam
+10/10/2024, 11:20 pm - +92 305 1859128: This message was deleted
+11/10/2024, 4:37 pm - +92 313 4997451: <Media omitted>
+11/10/2024, 4:37 pm - +92 313 4997451: Assalam-o-Alaikum
+11/10/2024, 4:38 pm - +92 313 4997451: Koi yeh assignment solve kark de skta he?
+11/10/2024, 4:39 pm - +92 313 4997451: This is paid task
+11/10/2024, 4:42 pm - +92 331 2470902: i can do this
+11/10/2024, 4:42 pm - +92 331 2470902: please tell me the details for this work
+11/10/2024, 5:18 pm - +1 (226) 500-0381: http://www.buildclub.ai
+11/10/2024, 5:49 pm - +92 313 4997451: <Media omitted>
+11/10/2024, 5:49 pm - +92 313 4997451: <Media omitted>
+11/10/2024, 5:49 pm - +92 313 4997451: <Media omitted>
+11/10/2024, 5:49 pm - +92 313 4997451: <Media omitted>
+11/10/2024, 5:49 pm - +92 313 4997451: <Media omitted>
+11/10/2024, 5:50 pm - +92 313 4997451: Yeh group is lie bnaya gaya he k hm aik dosre ki help karskein
+Or agr kisi k pass koi paid project ho to wo share karskta idhr
+Khuda k lie apna or dosro ka time zaya mat kia karien
+11/10/2024, 5:51 pm - +92 322 8485616: Admin plz check these types of person strictly handle them
+11/10/2024, 5:53 pm - ~ Muhammad Zameer UL Hassan removed +92 331 2470902
+11/10/2024, 7:19 pm - +92 306 6785416: Bnda zada e professional ha 😂
+12/10/2024, 9:18 pm - +92 306 9287947: Banks treat you nicely when you are rich.
+
+Companies treat you nicely when you are skilled.
+
+Women treat you nicely when you are handsome and rich.
+
+Men are loved conditionally.
+
+Nobody gives you sympathy if you're weak, poor, and broke as a man.
+12/10/2024, 9:26 pm - +92 307 7789508: Fir kamana Shuru karo bhai🤣
+12/10/2024, 9:27 pm - +92 306 9287947: Alhamdulillha
+12/10/2024, 9:28 pm - +92 306 9287947: تین چیزیں انسان کا کامیاب انسان بناتی ہیں
+محنت، خدمت اور ہنر
+12/10/2024, 9:30 pm - +92 307 7789508: میرے خیال میں وہ تین چیزیں 
+نماز، خدمت خلق اور حقوق العباد ہیں
+12/10/2024, 9:32 pm - +92 306 9287947: محنت میں من جملہ عبادات شامل ہیں حضرت استاد صاحب نے جب بیان فرمایا تو یہی تین چیزیں بتائیں
+12/10/2024, 9:33 pm - +92 306 9287947: کیونکہ حضرت استاد صاحب کے سامعین علماء کرام تھے
+12/10/2024, 9:33 pm - +92 306 6785416: ان کے ساتھ اگر محنت صبر و شکر شامل ہو جائیں تو پھر شاید آپ کے پاس level کا skill set نہ بھی ہو اللہ تعالیٰ کہیں نہ کہیں آپ کو سنبھال لیتا ہے😍 <This message was edited>
+12/10/2024, 9:34 pm - +92 306 6785416: So deep ♥️
+12/10/2024, 9:39 pm - +92 306 9287947: حضرت استاد صاحب جب علماء کرام کو بیان فرما رہے تھے تو فرمایا کہ علماء کرام جب معاشرے میں جاتے ہیں تو خود کو مخدوم سمجھتے ہیں اور سوچتے ہیں کہ لوگ ہماری خدمت کریں۔ انہون نے فرمایا ایسا کرنا علماء کے لیے نا مناسب ہے بلکہ ان کو عوام کی خدمت کرنی چاہیے محنت اور ہنر کے ذریعے اپنا روزگار خود تلاش کرنا چاہیے نا کہ لوگوں کے سہارے بیٹھ جائیں۔
+12/10/2024, 9:40 pm - +92 306 9287947: تمام انبیاء کرام خود محنت و ہنر سے اپنا روزگار تلاش کرتے تھے
+12/10/2024, 9:50 pm - +92 306 6785416: آج جو علماء financially stable ہیں وہ احسن طریقے سے بغیر کسی لالچ و مفاد کے دین کا کام کر رہے ہیں 
+وگرنہ بیشتر کا تو گھر ہی فضولیات سنا کر چلتا ہے
+12/10/2024, 9:57 pm - +92 306 9287947: با الکل یہی تو اصل مسئلہ ہے پھر پیسے کے لیے دین بیچا جاتا ہے اور تفرقہ بازی پھلائی جاتی ہے
+14/10/2024, 8:30 am - +92 315 1521759: Aoa! Ek wesite ka content likhng k liye kya ky chzn dekhni must hain, any idea?
+14/10/2024, 8:46 am - +92 306 9287947: To write compelling content for a website, consider these key parameters:
+
+*Core Parameters:*
+
+1. Target Audience: Identify age, location, interests, and needs.
+2. Purpose: Define the website's purpose (inform, educate, sell, entertain).
+3. Tone: Determine the tone (formal, informal, friendly, professional).
+4. Brand Voice: Align with the brand's personality and messaging.
+5. Keywords: Incorporate relevant SEO keywords.
+
+*Content-Specific Parameters:*
+
+1. Page Type: Home, About, Services, Blog, Contact, etc.
+2. Content Format: Text, images, videos, infographics, podcasts.
+3. Word Count: Optimal length for readability and SEO.
+4. Headings: H1, H2, H3, etc. for structure and hierarchy.
+5. Call-to-Action (CTA): Encourage user engagement.
+
+*SEO Parameters:*
+
+1. Keyword Density: Balance keyword usage.
+2. Meta Tags: Title, description, keywords.
+3. Header Tags: Organize content with H1-H6 tags.
+4. Image Optimization: Alt tags, descriptions, file names.
+5. Internal Linking: Connect relevant pages.
+
+*Style and Readability Parameters:*
+
+1. Language: Clarity, simplicity, and concision.
+2. Font and Color: Consistent branding.
+3. White Space: Balance text and visuals.
+4. Readability Score: Aim for 60-70% readability.
+5. Accessibility: Follow web accessibility guidelines.
+
+*Technical Parameters:*
+
+1. Platform: CMS (WordPress, Joomla), HTML, CSS.
+2. Browser Compatibility: Ensure cross-browser compatibility.
+3. Mobile-Friendliness: Responsive design.
+4. Page Speed: Optimize loading times.
+5. Analytics: Track performance with tools like Google Analytics.
+
+*Additional Considerations:*
+
+1. Content Strategy: Align with business goals.
+2. Content Calendar: Plan and schedule content.
+3. Repurposing Content: Adapt content for social media, email newsletters.
+4. Content Updates: Regularly refresh and update content.
+5. Compliance: Adhere to copyright, trademark, and data protection laws.
+
+By considering these parameters, you'll create engaging, informative, and optimized content for your website.
+
+Would you like more information on website content creation?
+14/10/2024, 5:32 pm - +92 315 1521759: Agr coding ya kisi b chz sy related ho to content chat gpt sy mil jae ga?
+14/10/2024, 5:33 pm - +92 306 9287947: Yes
+14/10/2024, 5:33 pm - +92 315 1521759: Vahan sy kysy generate hoga? Through proper questioning?
+14/10/2024, 5:34 pm - +92 315 1521759: Means Chat gpt sy content generate kysy hoga?
+14/10/2024, 5:34 pm - +92 306 9287947: Mn kr dn ga
+14/10/2024, 5:34 pm - +92 306 9287947: Ap btyn
+14/10/2024, 10:55 pm - +92 315 1521759: Chalen thank you so much, actually, mjh sy pcha tha kisi ny, agr usy smjh ni aya phr apsy bt hogi.
+14/10/2024, 10:57 pm - +92 306 9287947: Ok
+15/10/2024, 3:35 pm - +92 309 2095756: How much python is necessary for python and data science
+15/10/2024, 3:37 pm - +92 343 2078351: Basic Python
+15/10/2024, 5:03 pm - +92 311 9396966: Please share some final year projects for BS student.
+18/10/2024, 7:15 pm - +92 323 8862333: <Media omitted>
+19/10/2024, 1:42 am - +92 334 3391992: Any good site for free Presentation
+19/10/2024, 1:49 am - +92 321 8788609: canva
+19/10/2024, 1:56 am - +92 334 3391992: Jazak Allah
+19/10/2024, 11:12 am - +92 300 7605707 changed to +92 312 7715134
+19/10/2024, 9:39 pm - +92 306 6785416: null
+19/10/2024, 9:40 pm - +92 336 0367246: Think positive
+19/10/2024, 11:16 pm - +92 326 0927271: Don't share irrelevant posts in this group. Only talk about AI
+19/10/2024, 11:17 pm - +92 326 0927271: Ap k ghr me b ma behn hogi to bakio ki behno mao ki izat ka khyal rakho. Yahi sochte rhe to phir bna lea future kr lea Pakistan ko #1.
+19/10/2024, 11:18 pm - +92 326 0927271: Agr, next ease post kisi ne group me share ki I will remove him without any notice
+19/10/2024, 11:20 pm - +92 346 2764766: Koi guide kre keh Ai ka course tu khatam hogya he sir irfan wla next kya krna chaye ab
+19/10/2024, 11:21 pm - +92 326 0927271: Practice and implement AI in real time
+19/10/2024, 11:22 pm - +92 346 2764766: Koi aesa channel jahan se hm new chezein sekhte rahi ai k related
+19/10/2024, 11:23 pm - +92 326 0927271: Jo seakha ha practice kre
+19/10/2024, 11:24 pm - +92 307 7789508: Ai k related blogs main new seekhna ko mily ga, aap Andre ng ko follow karain or Ai k related bht saary blogs hn wo read kiya karin
+19/10/2024, 11:25 pm - +92 346 2764766: Sahi
+19/10/2024, 11:26 pm - +92 307 7789508: Ab aap Ai ko devOps or cyber security main implement karin, k jo aap ny seekha ha wo cyber security main kahan use hoga, us ki kiya product ban sagti ha, etc
+19/10/2024, 11:27 pm - +92 307 7789508: Is sy aap  Ai +cyber security  seekh jain gy, phr devOps main bhii dakhin, Ai apki base line ha is ko strong karin generative Ai py focus karin, oor real world problems ko identify kar k khud ka koi product banin
+19/10/2024, 11:32 pm - +92 307 7789508: Oor agr aap koi portfolio bnana ha to zayada project karny sy bhter ha koi aik hi project select karin or us py deeply work karin
+19/10/2024, 11:52 pm - +92 342 1485637: Digital marketing zeeshan usmani ke book pdf hy kese ky pas?
+23/10/2024, 1:52 pm - +92 316 0707856 joined using this group's invite link
+23/10/2024, 10:18 pm - +92 300 6372500: <Media omitted>
+23/10/2024, 10:20 pm - +92 336 0367246: Fee?
+23/10/2024, 10:21 pm - +92 300 6372500: Free
+23/10/2024, 10:21 pm - +92 307 7789508: Free un k lye jo courses min enrolled hn
+23/10/2024, 10:21 pm - +92 300 6372500: Orientation ession is going on, join it
+23/10/2024, 10:22 pm - +92 334 5332804: link
+23/10/2024, 10:22 pm - +92 307 7789508: https://www.youtube.com/live/WxbpASu_6aA?si=SFKTQHLw_0KR7bBd
+23/10/2024, 10:23 pm - +92 300 6372500: http://tslny3fw.r.us-east-1.awstrack.me/L0/http:%2F%2Freach.alnafi.com%2Ftrack%2Fclick%2F96d438ba-2310-4ceb-ab2a-270347e3edeb%2F0629b140-3645-4540-bef1-5fa0a77c2849%2F/1/01000192b9e8ba4e-9335c7d6-54c4-4aba-8c9e-19260b0e1bef-000000/s1GyTJRcMt6hIAl0L2LkSslbOxs=397
+23/10/2024, 10:38 pm - +92 300 6372500: https://alnafi.com/internship
+23/10/2024, 10:39 pm - +92 305 2142860: are you enrolled in their course?
+23/10/2024, 10:39 pm - +92 300 6372500: Yes in internship
+23/10/2024, 10:40 pm - +92 305 2142860: nope i am talking about tehri courseS
+23/10/2024, 10:41 pm - +92 305 2142860: so how are you experiencing the internship?
+23/10/2024, 10:41 pm - +92 300 6372500: <Media omitted>
+23/10/2024, 10:43 pm - +92 300 6372500: Today is orientation, few has just given the access to internship portal includng me
+23/10/2024, 10:44 pm - +92 305 2142860: hows the tasks or any thing tehy assigned
+23/10/2024, 10:44 pm - +92 305 2142860: you say about them
+23/10/2024, 10:45 pm - +92 300 6372500: I am sayng hav just received an access to the portal, will start in a day
+23/10/2024, 10:45 pm - +92 305 2142860: ok then let me know about them their tasks or anything plzz
+23/10/2024, 10:45 pm - +92 300 6372500: In sha Allah
+25/10/2024, 5:55 pm - +92 343 6411185: Sir you can please provide me a group link
+25/10/2024, 6:02 pm - +92 307 7789508: Which one?
+25/10/2024, 11:14 pm - +92 309 2095756: WordPress ka portfolio bnana ho tu Kon c hosting best r cheap h
+25/10/2024, 11:14 pm - +92 321 8788609: infinityfree
+26/10/2024, 2:10 pm - +92 343 2078351: <Media omitted>
+27/10/2024, 2:23 pm - +92 300 6372500: Great effort! This will be highly beneficial for all the other fellows.
+Did u prepare this outline based on the lectures and topics we covered in our live sessions? <This message was edited>
+27/10/2024, 5:05 pm - +92 307 7789508: <Media omitted>
+27/10/2024, 8:16 pm - +92 333 1727254: i am doing my final year project 
+*Kidney tumor detection and segmentation(localization) using deep-learning*
+any one can help me I have few questions regarding this,
+I have a theoretical framework in my mind but do not know how to proceed practically
+28/10/2024, 2:11 am - +92 305 7933007: Yes I can
+28/10/2024, 2:16 am - +92 343 2078351: How to find currency of a Country using Python
+
+!pip install pycountry
+
+import pycountry
+
+def get_currency(country_name):
+
+  try:
+    country = pycountry.countries.lookup(country_name)
+    currency = pycountry.currencies.get(numeric = country.numeric)
+    return f"The currency of {country_name} is {currency.name}"
+
+  except:
+    return "Country not found or currency information unavailable."
+
+country_name = input("Entry Country Name: ")
+print(get_currency(country_name))
+
+Result:
+
+Entry Country Name: Pakistan
+The currency of Pakistan is Pakistan Rupee
+28/10/2024, 8:24 am - +92 326 0927271: <Media omitted>
+28/10/2024, 9:19 am - +92 323 5114548: Masha'Allah Masha'Allah
+28/10/2024, 9:21 am - +92 326 0927271: Thanks
+28/10/2024, 9:31 am - +92 336 0367246: Masha Allah laqowatah illah billah
+28/10/2024, 9:35 am - +92 326 0927271: Jazak Allah
+28/10/2024, 10:30 am - +92 324 7280468: MashAllah congratulations 👏 brother
+28/10/2024, 10:32 am - +92 326 0927271: Thanks bro
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:41 am - +92 306 4258670: null
+28/10/2024, 10:42 am - +92 306 4258670: null
+28/10/2024, 10:42 am - +92 326 0927271: This is not allowed
+28/10/2024, 11:16 am - +92 310 4943542: Ma SHA ALLAH congratulations
+28/10/2024, 11:21 am - +92 346 2764766: Congratulations
+28/10/2024, 11:22 am - +92 326 0927271: Thanka
+28/10/2024, 11:22 am - +92 326 0927271: Thanks
+28/10/2024, 11:28 am - +92 305 2142860: congrats
+28/10/2024, 11:32 am - +92 306 4258670: Okay bro
+28/10/2024, 11:32 am - +92 326 0927271: Thanks
+28/10/2024, 2:52 pm - +92 343 2078351: <Media omitted>
+28/10/2024, 2:53 pm - +92 343 2078351: <Media omitted>
+28/10/2024, 2:57 pm - +92 343 2078351: ٹیلیگرام گیمز ویب 3 ٹیکنالوجی کا استعمال کرتی ہیں، جو کہ بلاک چین پر مبنی ہوتی ہے۔ یہ گیمز غیر مرکزی ہوتے ہیں، اور ان میں صارفین کو اپنے ڈیجیٹل اثاثوں کا مالکانہ حق دیا جاتا ہے۔ اس کا مطلب یہ ہے کہ کھلاڑی اپنے ان-گیم آئٹمز، انعامات اور ٹوکنز کو بلاک چین والیٹس میں محفوظ کرکے ان کی ملکیت کو کنٹرول کرسکتے ہیں۔ یہ ویب 3 انٹیگریشن ٹیلیگرام کے بنیادی ڈھانچے کا حصہ نہیں ہے، لیکن تھرڈ پارٹی ڈویلپرز نے اس پلیٹ فارم پر ویب 3 فیچرز کو متعارف کروایا ہے تاکہ صارفین کو ایک منفرد اور محفوظ گیمنگ تجربہ فراہم کیا جا سکے۔
+28/10/2024, 4:24 pm - +92 313 1029011: Congratulations
+28/10/2024, 6:56 pm - +92 313 4997451: Ma Sha ALLAH 
+Congratulations
+28/10/2024, 7:37 pm - +92 326 0927271: Thanks
+28/10/2024, 7:37 pm - +92 326 0927271: Thanks
+28/10/2024, 8:21 pm - +92 307 3732356: <Media omitted>
+28/10/2024, 8:21 pm - +92 307 3732356: <Media omitted>
+28/10/2024, 8:22 pm - +92 327 2636962: Soft . me Hai to share kren please
+28/10/2024, 8:23 pm - +92 307 7789508: Mary bhai, book ki aik price ha wo pay kiye bina ap kasy parh sagty hn, agr ksi ny buy kar k us ki soft copy bnani ha to ye illegal main aata ha,
+28/10/2024, 8:24 pm - +92 307 3732356: Asalam o alikum kisi kay pas yeh book hai pdf file mein plz hoto send me plz
+28/10/2024, 8:24 pm - +92 307 7789508: Khud py thora invest karain, physical buy karin
+28/10/2024, 8:27 pm - +92 307 3732356: Ok sir koi baat nahi
+28/10/2024, 9:30 pm - +92 320 8587480: Waise me prefer kron ga keh ager aap first time learn kr rae han to koi bhi indian ya pakistani videos dekh len jo keh aapko apni language me sikhain... Pehli dafa seekhna ho to videos se zyada acha samajh aata ha
+
+
+Lekin ager aap pehle se jaante han thora bohot to phir books perhna theek rahay ga.. lekin yahan me English books zyada prefer krta hon kionkeh ye knowledge sara asal me English me ha or usi language me zyada sae rehta ha
+30/10/2024, 9:24 am - +92 306 6785416: <Media omitted>
+30/10/2024, 10:16 am - +92 309 2095756: سندر پچائی بھائی نے آج گوگل کی ارننگ کال پر بتایا کہ اس کوارٹر میں گوگل کا ٢٥ فیصد کوڈ جین اے آئ نے لکھا. اب پروگرامرز کا کیا ہوگا ؟
+30/10/2024, 10:34 am - +92 307 7789508: Ty Gen Ai seekho na
+30/10/2024, 10:34 am - +92 326 0927271: +27 64 102 8305
+everyone report this number. Thanks
+30/10/2024, 11:49 am - +92 313 1029011: AAP gen ai SE code likhwana seekh Len APNi Marzi Ka
+30/10/2024, 11:53 am - +92 320 8587480: Wo code bhi programmers ne likha hoga.. Mene AI se kaafi codes generate krae han, Trust me, koi bhi non-programmer us se code generate ni kra sakta.. bohot ghaltian hoti han
+30/10/2024, 11:56 am - +92 346 2764766: Apki baat thik he gen ai code likh skta he per code likhvae ga kn wo likhvae ga jisko coding ki knowledge hogi
+30/10/2024, 12:02 pm - +92 343 2078351: Prompt Engineer
+30/10/2024, 12:03 pm - +92 345 7962931: Absolutely.
+
+Caveat 🙂
+Only those engineers who utilize the power of AI will excel.
+30/10/2024, 12:03 pm - +92 343 2078351: <Media omitted>
+30/10/2024, 9:48 pm - +92 323 8862333: <Media omitted>
+30/10/2024, 10:48 pm - +92 343 2078351: <Media omitted>
+31/10/2024, 8:18 am - +92 340 5790021: Assalam o alaikum, Can anyone tell me that which university will be best for Software Engineering, Artificial Intelligence in Lahore. <This message was edited>
+31/10/2024, 11:00 am - +92 343 2078351: Self learning university
+31/10/2024, 11:01 am - +92 343 2078351: 😄
+31/10/2024, 1:22 pm - +92 320 8587480: Me wese ye kahon ga keh jahan sab se kam kharcha hota ha wahan jao... 
+
+Because univeristy jo bhi ho kaam apny laptop per hi krna ha..
+
+Or teachers her jaga aik hi jaise hote han.. kuch ko perhana aata hota ha or zyada ter ki to aap class lena hi ni chaho ge.. 
+
+1 year ke baad you will realize keh perhna khud hi ha..
+
+Apki First Job me aapki degree and GPA matter krta ha lekin University Software Engineering me matter ni krtii
+31/10/2024, 1:23 pm - +92 320 8587480: Wese, By the Way, Software Engineering me GPA bhi itna matter ni krta
+31/10/2024, 1:28 pm - +92 307 7789508: Degree matter karti ha no doubt,  but skill bhi matter karti ha , ajkal to sirf skill hi matter karti ha, aap phd karlo ap k pas field related skill na ho to us degree ka koi faida nhi , time waste money waste,
+31/10/2024, 1:39 pm - +92 326 0927271: Asalam o Alikum all!
+
+This is my new startup!
+In which you will get high-quality watches, clothes, decorations items and a lot more. 
+
+Kindly join our community for more products and discounts 
+
+https://chat.whatsapp.com/ICYWPmqnB7t6SnPJWlcmwP
+31/10/2024, 3:04 pm - +92 343 2078351: تنقیدی سوچ Critical Thinking : کیوں یہ سیکھنا ہمارے لیے ضروری ہے؟
+اور وہ کونسی کتابیں ہیں جو Critical Thinking سیکھنے کے لیے بہترین ہیں؟ 
+
+آج کے دور میں جہاں ہر طرف معلومات کی بھرمار ہے، سچ اور جھوٹ کی پہچان کرنا آسان نہیں رہا۔ ہم اکثر Herd Mentality کا شکار ہو جاتے ہیں، یعنی بغیر سوچے سمجھے دوسروں کی باتوں کو اپنا لیتے ہیں، چاہے وہ درست ہوں یا نہیں۔ سوشل میڈیا اور روز مرہ زندگی میں ہمیں ایسی خبریں یا معلومات ملتی ہیں جو اکثر تحقیق کیے بغیر شیئر کر دی جاتی ہیں۔ اسی طرح، جب لوگ کوئی رائے یا عقیدہ اپناتے ہیں تو اکثر وہ تنقیدی انداز سے نہیں سوچتے اور بغیر سوال کیے اسے مان لیتے ہیں۔
+
+یہی وجہ ہے کہ تنقیدی سوچ (Critical Thinking thinking) آج کے زمانے میں بے حد اہم ہے۔ تنقیدی سوچ کا مطلب ہے کہ ہم ہر معلومات یا رائے کو تجزیہ کریں، اس پر سوال اٹھائیں، اور خود سے تحقیق کریں کہ آیا یہ درست ہے یا نہیں۔ یہ مہارت ہمیں دھوکہ دہی اور غلط فہمیوں سے بچاتی ہے اور زندگی میں بہتر فیصلے کرنے میں مدد دیتی ہے۔
+
+اسی Critical Thinking کے بارے میں لوگ اکثر مجھ سے پوچھتے ہیں کہ وہ تنقیدی سوچ کیسے سیکھ سکتے ہیں اور اس مہارت کو کیسے بہتر بنا سکتے ہیں؟ اس سوال کا جواب میں ہمیشہ کتابوں کے ذریعے دیتا ہوں کیونکہ کتابیں وہ ذریعہ ہیں جو ہماری سوچ کو گہرائی اور وسعت دیتی ہیں۔ اس پوسٹ میں، میں آپ کو سات بہترین کتابوں ست متعارف کراتا ہوں جو تنقیدی سوچ کی مہارتوں کو سیکھنے اور بہتر بنانے میں آپ کی مدد کریں گی۔ ان میں سے کوئی دو یا تین کتابیں آپ کی پسند کے مطابق منتخب کریں، اور انہیں پڑھنے کے بعد آپ خود دیکھیں گے کہ آپ کی سوچ میں ایک نمایاں فرق آئے گا۔
+
+1. The Skeptics’ Guide to the Universe: How to Know What’s Really Real in a World Increasingly Full of Fake
+
+یہ کتاب جدید دور میں سچائی کی تلاش کے حوالے سے ایک جامع رہنمائی فراہم کرتی ہے۔ مصنفین سائنس، تجزیاتی سوچ، اور شواہد کی اہمیت پر زور دیتے ہیں۔ کتاب کا فوکس پوائنٹ یہ ہے کہ آج کی دنیا میں غلط معلومات اور افواہوں سے کیسے بچا جا سکتا ہے اور کس طرح سچائی تک پہنچنے کے لیے ہمیں اپنی سوچ میں تبدیلی لانی ہوگی۔ اگر آپ ہمیشہ سچائی کی تلاش میں رہتے ہیں اور فیک نیوز سے بچنا چاہتے ہیں تو یہ کتاب آپ کے لیے بہترین ہے۔
+
+2. Thinking, Fast and Slow
+
+ڈینیئل کاہنیمن کی یہ کلاسک کتاب انسانی دماغ کے دو طریقۂ کار  یعنی سسٹمز کو تفصیل سے بیان کرتی ہے: جلدی اور خودکار سوچنے کا طریقہ (fast thinking) اور آہستہ، غور و فکر کے بعد سوچنے کا طریقہ (slow thinking)۔ مصنف نے اس کتاب میں بتایا ہے کہ ہم کیسے اکثر جلدی میں غلط فیصلے کرتے ہیں اور کیسے آہستہ سوچنے سے بہتر نتائج حاصل کیے جا سکتے ہیں۔ یہ کتاب نہ صرف آپکی سوچ کو منظم کرتی ہے بلکہ یہ بھی سکھائے گی کہ کیسے ہم خود کو بہتر سوچنے کے لیے تربیت دے سکتے ہیں۔
+
+3. The 5 Elements of Effective Thinking
+
+یہ کتاب پانچ بنیادی عناصر پر مبنی ہے جو ہماری سوچ کو مؤثر بنا سکتے ہیں:
+1.Understand Deeply 
+2.Make Mistakes 
+3.Raise Questions 
+4.Follow The Flow of Ideas 
+4.Change 
+کتاب کا پر چیپٹر کئی پریکٹیکل اور آسان طریقوں پر مشتمل ہے جو آپ کو زندگی کے ہر شعبے میں زیادہ مؤثر اور کامیاب بنانے میں مدد دیتے ہیں۔ اس کتاب کی خاص بات یہ ہے کہ  اس میں پیچیدہ نظریات  Complex Concepts کو آسان زبان میں بیان کیا گیا ہے. یہ کتاب پڑھنے والے کو اس بات پر غور کرنے کی دعوت دیتی ہے کہ وہ کس طرح اپنی زندگی کو بہتر بنا سکتے ہیں۔
+
+4. Think Again: The Power of Knowing What You Don’t Know
+
+ایڈم گرانٹ کی یہ کتاب کا فوکس ہے کہ ہم اپنی معلومات اور عقائد Beliefs کو بار بار چیلنج کریں۔ مصنف کا کہنا ہے کہ جب ہم یہ مانتے ہیں کہ ہم سب کچھ جانتے ہیں، تو ہم دراصل غلطی کرتے ہیں۔ اس کے برعکس، ہمیں ہمیشہ اپنے علم کو اپڈیٹ کرتے رہنا چاہیے اور نئے خیالات کو قبول کرنے کے لیے تیار رہنا چاہیے۔ کتاب بہت Well Researched ہے اور Mind Expanding oy اور آپکی سکھاتی ہے کہ کیسے Think Again کا فن ہمیں زیادہ ذہین اور کھلے ذہن کا انسان بناتا ہے۔
+
+5. Asking the Right Questions: A Guide to Critical Thinking
+
+تنقیدی سوچ کا ایک اہم پہلو یہ ہے کہ ہم صحیح سوالات کریں۔ یہ کتاب  بھی اسی بارے میں  ہے کہ درست سوالات کیسے کیے جائیں تاکہ ہم بہتر نتائج اور فیصلے حاصل کر سکیں۔ یہ کتاب آپ کی زندگی کے ہر پہلو میں کام آ سکتی ہے، چاہے وہ آپ کی پروفیشنل لائف ہو یا پھر پرسنل لائف.
+
+6. The Art of Thinking Clearly by Rolf Dobelli
+
+رولف ڈوبیلی کی یہ مشہور کتاب ہماری ننانوے Cognitive Biases کے بارے میں ہے جو ہماری سوچ کو گمراہ کرتی ہیں۔کتاب میں آپ سیکھیں گے کہ ہم اپنی روزمرہ کی زندگی میں اکثر غلط فیصلے کیسے کرتے ہیں اور ان سے بچنے کا طریقہ کیا ہے۔ اس کتاب کو پڑھ کر آپ سمجھیں گے کہ کیسے چھوٹے چھوٹے Mental Flaws ہمیں بڑے نقصان کی طرف لے جاتے ہیں.
+اگر آپ Human Psychology میں بھی دلچسپی رکھتے ہیں تو یہ کتاب. لازمی پڑھیں اور یہ کتاب بہت دلچسپ ہے. 
+
+7. Super Thinking: The Big Book of Mental Models
+
+اگر آپ اپنے سوچنے کے طریقوں کو بہتر بنانا چاہتے ہیں تو یہ کتاب آپ کے لیے بہترین ہے۔ اس کتاب میں مختلف Mental Models (ذہنی ماڈلز) کو بیان کیا گیا ہے جو ہمیں پیچیدہ مسائل کو بہتر طریقے سے سمجھنے اور حل کرنے میں مدد دیتے ہیں۔ یہ کتاب ان لوگوں کے لیے ہے جو اپنی سوچ کی گہرائی کو بڑھانا چاہتے ہیں اور مختلف زاویوں سے مسائل کو دیکھنا سیکھنا چاہتے ہیں۔
+
+8.Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think
+
+یہ کتاب میری پسندیدہ کتابوں میں سے ایک یے اور پڑھنے والی کتاب ہے. Factfulness ایک بہت معلوماتی کتاب ہے جو دنیا کے بارے میں ہمارے غلط تصورات کو درست کرتی ہے۔ Rosling بتاتے ہیں کہ ہم میں سے زیادہ تر لوگ دنیا کے بارے میں انتہائی منفی اور غیر حقیقت پسندانہ نظریات رکھتے ہیں۔ مصنف کا کہنا ہے کہ ہمیں اعداد و شمار اور حقائق کی بنیاد پر دنیا کا تجزیہ کرنا چاہیے، نہ کہ ہمارے جذبات یا پرانے خیالات کی بنیاد پر۔ یہ کتاب آپ کی سوچ کو حقیقت کے قریب لے جائے گی اور آپ کو سکھائے گی کہ دنیا دراصل اتنی بری نہیں جتنی ہم سمجھتے ہیں۔
+
+یہ بات بھی ذہن نشین کرلیں کہ تنقیدی سوچ  Critical Thinking محض ایک مہارت نہیں، بلکہ یہ ہماری زندگی میں ایک اہم تبدیلی کا ذریعہ ہے۔ جب ہم تنقیدی انداز میں سوچنا شروع کرتے ہیں، تو ہم بہتر فیصلے کرنے، حقائق کو سمجھنے، اور درست سمت میں چلنے کے قابل ہوتے ہیں۔ آج کے دور میں، جہاں ہر طرف غلط معلومات پھیل رہی ہیں، تنقیدی سوچ ہمیں صحیح راہ دکھاتی ہے اور ہمیں دھوکہ دہی سے بچاتی ہے۔
+
+ان کتابوں کو پڑھ کر آپ تنقیدی سوچ کو بہتر بنانے کا آغاز کر سکتے ہیں۔ یہ سب کتابیں آپ کو نئے زاویوں سے سوچنے اور بہتر فیصلے کرنے میں مدد دیں گی۔ یاد رکھیں، سوچنا سیکھنے کا مطلب یہ نہیں کہ ہم ہر چیز پر شک کریں، بلکہ یہ ہے کہ ہم سچائی تک پہنچنے کے لیے درست سوالات کریں اور ہر معلومات کو تجزیہ کی نگاہ سے دیکھیں۔
+
+آپ ان کتابوں میں سے کوئی دو یا تین کتابیں منتخب کریں اور اس سفر کا آغاز کریں۔ جیسے جیسے آپ پڑھتے جائیں گے، آپ کو اپنی سوچ میں ایک نمایاں فرق محسوس ہوگا۔
+
+کتابیں آپ PDF میں Library Genesis سائٹ سے ڈاؤنلوڈ کرسکتے ہیں. 
+
+توصیف اکرم نیازی
+31/10/2024, 3:11 pm - +92 343 2078351: <Media omitted>
+31/10/2024, 4:16 pm - +92 332 8021821: Any one here who can provide me notes of 10 class Of fbise.  plz plz i need badly
+31/10/2024, 4:20 pm - +92 340 5790021: Ok, Got it . Thanks for your suggestion ☺️
+31/10/2024, 4:41 pm - +92 345 0944813 joined using this group's invite link
+31/10/2024, 7:01 pm - +92 343 2078351: <Media omitted>
+31/10/2024, 7:09 pm - +92 343 2078351: <Media omitted>
+31/10/2024, 7:13 pm - +92 333 2203353: MashaAllah best
+31/10/2024, 7:15 pm - +92 343 2078351: My introduction:
+💥 Student of BS English,  Allama Iqbal Open University,
+💥 worked as Virtual Assistant in E-commerce Field 
+💥  Skills: Digital Marketing, Graphic Designing, Content  Writing, Etc
+📍from: Multan, Pakistan )
+💥Interests:  Research based on AI, IoT, and Blockchain; Talks about self management
+31/10/2024, 7:15 pm - +92 343 2078351: I’m educating people for free, sharing insights about different technologies. I’m also teaching them how to use tools like ChatGPT. Recently, I informed people that they can mine crypto for free on Telegram.
+31/10/2024, 7:16 pm - +92 343 2078351: https://www.facebook.com/share/r/HQciMWWzpupfyUts/
+31/10/2024, 7:23 pm - +92 343 2078351: I am always grateful to Sir Irfan Malik, whose teachings have enabled me to stand on my own feet today, ALHAMDULILLAH. I have established my own office, and I'm always ready to help any friend in need.
+
+#TogetherWeCan #StrongerTogether
+#UnitedForGood 
+ #SupportEachOther #GiveBack
+#HelpingHands #CommunitySupport #MakeADifference #UnityInDiversity #CharityForAll
+#ActOfKindness #ShareTheLove #werisebyliftingothers❤️ #luckyhamza786
+31/10/2024, 8:18 pm - +92 323 5114548: Keep up the good work May Allah shower His blessings on you in both worlds 💖
+31/10/2024, 8:19 pm - +92 343 2078351: Thanks sister 😊💕
+31/10/2024, 10:17 pm - +92 320 8587480: Crypto Mining on Telegram.. isn't that fake?
+31/10/2024, 10:44 pm - +92 343 2078351: Not
+31/10/2024, 10:44 pm - +92 343 2078351: https://www.tiktok.com/@luckyhamza786?_t=8r0cSkIBwjx&_r=1
+31/10/2024, 10:44 pm - +92 343 2078351: BEST Project Ever🔗👇🏻
+
+https://vt.tiktok.com/ZSjjeTnKj/
+#X #Empire ❤‍🔥
+31/10/2024, 10:51 pm - +92 307 7789508: https://leaf-it.com/10-ways-prevent-cyber-attacks/
+01/11/2024, 9:26 am - +92 306 6785416: <Media omitted>
+01/11/2024, 9:26 am - +92 306 6785416: And any other group member..?
+01/11/2024, 9:27 am - +92 326 0927271: I am from Sargodha. Most welcome
+01/11/2024, 9:28 am - +92 306 6785416: Wao Sir ❤️ 
+In Sha Allah mulaqat ho ge
+01/11/2024, 9:28 am - +92 326 0927271: In sha Allah see you
+01/11/2024, 9:28 am - +92 306 6785416: Location Kya bnte ha ma kbhe akela gya ni in city 😁
+01/11/2024, 9:29 am - +92 326 0927271: Sargodha art Council. Jail Road.
+01/11/2024, 9:37 am - +92 306 6785416: Zam Zam shoping center wale side bnte..?
+01/11/2024, 9:40 am - +92 326 0927271: Kachari agr ap ne deakhi hoe ha to use k sath ha
+01/11/2024, 9:42 am - +92 306 6785416: si si smjh a gye ♥️
+Thanks a lot bhi
+01/11/2024, 10:11 am - +92 343 2078351: *💛 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ*
+
+                  🤲🏻🤲🏻🤲🏻
+
+*❁بِسْــــــــــــــــــمِﷲِالرَّحْمَنِ ارَّحِيم❁۔*
+
+*❁اللَّهُمَّ صَــّلِ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ ❁ كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيْمَ وَعَلَىٰ آلِ إِبْرَاهِيْمَ ❁ إنَّكَ حَمِيْدٌ مَجِيْدٌ ❁*
+
+ *❁ اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ ❁ كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيْمَ وَعَلَىٰ آلِ إِبْرَاهِيْمَ ❁ إنَّكَ حَمِيْدٌ مَجِيْدٌ ❁*
+
+Juma Mubarak ❤️
+01/11/2024, 10:26 am - +92 343 2078351: <Media omitted>
+01/11/2024, 10:38 am - +92 343 2078351: This message was deleted
+01/11/2024, 12:04 pm - +92 343 2078351: <Media omitted>
+01/11/2024, 12:12 pm - +92 343 2078351: https://vt.tiktok.com/ZSjjX6Mve/
+01/11/2024, 12:19 pm - +92 343 2078351: <Media omitted>
+01/11/2024, 12:30 pm - +92 345 0944813: Assalamualaikum 
+
+
+My name is Muhammad ilyas 
+I have currently doing BS computer science from Virtual university of Pakistan 1st semester 
+
+
+
+ *What are your opinion about BS CS from Virtual university* ...
+01/11/2024, 12:42 pm - +92 343 2078351: Agr ap self learner ho to Virtual university best hai
+01/11/2024, 1:33 pm - +92 333 2203353: MashaAllah congratulations
+01/11/2024, 3:15 pm - +92 343 2078351: null
+01/11/2024, 3:37 pm - +92 309 7095014 joined using this group's invite link
+01/11/2024, 3:40 pm - +92 309 7095014: <Media omitted>
+01/11/2024, 4:04 pm - +92 333 2203353: Walaikum assalam, its good. Keep continue your course with focus. If your question is about career or international reputation of virtual university's degree then google it carefully and find out facts about your degree and university.
+01/11/2024, 4:40 pm - +92 345 0944813: Thanks for Guidance 
+
+But Google cannot give me answer about experience based 
+
+
+Can I take career in cs in this university
+01/11/2024, 5:18 pm - +92 307 7789508: Walikum Slaam ,
+Brother ye depend karta ha ap k skill set pay, agr ap ki university apko degree k baad apki resume bna day, apko field related skill provide kary, 
+Aap ki interview preparation krwaye.
+Phr apko is university main degree karni chaye
+01/11/2024, 6:33 pm - +92 317 9661942: Assalamualaikum, kindly help me, kuxh din pehly around 1 month pehly meiny apny mobile ki gallery Sy kuxh videos delete ki thi un mein ek bhut hi important video delete ho gaye h jiska Meray Mobile mein  Hona ab bhut Zaroori h kyun k us video mein kuxh proof they payment ky abhi jisko meiny payment ki thi woh Banda keh Raha h mujhe nhi di, so ab yahi Hal h ager woh video mil jaye tou Meri payment mil jaye gi otherwise no 
+
+Please help me ab Kya kroun woh video kesay reviver kroun thank u
+01/11/2024, 6:42 pm - +92 307 7789508: Walikum salaam,
+Agr to ap ny galery sy delet kiye hn to wo trash min honi chaye,q k trash min 30 days baad permanently delet hoti hn
+2nd ye k agr aap ny google photos main backup lagaya  hoya ha to wo google photos main mil sagtii hn.
+3rd ye k kuch tools hn jo videos ko recover kar sagtii hn jo k paid bhi hn gy or freee bhi
+01/11/2024, 6:43 pm - +92 307 7789508: Is k ilawa mobile shop waly bhi data backup kr k dyty hn
+01/11/2024, 6:45 pm - +92 317 9661942: Sir ap please Bata skahty h koi best tool ?
+01/11/2024, 6:47 pm - +92 307 7789508: Wait krain kuch time k baad apko tool suggest kro ga
+01/11/2024, 7:14 pm - +92 317 9661942: Sure sir
+01/11/2024, 7:58 pm - +92 307 7789508: https://www.tenorshare.com/products/android-data-recovery.html
+01/11/2024, 8:00 pm - +92 307 7789508: https://drfone.wondershare.com/
+01/11/2024, 8:00 pm - +92 307 7789508: Ye use karin paid tool hn lkn bht acha experience hA.
+01/11/2024, 8:01 pm - +92 317 9661942: Sir meiny Kafi tool use kiye h WhatsApp messenger unki video mil Rahi h lekin Jo camera recorded video jo meiny apny mobile Sy record ki thi us bandy ki video woh recover nhi ho Rahi apps Sy
+02/11/2024, 12:50 pm - +92 326 0927271: <Media omitted>
+02/11/2024, 12:50 pm - +92 326 0927271: <Media omitted>
+02/11/2024, 1:13 pm - +92 326 0927271: These voices are related to AI talk in Sargodha. Will share respected sir Irfan speach as well in form of voice note. Thanks
+02/11/2024, 3:57 pm - +92 320 9099349: +92 317 5474343
+This is a scammer plz report
+02/11/2024, 4:02 pm - +92 305 1859128: G bilkul Zaroor dear brother
+02/11/2024, 4:06 pm - +92 309 2095756: What type of scam
+02/11/2024, 4:16 pm - +92 320 9099349: Investment and Financial Scams
+02/11/2024, 4:35 pm - +92 326 0927271: <Media omitted>
+02/11/2024, 4:35 pm - +92 326 0927271: <Media omitted>
+02/11/2024, 4:42 pm - +92 326 0927271: <Media omitted>
+02/11/2024, 6:23 pm - +92 343 2078351: <Media omitted>
+03/11/2024, 11:36 am - +92 343 2078351: <Media omitted>
+03/11/2024, 11:45 am - +92 343 2078351: Go to ChatGPT and ask it 
+
+Create an image of what you think my life would look like
+03/11/2024, 11:46 am - +92 343 2078351: <Media omitted>
+03/11/2024, 12:08 pm - +92 343 2078351: <Media omitted>
+03/11/2024, 12:42 pm - +92 309 7095014: <Media omitted>
+03/11/2024, 2:04 pm - +92 343 2078351: <Media omitted>
+03/11/2024, 2:16 pm - +92 309 7095014: <Media omitted>
+03/11/2024, 2:18 pm - +92 309 7095014: <Media omitted>
+03/11/2024, 2:27 pm - +92 343 2078351: <Media omitted>
+03/11/2024, 8:17 pm - +92 348 7906778: Dear fellows 
+If you have canva pro kindly send me link
+03/11/2024, 8:18 pm - +92 306 9287947: Ok
+03/11/2024, 8:25 pm - +92 343 2078351: I only use Illustrator.
+03/11/2024, 8:28 pm - +92 343 2078351: https://www.facebook.com/reel/536638935962659?mibextid=rS40aB7S9Ucbxw6v
+03/11/2024, 10:25 pm - +92 334 3391992: Assalam o Alaikum 
+Any free site for removing plagiarism please
+03/11/2024, 11:19 pm - +92 331 3632939: Quilt bot
+04/11/2024, 12:08 am - +92 334 3391992: It is paid
+04/11/2024, 1:29 am - +92 331 3632939: No somefeatures are still free too and i used this tool for removing plagiarism
+04/11/2024, 8:28 am - +92 309 3108513: *Canva Pro Fresh Teams* 
+*Canva Pro Giveaway #8*
+https://www.canva.com/brand/join?token=HVbgYuSBw75ymucxrKj54g&referrer=team-invite 
+
+ *Canva Pro Giveaway#9* 
+https://www.canva.com/brand/join?token=1rpEVOfggHOHNY1psLveeg&referrer=team-invite
+
+ *Canva Pro Giveaway #10* 
+https://www.canva.com/brand/join?token=qhJ38Z_C3FWlk5JZVp6_Yg&referrer=team-invite
+04/11/2024, 9:06 am - +92 309 7095014: This message was deleted
+04/11/2024, 9:06 am - +92 309 7095014: *💛 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ*
+
+                  🤲🏻🤲🏻🤲🏻
+
+*❁بِسْــــــــــــــــــمِﷲِالرَّحْمَنِ ارَّحِيم❁۔*
+
+*❁اللَّهُمَّ صَــّلِ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ ❁ كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيْمَ وَعَلَىٰ آلِ إِبْرَاهِيْمَ ❁ إنَّكَ حَمِيْدٌ مَجِيْدٌ ❁*
+
+ *❁ اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ ❁ كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيْمَ وَعَلَىٰ آلِ إِبْرَاهِيْمَ ❁ إنَّكَ حَمِيْدٌ مَجِيْدٌ ❁*
+04/11/2024, 9:07 am - +92 317 9661942: Assalamualaikum, Yahan koi ethical hacker  h ?
+04/11/2024, 10:41 am - +92 343 2078351: <Media omitted>
+04/11/2024, 10:48 am - +92 343 2078351: <Media omitted>
+04/11/2024, 10:54 am - +92 321 4122103: Required help/directions 
+I want to buy chatgpt4 to use API key in my project, can I buy someone who sells less price
+04/11/2024, 10:59 am - +92 326 0927271: No, because you always get a limit. Purchase it from official
+04/11/2024, 11:12 am - +92 348 7906778: Yh work nhi kr rhy
+04/11/2024, 12:54 pm - +92 343 2078351: <Media omitted>
+04/11/2024, 1:51 pm - +92 343 2078351: <Media omitted>
+04/11/2024, 3:57 pm - +92 343 2078351: <Media omitted>
+04/11/2024, 5:14 pm - +92 302 6791109: Ye Kis Ki awaz h
+04/11/2024, 5:15 pm - +92 302 6791109: Ye Kon h
+04/11/2024, 5:35 pm - +92 302 6791109: Kisi K nh pta yaha?
+04/11/2024, 5:46 pm - +92 303 6123098: Assalamualaikum wa rehmatullahi wa barkatuh 
+Kisi k pas Canva pro hay
+04/11/2024, 5:46 pm - +92 303 6123098: ?
+04/11/2024, 5:53 pm - +92 326 0927271: Mudasar Altaf
+05/11/2024, 11:51 am - +92 343 2078351: <Media omitted>
+05/11/2024, 1:49 pm - +92 343 2078351: <Media omitted>
+05/11/2024, 1:54 pm - +92 343 2078351: <Media omitted>
+05/11/2024, 3:21 pm - +92 343 2078351: <Media omitted>
+05/11/2024, 4:07 pm - +92 343 2078351: <Media omitted>
+05/11/2024, 4:21 pm - +92 343 2078351: <Media omitted>
+05/11/2024, 4:22 pm - +92 343 2078351: This message was deleted
+05/11/2024, 5:05 pm - +92 309 2095756: Kisi k paas Canva pro available h
+05/11/2024, 5:36 pm - +92 303 6123098: *Fresh Canva Pro Links*
+
+Team 1: https://www.canva.com/brand/join?token=CBiSsNcAxL_S9DPmmEoNHg&referrer=team-invite
+
+Team 2:
+https://www.canva.com/brand/join?token=mrxizXF8QbseSt7yT0R64Q&referrer=team-invite
+
+Team 3:
+https://www.canva.com/brand/join?token=qKpywqLPvEwxOk1cSlOk_A&referrer=team-invite
+
+Team 4:
+https://www.canva.com/brand/join?token=G1wSLsJ32oRkHNtPsFZLrA&referrer=team-invite
+
+Team 5: 
+https://www.canva.com/brand/join?token=1VIVm1sTiXM2KMznm3LBIQ&referrer=team-invite
+05/11/2024, 6:15 pm - +92 310 8668380: Yes
+05/11/2024, 9:11 pm - +92 310 4361015: W Salam 
+Yes
+06/11/2024, 11:11 am - +92 326 0927271: Create an image of a futuristic city skyline at sunset. The city should have tall, sleek skyscrapers with glowing neon signs in various colors, some with holographic advertisements. In the sky, show flying cars and small drones moving between buildings. Add a soft orange and pink glow from the setting sun, with a few clouds in the sky, reflecting light. The city should feel vibrant and full of life, blending elements of science fiction with realistic details.
+06/11/2024, 11:11 am - +92 326 0927271: <Media omitted>
+06/11/2024, 11:13 am - +92 322 5305720: Konsa model hai?
+06/11/2024, 11:14 am - +92 326 0927271: Chat gpt
+06/11/2024, 11:15 am - +92 322 5305720: Ok thanks
+06/11/2024, 1:10 pm - +92 309 2095756: Agr hmein WordPress seekhna ho tu kesy seekhein
+06/11/2024, 1:10 pm - +92 326 0927271: Digiskill pe b course ha or ap YouTube se b seakh sakta ha
+06/11/2024, 1:23 pm - +92 309 7095014: <Media omitted>
+06/11/2024, 2:34 pm - +92 313 4997451: Onsite Job 
+Location: Rawalpindi 
+We are seeking experienced professionals with 3+ years in one or more of the following areas:
+1.Blockchain Development
+2.Python Development
+3.UI/UX Design
+
+Responsibilities:
+
+Collaborate with team members on diverse, high-impact projects.
+
+Apply expertise to deliver high-quality, innovative solutions.
+
+Maintain up-to-date knowledge in your area of expertise.
+
+Proven track record in the field, with strong problem-solving and communication skills.
+
+If you're passionate and ready to make an impact, we'd love to hear from you!
+
+Apply 
++92 303 5856324
+usamaali.developer@gmail.com
+06/11/2024, 2:51 pm - +92 343 2078351: <Media omitted>
+06/11/2024, 3:22 pm - +92 300 4974756: Kasi kay pass koi online job ho gi main kaam krna chahta ho
+06/11/2024, 3:40 pm - +92 343 2078351: Ap k pas kon se skills hai?
+06/11/2024, 3:46 pm - +92 343 2078351: <Media omitted>
+06/11/2024, 5:03 pm - +92 343 2078351: <Media omitted>
+06/11/2024, 5:21 pm - +92 326 0927271: We will need you to:
+
+1) Generate a script based on a topic WE ASSIGN YOU with a set of prompts via Chat-GPT (will give you access to the Premium version), but for now, you can check out this conversation where everything is described in detail on how we do it:
+
+- https://chatgpt.com/share/66ed8097-20e4-800d-88cd-81f38dbe084c
+
+And also these 2 video tutorials where everything is explained in close details:
+
+PART 1:
+
+- https://www.loom.com/share/4285f465651f458da4c81522b7fa8810?sid=8653fe5f-320c-4320-a29f-59ac9ddfcbd1
+
+PART 2:
+
+- https://www.loom.com/share/0a90b61347014348870b7b4cba6440e3?sid=c25a2f84-a4a8-4d72-8f42-038c954f5acb
+
+2) Generate audio through ElevenLabs with voice over called "Lucius Aurelius - Strong and Confident" with this tutorial:
+
+https://www.loom.com/share/26295ebb7f664f47871b113a7a21fd29?sid=dde493b4-0a1a-40ee-8fdf-96b4c5c93d7a
+
+3) Generate image via Playground AI, Mid-Journey or PromeAI that will be used for thumbnail as well as background for the video. Check these channels for reference:
+
+- https://www.youtube.com/@EchoesofInjustice1/videos
+- https://www.youtube.com/@NestStories/videos
+- https://www.youtube.com/@LovelyLife33/videos
+ 
+PS: We will show you how in a video tutorial as well.
+
+4) Put the image along with the generated voice over audio in proper order in CapCut or any other fast rendering software and add the automatic subtitles generation and add some effect layer and automatic zoom in and zoom out effect. Then render.
+
+5) Once it's rendered - Upload everything on YT Studio with title same as assigned and thumbnail the one you generated.
+06/11/2024, 5:21 pm - +92 326 0927271: Anyone who is able to do it. Just dm me. Thanks
+06/11/2024, 7:05 pm - +92 310 8668380: If anyone needs a content writer, assignment writing work , article writing work, then contact me in my inbox.thanks
+06/11/2024, 7:41 pm - +92 343 2078351: آرٹیفیشل انٹیلی جنس (مصنوعی ذہانت) ایک ایسی ٹیکنالوجی ہے جس کا مقصد مشینوں اور کمپیوٹر سسٹمز کو انسانوں کی طرح سوچنے، سیکھنے اور فیصلے کرنے کے قابل بنانا ہے۔ یہ ایک وسیع میدان ہے جس میں کئی مختلف تکنیکیں اور طریقے شامل ہیں، جنہیں استعمال کرکے مشینیں انسانی دماغ کی طرح کام کرنے کی کوشش کرتی ہیں۔
+
+آرٹیفیشل انٹیلی جنس کے اہم پہلو:
+
+1. مشین لرننگ (Machine Learning): مشین لرننگ وہ طریقہ ہے جس کے ذریعے کمپیوٹر خود سے سیکھنا شروع کرتے ہیں، بغیر کسی خاص پروگرامنگ کے۔ اس میں سسٹم اپنے تجربات سے سیکھتا ہے اور وقت کے ساتھ خود کو بہتر بناتا ہے۔ مثال کے طور پر:
+
+نیٹفلکس یا یوٹیوب: جب آپ کوئی ویڈیو دیکھتے ہیں یا کوئی شو پسند کرتے ہیں، تو یہ سسٹم آپ کی پسند کو سیکھتا ہے اور مستقبل میں آپ کو اسی طرح کے مواد کی تجویز دیتا ہے۔
+
+
+
+2. نیورل نیٹ ورک (Neural Networks): یہ کمپیوٹر کی ایک ایسی ساخت ہے جو انسان کے دماغ کی نیورل (عصبی) نیٹ ورک کی طرح کام کرتی ہے۔ یہ پیچیدہ ڈیٹا کو پروسیس کرنے میں مدد دیتی ہے، جیسے کہ تصویر یا آواز کی شناخت۔ مثال:
+
+تصویر کی شناخت: اگر آپ کے پاس ایک تصویر ہو جس میں ایک کتا ہو، تو آرٹیفیشل انٹیلی جنس کی مدد سے کمپیوٹر یہ سمجھ سکتا ہے کہ یہ کتا ہے، اس کی نسل کیا ہو سکتی ہے، وغیرہ۔
+
+
+
+3. ڈیپ لرننگ (Deep Learning): یہ مشین لرننگ کا ایک پیچیدہ ورژن ہے، جس میں زیادہ ڈیٹا اور زیادہ پیچیدہ نیورل نیٹ ورک استعمال کیے جاتے ہیں۔ یہ خاص طور پر تصویر اور آواز کی شناخت میں استعمال ہوتا ہے۔
+
+سیلف ڈرائیونگ گاڑیاں: خود چلنے والی گاڑیاں، جیسے کہ ٹیسلا، اس میں ڈیپ لرننگ کا استعمال کرتی ہیں تاکہ سڑک پر موجود مختلف اشیاء جیسے کہ پیدل چلنے والے، دوسرے گاڑیوں اور سگنل کی شناخت کی جا سکے۔
+
+
+
+4. قدرتی زبان کی پروسیسنگ (Natural Language Processing - NLP): یہ وہ ٹیکنالوجی ہے جس کے ذریعے کمپیوٹرز اور مشینیں انسان کی زبان کو سمجھتی ہیں اور اس پر ردعمل دیتی ہیں۔ یہ ٹیکنالوجی چیٹ بوٹس، ترجمے، اور اسپیکر کے ذریعے کی جانے والی باتوں کو سمجھنے میں استعمال ہوتی ہے۔
+
+گوگل اسسٹنٹ یا سیری: جب آپ اپنی آواز سے کسی سوال کا جواب چاہتے ہیں، تو یہ نظام قدرتی زبان کو سمجھ کر آپ کو جواب دیتا ہے۔ جیسے "آج کا موسم کیسا ہے؟"
+
+
+
+5. روبوٹکس (Robotics): اس میں مشینیں، خاص طور پر روبوٹ، آرٹیفیشل انٹیلی جنس کا استعمال کرتی ہیں تاکہ وہ خودکار طریقے سے کام انجام دے سکیں۔ روبوٹ، انسان کی طرح کام کر سکتے ہیں اور پیچیدہ کاموں کو انجام دے سکتے ہیں۔
+
+صنعتی روبوٹ: فیکٹریوں میں روبوٹ ہیں جو پروڈکشن لائن پر ایک ہی کام کو بار بار کرتے ہیں، جیسے کہ گاڑیوں کی اسمبلی، بغیر تھکے۔
+
+
+
+
+آرٹیفیشل انٹیلی جنس کی کچھ مثالیں:
+
+1. شطرنج کھیلنا: آپ نے سنا ہوگا کہ کمپیوٹر شطرنج کھیلنے میں انسانوں سے بھی بہتر کھیل سکتا ہے۔ اس کی ایک مثال "الفاگو" ہے، جو ایک مشین ہے جس نے گو نام کے کھیل میں دنیا کے بہترین کھلاڑی کو ہرا دیا۔ یہ مشین کھیل کو سیکھنے، تجربہ حاصل کرنے اور خودکار فیصلے کرنے کی صلاحیت رکھتی تھی۔
+
+
+2. صحت کے شعبے میں استعمال: میڈیکل شعبے میں بھی آرٹیفیشل انٹیلی جنس کا استعمال بڑھ رہا ہے۔ AI سسٹمز مریضوں کی رپورٹس اور تصاویر (جیسے ایکس رے یا سی ٹی اسکین) کو تجزیہ کرتے ہیں تاکہ بیماریوں کا پتہ چلایا جا سکے۔ مثال کے طور پر، AI سسٹمز کینسر کی تصاویر کی شناخت کرنے میں بھی مدد دیتے ہیں۔
+
+
+3. خودکار چیٹ بوٹس: مختلف ویب سائٹس اور کمپنیوں میں آپ نے چیٹ بوٹس کا سامنا کیا ہوگا جو آپ کے سوالات کے فوراً جوابات دیتے ہیں۔ یہ بوٹس قدرتی زبان کی پروسیسنگ (NLP) کا استعمال کرتے ہیں تاکہ آپ کی بات کو سمجھ کر آپ کو مناسب جواب دے سکیں۔
+
+
+
+نتیجہ:
+
+آرٹیفیشل انٹیلی جنس نہ صرف سائنسی تحقیق میں بلکہ روزمرہ کی زندگی میں بھی انقلاب لا رہی ہے۔ یہ انسانی صلاحیتوں کو بڑھاتی ہے اور مشینوں کو مزید ذہین بناتی ہے تاکہ وہ ہمارے کاموں میں مددگار بن سکیں۔ جیسے جیسے اس کی ترقی ہو رہی ہے، اس کا دائرہ مزید وسیع ہو رہا ہے اور ہماری زندگیوں میں اس کا اثر بڑھ رہا ہے۔
+06/11/2024, 8:34 pm - +92 343 2078351: <Media omitted>
+06/11/2024, 10:25 pm - +92 309 7095014: This message was deleted
+07/11/2024, 12:16 pm - +92 303 6123098: Assalamualaikum wrwb 
+Capcut pro mil skta hay.
+07/11/2024, 12:16 pm - +92 343 2078351: This message was deleted
+07/11/2024, 12:51 pm - +92 343 2078351: <Media omitted>
+07/11/2024, 1:14 pm - +92 306 6785416: *CapCut Pro*  
+
+
+➡️ Email:Password 
+
+oyenz703@gmail.com:@Vc!2345
+icby0.bibas@gmail.com:Yuval1000
+kreatifostudio@gmail.com:Qori121004
+aktasabidin0101@gmail.com:abopro010134
+m-11342822@moe-dl.edu.my:Sktsbba9220
+jon979650@gmail.com:Nba2kBop223
+ashaheen1216@gmail.com:7gd3i68l
+ginapmoya25@gmail.com:989202gp
+digiaslan@yahoo.com:ottaaa
+zisdilebak@gmail.com:CAPcut1209
+typ_gamer1@kakao.com:@wlsdid0522
+ljean1624@gmail.com:Jeanlouis17347
+07/11/2024, 3:49 pm - +92 307 7789508: <Media omitted>
+07/11/2024, 6:02 pm - +92 309 2095756: Kya JavaScript ka scope Baki h?
+07/11/2024, 6:06 pm - +92 307 7789508: Hr field ka appna scope ha ,
+07/11/2024, 6:09 pm - +92 309 2095756: Ni Mera mtlb tha k Kya abhi b isko prefer Kiya jata k nii
+07/11/2024, 6:53 pm - +92 343 2078351: null
+07/11/2024, 7:07 pm - +92 343 2078351: مشین لرننگ سیکھنے کے لیے ایک بہترین روڈ میپ:
+
+1. بنیادی پروگرامنگ سیکھنا: سب سے پہلے Python پروگرامنگ زبان سیکھیں کیونکہ مشین لرننگ میں یہ سب سے زیادہ استعمال ہوتی ہے۔ آپ کو لوپس، فنکشنز، ڈیٹا اسٹرکچرز اور آبجیکٹ اورینٹڈ پروگرامنگ جیسے بنیادی تصورات سمجھنے ہوں گے۔
+
+2. ریاضی اور اعداد و شمار (Statistics): مشین لرننگ کو سمجھنے کے لیے آپ کو لینیئر الجبرا، احتمال (Probability)، کیلکولس اور اعداد و شمار کے بنیادی تصورات سیکھنے ہوں گے۔ یہ آپ کو الگورڈمز سمجھنے میں مدد دے گا۔
+
+3. ڈیٹا پری پروسیسنگ: سیکھیں کہ کس طرح ڈیٹا کو صاف اور پروسیس کرتے ہیں۔ اس میں مِسنگ ویلیوز کو ہینڈل کرنا، ڈیٹا کو نارملائز کرنا اور متعلقہ فیچرز کو سلیکٹ کرنا شامل ہے۔
+
+4. بنیادی مشین لرننگ الگورڈمز: سپروائزڈ اور انسپرائزڈ لرننگ کے الگورڈمز، جیسے لینیئر ریگریشن، ڈیسیژن ٹری، کے-مینز کلسٹرنگ اور رینڈم فارسٹ سیکھیں اور ان کو امپلیمنٹ کرنا سیکھیں۔
+
+5. ماڈل کی تشخیص: سیکھیں کہ کس طرح اپنے ماڈل کی پرفارمنس کو ایویلیویٹ کرتے ہیں۔ اس میں ایکوریسی، پریسیژن، ریکال اور F1-اسکور جیسے میٹرکس کو سمجھنا ضروری ہے۔
+
+6. ایڈوانس ٹاپکس: جب آپ بنیادی تصورات سیکھ لیں، تو پھر ڈیپ لرننگ، نیورل نیٹ ورکس، رینفورسمنٹ لرننگ اور نیچرل لینگویج پروسیسنگ (NLP) جیسے ایڈوانس ٹاپکس پر توجہ دیں۔
+
+7. پروجیکٹس اور پریکٹس: سیکھنے کے بعد اپنے اسکلز کو بہتر بنانے کے لیے ریئل ورلڈ پروجیکٹس پر کام کریں۔ Kaggle اور GitHub جیسے پلیٹ فارمز پر اپنے پروجیکٹس شیئر کریں تاکہ آپ کو پریکٹیکل تجربہ ہو۔
+
+8. مسلسل سیکھنا: مشین لرننگ ایک تیزی سے بدلتی ہوئی فیلڈ ہے، اس لیے نئے ریسرچ پیپرز، بلاگس اور کورسز سے اپنا علم اپ ڈیٹ کرتے رہیں۔
+
+اس روڈ میپ کو فالو کرتے ہوئے آپ آہستہ آہستہ مشین لرننگ میں ماہر بن سکتے ہیں۔
+07/11/2024, 7:25 pm - +92 302 6791109: Canva pro h kisi K pas?
+07/11/2024, 8:31 pm - +92 326 0927271: Asalam o Alikum, ma hostinger webmail se email send krta ho but jub b kro to woh spam me jati ha. mana SMT, DNM sub records b update kia ha but still same issue. kisi bahi ko solution pta ho to kindly reply me. Thanks
+07/11/2024, 8:34 pm - +92 302 6550280: 🙏
+07/11/2024, 8:36 pm - +92 310 8668380: Yes available Dear
+07/11/2024, 11:07 pm - +92 343 2078351: <Media omitted>
+08/11/2024, 1:35 am - +92 309 7095014: <Media omitted>
+08/11/2024, 1:42 am - +92 343 2078351: <Media omitted>
+08/11/2024, 2:18 pm - +92 343 2078351: Shahada GPT: Ask anything about “Islam”
+https://www.facebook.com/share/v/17tpsBjKZ4/?mibextid=WC7FNe
+
+Registration Link:
+https://shahadagptfe.xeventechnologies.com/register
+09/11/2024, 3:17 pm - +92 343 2078351: <Media omitted>
+09/11/2024, 3:17 pm - +92 343 2078351: 1. TextBlob Installation: pip install textblob
+
+
+2. Function Definition: correct_grammar() using TextBlob to correct text.
+
+
+3. User Input Example: Input "marekt" is corrected to "market."
+
+
+4. Output Display: Prints corrected text.
+09/11/2024, 3:20 pm - +92 343 2078351: <Media omitted>
+09/11/2024, 3:33 pm - +92 307 7789508: <Media omitted>
+09/11/2024, 5:18 pm - +92 310 4943542: Beshak
+09/11/2024, 5:55 pm - +92 345 0944813: His Degree Department ❓
+09/11/2024, 6:02 pm - +92 309 2095756: Ho skta sirf pass hony k liye prhai ki ho
+10/11/2024, 7:28 am - +92 333 2203353: True without skill even you can't stand on your own position in any organization
+10/11/2024, 7:53 pm - +92 309 7095014: <Media omitted>
+10/11/2024, 7:53 pm - +92 309 7095014: سر عرفان کے کہے گئے الفاظ بےحد قیمتی ہیں۔ ان کی ہر بات میں ایسی گہرائی اور دانائی چھپی ہوتی ہے جو دل و دماغ پر نقش چھوڑ جاتی ہے۔ ان کے الفاظ نایاب موتیوں کی مانند ہیں، ایسی بصیرت اور رہنمائی جو سننے والوں کو فکر کی ایک نئی روشنی عطا کرتی ہے۔
+10/11/2024, 9:13 pm - +92 323 8862333: <Media omitted>
+10/11/2024, 10:06 pm - +92 334 2763208: Waiting for this message
+10/11/2024, 11:15 pm - +92 343 2078351: Use Askari VPN...
+It's working fine😜
+10/11/2024, 11:32 pm - +92 304 4770248: Any recommendations for vpn.?
+10/11/2024, 11:35 pm - +92 326 0927271: Express VPN. Paid version chal rha ha. Mobile me nae chal rha desktop me chal rha ha
+10/11/2024, 11:40 pm - +92 343 2078351: Desktop me browsec vpn b chl rha hai
+10/11/2024, 11:41 pm - +92 343 2078351: <Media omitted>
+11/11/2024, 11:40 am - +92 309 7095014: <Media omitted>
+11/11/2024, 6:36 pm - +92 333 9365986: This message was deleted
+11/11/2024, 6:36 pm - +92 333 9365986: This message was deleted
+14/11/2024, 9:09 am - +92 309 2095756: Kya laptop mei graphic card install Kiya ja skta h
+14/11/2024, 12:07 pm - +92 306 6785416: <Media omitted>
+14/11/2024, 12:30 pm - +92 308 7112492: Can i get it from my own email?
+Or universtiy email is required?
+14/11/2024, 12:51 pm - +92 306 6785416: University email b at the time of registration required hote ha
+14/11/2024, 12:53 pm - +92 308 7112492: Is their any expected last date for registeration?
+14/11/2024, 12:53 pm - +92 306 6785416: No idea I think limited time e ho ga
