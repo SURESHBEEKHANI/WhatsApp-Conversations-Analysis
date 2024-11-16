@@ -15,6 +15,7 @@
 9
 0
 a
+haan
 aadi
 aaj
 aap
@@ -1053,3 +1054,10 @@ yourself
 yourselves
 you've
 yup
+ha
+h
+ai
+kr 
+b
+sy 
+agr
