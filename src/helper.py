@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt  # type: ignore
 from urlextract import URLExtract
-import pandas as pd
+from wordcloud import WordCloud
+
 
 # Initialize URL extractor globally
 url_extractor = URLExtract()
@@ -33,7 +34,6 @@ def fetch_stats(df, selected_user):
     links = [link for message in df_filtered['Message'] for link in url_extractor.find_urls(message)]
 
     return num_messages, len(words), num_media_messages, len(links)
-
 def top_active_users(df):
     """
     Calculates the top N most active users based on their message count.
@@ -54,3 +54,26 @@ def top_active_users(df):
     df = round((df['User'].value_counts() / df.shape[0]) * 100, 2).reset_index().rename(columns={'index': 'name', 'User': 'percent'})
 
     return x, df
+
+def create_wordcloud(selected_user,df):
+
+    f = open('stop_hinglish.txt', 'r')
+    stop_words = f.read()
+
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    temp = df[df['User'] != 'group_notification']
+    temp = temp[temp['Message'] != '<Media omitted>\n']
+
+    def remove_stop_words(message):
+        y = []
+        for word in message.lower().split():
+            if word not in stop_words:
+                y.append(word)
+        return " ".join(y)
+
+    wc = WordCloud(width=500,height=500,min_font_size=10,background_color='white')
+    temp['Message'] = temp['Message'].apply(remove_stop_words)
+    df_wc = wc.generate(temp['Message'].str.cat(sep=" "))
+    return df_wc

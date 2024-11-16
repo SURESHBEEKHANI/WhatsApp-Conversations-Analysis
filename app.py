@@ -2,11 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt  # type: ignore
 from src.preprocessor import parse_whatsapp_chat
-from src.helper import fetch_stats, top_active_users
+from src.helper import fetch_stats, top_active_users ,create_wordcloud 
 
 
 # Main Title
-st.title("WhatsApp Chat Analyzer 📊")
+st.title("WhatsApp Chat Analyzer📊")
 
 # Sidebar: File Uploader
 uploaded_file = st.sidebar.file_uploader("Upload a WhatsApp chat file (.txt format)", type=["txt"])
@@ -34,7 +34,7 @@ if uploaded_file:
             num_messages, words, num_media_messages, num_links = fetch_stats(df, selected_user)
 
             # Display Top Statistics
-            st.subheader("📈 Top Statistics 📈")
+            st.subheader("📈Top Statistics📈")
             col1, col2, col3, col4 = st.columns(4)
             col1.metric("Total Messages", num_messages)
             col2.metric("Total Words", words)
@@ -43,13 +43,13 @@ if uploaded_file:
 
             # Busy Users Analysis (if "Overall" selected)
             if selected_user == "Overall":
-                st.subheader("📊 Most Busy Users 🏆")
+                st.subheader("📊Most Busy Users🏆")
                 x, new_df = top_active_users(df)
 
                 # Visualization
                 fig, ax = plt.subplots()
                 col1, col2 = st.columns(2)
-                colors = ['#1f77b4', '#2ca02c', '#ff7f0e'] 
+                colors = ['#4C72B0', '#55A868', '#F1A340', '#C44E52', '#8172B2']
 
                 with col1:
                     ax.bar(x.index, x.values, color=[colors[i % 3] for i in range(len(x))])  # Apply the colors in a cycle
@@ -58,6 +58,18 @@ if uploaded_file:
                 
                 with col2:
                     st.dataframe(new_df)
+                
+                 # WordCloud Section
+                  # WordCloud Section
+                st.subheader("🌟 Wordcloud 🌟")
+                wordcloud = create_wordcloud(selected_user, df)
+                fig, ax = plt.subplots()
+                ax.imshow(wordcloud)
+                ax.axis("off")  # Hide axes for better visualization
+                st.pyplot(fig)
+            
+      
+
 
         # Sentiment Analysis Placeholder
         if st.sidebar.button("Show Sentiment"):
