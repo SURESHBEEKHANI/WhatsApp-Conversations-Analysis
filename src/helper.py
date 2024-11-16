@@ -120,6 +120,6 @@ def most_common_word(selected_user: str, df: pd.DataFrame):
     ]
 
     # Count the most common words
-    word_counts = pd.DataFrame(Counter(words).most_common(20), columns=['Word', 'Frequency'])
+    word_counts = pd.DataFrame(Counter(words).most_common(20))
 
     return word_counts
