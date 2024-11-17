@@ -3,6 +3,7 @@ from urlextract import URLExtract
 from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
+import emoji
 
 
 # Initialize URL extractor globally
@@ -123,3 +124,43 @@ def most_common_word(selected_user: str, df: pd.DataFrame):
     word_counts = pd.DataFrame(Counter(words).most_common(20))
 
     return word_counts
+
+from collections import Counter
+import emoji
+import pandas as pd
+
+from collections import Counter
+import emoji
+import pandas as pd
+
+def emojis_analysis(selected_user: str, df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Extracts and analyzes emojis from a DataFrame for a specific user or overall.
+
+    Parameters:
+        selected_user (str): The username to filter the messages. Use 'Overall' for all users.
+        df (pd.DataFrame): The DataFrame containing WhatsApp chat data. Must include 'User' and 'Message' columns.
+
+    Returns:
+        pd.DataFrame: A DataFrame with emojis and their frequencies, sorted by count.
+    """
+    # Filter messages for the selected user, if specified
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    # Initialize a list to store extracted emojis
+    extracted_emojis = []
+
+    # Loop through messages and extract emojis
+    for message in df['Message'].dropna():  # Handle NaN values in 'Message' column
+        extracted_emojis.extend([char for char in message if char in emoji.EMOJI_DATA])
+
+    # Count the frequency of each emoji
+    emoji_counts = Counter(extracted_emojis)
+
+    # Create a DataFrame from the emoji counts
+    emoji_df = pd.DataFrame(emoji_counts.most_common())
+
+    return emoji_df
+
+
