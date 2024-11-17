@@ -2,38 +2,40 @@ import re
 import pandas as pd
 
 def parse_whatsapp_chat(data):
-    # Regex pattern to match the chat log format
-    pattern = r"(\d{2}/\d{2}/\d{4}),\s(\d{1,2}:\d{2}\s?[ap]m)\s-\s(\+\d{2}\s\d{3}\s\d{7}):\s(.*)"
+    """
+    Parses WhatsApp chat data and converts it into a structured pandas DataFrame.
 
-    # Find all matches using regex
+    Args:
+        data (str): The raw WhatsApp chat log as a string.
+
+    Returns:
+        pd.DataFrame: A DataFrame with columns for date, time, user, and message,
+                      along with extracted components like day, month, year, hour, and minute.
+    """
+    # Define the regex pattern to extract details from the chat log
+    pattern = r"(\d{2}/\d{2}/\d{4}),\s(\d{1,2}:\d{2}\s?[ap]m)\s-\s(\+\d{2}\s\d{3}\s\d{7}):\s(.*)"
+    
+    # Extract matches from the chat log using the regex pattern
     matches = re.findall(pattern, data)
 
     # Create a DataFrame from the extracted matches
     df = pd.DataFrame(matches, columns=['Date', 'Time', 'User', 'Message'])
 
-    # Split the 'Date' column into 'Day', 'Month', 'Year'
-    df[['Day', 'Month', 'Year']] = df['Date'].str.split('/', expand=True)
-
-    # Convert 'Date' to datetime format to extract the day name and month name
+    # Convert the 'Date' column to datetime format
     df['Date'] = pd.to_datetime(df['Date'], format='%d/%m/%Y')
-
-    # Extract the Day name (e.g., Monday, Tuesday)
-    df['Day'] = df['Date'].dt.strftime('%A')  # Get the day name (e.g., "Monday")
-
-    # Extract the Month name (e.g., January, February)
-    df['Month'] = df['Date'].dt.strftime('%B')  # Get the full month name (e.g., "July")
-
-    # Clean up and split the 'Time' column into 'Hour', 'Minute', and 'AMPM'
-    df['Time'] = df['Time'].str.replace('\u202f', ' ')  # Remove non-breaking spaces
-
-    # Split the cleaned 'Time' column into 'Hour:Minute' and 'AMPM'
+    # Extract the Day name (e.g., Monday, Tuesday) and Month name
+    df['Day'] = df['Date'].dt.strftime('%A')  # Full day name
+    df['Month'] = df['Date'].dt.strftime('%B')  # Full month name
+    df['Year'] = df['Date'].dt.year  # Year as a separate column
+    df['month_num'] = df['Date'].dt.month
+    # Clean and split the 'Time' column into components
     df[['Hour_Minute', 'AMPM']] = df['Time'].str.extract(r'(\d{1,2}:\d{2})\s?(am|pm)', expand=True)
 
-    # Split the 'Hour_Minute' into 'Hour' and 'Minute'
+    # Further split 'Hour_Minute' into 'Hour' and 'Minute'
     df[['Hour', 'Minute']] = df['Hour_Minute'].str.split(':', expand=True)
 
-    # Drop the original 'Date' and 'Time' columns if you don't need them anymore
-    df = df.drop(columns=['Date', 'Time', 'Hour_Minute'])
+    # Drop unnecessary intermediate columns
+    df = df.drop(columns=['Hour_Minute', 'Time'])
 
-    # Return the DataFrame
+    # Return the final structured DataFrame
     return df

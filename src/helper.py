@@ -5,7 +5,6 @@ import pandas as pd
 from collections import Counter
 import emoji
 
-
 # Initialize URL extractor globally
 url_extractor = URLExtract()
 
@@ -125,14 +124,6 @@ def most_common_word(selected_user: str, df: pd.DataFrame):
 
     return word_counts
 
-from collections import Counter
-import emoji
-import pandas as pd
-
-from collections import Counter
-import emoji
-import pandas as pd
-
 def emojis_analysis(selected_user: str, df: pd.DataFrame) -> pd.DataFrame:
     """
     Extracts and analyzes emojis from a DataFrame for a specific user or overall.
@@ -163,4 +154,26 @@ def emojis_analysis(selected_user: str, df: pd.DataFrame) -> pd.DataFrame:
 
     return emoji_df
 
+def monthly_timeline(selected_user, df):
+    """
+    Generate a timeline of message counts by month and year for the selected user.
 
+    Parameters:
+        selected_user (str): The user to analyze, or 'Overall' for all users.
+        df (pd.DataFrame): DataFrame containing the chat data.
+
+    Returns:
+        pd.DataFrame: A DataFrame with the monthly timeline of messages.
+    """
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    timeline = df.groupby(['Year', 'month_num', 'Month']).count()['Message'].reset_index()
+
+    time = []
+    for i in range(timeline.shape[0]):
+        time.append(timeline['Month'][i] + "-" + str(timeline['Year'][i]))
+
+    timeline['time'] = time
+
+    return timeline
