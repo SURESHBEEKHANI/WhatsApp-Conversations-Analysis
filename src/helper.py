@@ -12,17 +12,6 @@ def fetch_stats(df: pd.DataFrame, selected_user: str):
     """
     Fetch basic statistics (message count, word count, media count, and link count)
     for a selected user or aggregate statistics if 'Overall' is selected.
-
-    Parameters:
-        df (pd.DataFrame): DataFrame containing the chat data.
-        selected_user (str): The user to fetch stats for, or 'Overall' for aggregate stats.
-
-    Returns:
-        tuple: A tuple containing:
-            - num_messages: Total number of messages.
-            - num_words: Total number of words.
-            - num_media_messages: Number of media messages.
-            - num_links: Number of links shared.
     """
     # Filter the DataFrame based on the selected user
     df_filtered = df if selected_user == 'Overall' else df[df['User'] == selected_user]
@@ -38,17 +27,7 @@ def fetch_stats(df: pd.DataFrame, selected_user: str):
 def top_active_users(df: pd.DataFrame, top_n: int = 5):
     """
     Calculate the top N most active users based on their message count.
-
-    Parameters:
-        df (pd.DataFrame): DataFrame containing the chat data.
-        top_n (int): Number of top users to display (default is 5).
-
-    Returns:
-        tuple: A tuple containing:
-            - top_users: A Series of the top users and their message counts.
-            - user_percentage: A DataFrame of the top users and their percentage of total messages.
     """
-    # Calculate message counts for all users
     top_users = df['User'].value_counts().head(top_n)
     user_percentage = (df['User'].value_counts(normalize=True) * 100).round(2).reset_index()
     user_percentage.columns = ['User', 'Percentage']
@@ -58,31 +37,18 @@ def top_active_users(df: pd.DataFrame, top_n: int = 5):
 def create_wordcloud(selected_user: str, df: pd.DataFrame):
     """
     Generate a word cloud from the selected user's messages.
-
-    Parameters:
-        selected_user (str): The user to generate the word cloud for, or 'Overall' for all users.
-        df (pd.DataFrame): DataFrame containing the chat data.
-
-    Returns:
-        WordCloud: A WordCloud object generated from the messages.
     """
-    # Load stop words
     with open('stop_hinglish.txt', 'r') as file:
         stop_words = set(file.read().split())
 
-    # Filter messages for the selected user
     if selected_user != 'Overall':
         df = df[df['User'] == selected_user]
 
-    # Exclude group notifications and media messages
     filtered_messages = df[(df['User'] != 'group_notification') & (df['Message'] != '<Media omitted>')]
-
-    # Remove stop words from messages
     filtered_messages['Message'] = filtered_messages['Message'].apply(
         lambda msg: " ".join(word for word in msg.lower().split() if word not in stop_words)
     )
 
-    # Generate the word cloud
     wc = WordCloud(width=500, height=500, min_font_size=10, background_color='white')
     wordcloud = wc.generate(filtered_messages['Message'].str.cat(sep=" "))
 
@@ -91,27 +57,14 @@ def create_wordcloud(selected_user: str, df: pd.DataFrame):
 def most_common_word(selected_user: str, df: pd.DataFrame):
     """
     Get the most common words used by the selected user, excluding stop words.
-
-    Parameters:
-        selected_user (str): The user to analyze, or 'Overall' for all users.
-        df (pd.DataFrame): DataFrame containing the chat data.
-
-    Returns:
-        pd.DataFrame: A DataFrame of the top 20 most common words and their frequencies.
     """
-    # Load stop words
     with open('stop_hinglish.txt', 'r') as file:
         stop_words = set(file.read().split())
 
-    # Filter messages for the selected user
     if selected_user != 'Overall':
         df = df[df['User'] == selected_user]
 
-    # Exclude group notifications and media messages
-    filtered_messages = df[df['User'] != 'group_notification']
-    filtered_messages = filtered_messages[filtered_messages['Message'] != '<Media omitted>']
-
-    # Collect all words excluding stop words
+    filtered_messages = df[(df['User'] != 'group_notification') & (df['Message'] != '<Media omitted>')]
     words = [
         word
         for message in filtered_messages['Message']
@@ -119,61 +72,77 @@ def most_common_word(selected_user: str, df: pd.DataFrame):
         if word not in stop_words
     ]
 
-    # Count the most common words
     word_counts = pd.DataFrame(Counter(words).most_common(20))
 
     return word_counts
 
 def emojis_analysis(selected_user: str, df: pd.DataFrame) -> pd.DataFrame:
     """
-    Extracts and analyzes emojis from a DataFrame for a specific user or overall.
-
-    Parameters:
-        selected_user (str): The username to filter the messages. Use 'Overall' for all users.
-        df (pd.DataFrame): The DataFrame containing WhatsApp chat data. Must include 'User' and 'Message' columns.
-
-    Returns:
-        pd.DataFrame: A DataFrame with emojis and their frequencies, sorted by count.
+    Extract and analyze emojis from messages for a specific user or overall.
     """
-    # Filter messages for the selected user, if specified
     if selected_user != 'Overall':
         df = df[df['User'] == selected_user]
 
-    # Initialize a list to store extracted emojis
-    extracted_emojis = []
+    extracted_emojis = [
+        char
+        for message in df['Message'].dropna()
+        for char in message
+        if char in emoji.EMOJI_DATA
+    ]
 
-    # Loop through messages and extract emojis
-    for message in df['Message'].dropna():  # Handle NaN values in 'Message' column
-        extracted_emojis.extend([char for char in message if char in emoji.EMOJI_DATA])
-
-    # Count the frequency of each emoji
     emoji_counts = Counter(extracted_emojis)
-
-    # Create a DataFrame from the emoji counts
     emoji_df = pd.DataFrame(emoji_counts.most_common())
 
     return emoji_df
 
-def monthly_timeline(selected_user, df):
+def monthly_timeline(selected_user: str, df: pd.DataFrame):
     """
     Generate a timeline of message counts by month and year for the selected user.
-
-    Parameters:
-        selected_user (str): The user to analyze, or 'Overall' for all users.
-        df (pd.DataFrame): DataFrame containing the chat data.
-
-    Returns:
-        pd.DataFrame: A DataFrame with the monthly timeline of messages.
     """
     if selected_user != 'Overall':
         df = df[df['User'] == selected_user]
 
     timeline = df.groupby(['Year', 'month_num', 'Month']).count()['Message'].reset_index()
-
-    time = []
-    for i in range(timeline.shape[0]):
-        time.append(timeline['Month'][i] + "-" + str(timeline['Year'][i]))
-
-    timeline['time'] = time
+    timeline['time'] = timeline.apply(lambda row: f"{row['Month']}-{row['Year']}", axis=1)
 
     return timeline
+
+def daily_timeline(selected_user: str, df: pd.DataFrame):
+    """
+    Generate a daily timeline of messages for the selected user.
+    """
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    daily_timeline = df.groupby('only_date').count()['Message'].reset_index()
+
+    return daily_timeline
+
+def week_activity_map(selected_user: str, df: pd.DataFrame):
+    """
+    Generate a weekly activity map of messages for the selected user.
+    """
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    return df['day_name'].value_counts()
+
+def month_activity_map(selected_user: str, df: pd.DataFrame):
+    """
+    Generate a monthly activity map of messages for the selected user.
+    """
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    return df['Month'].value_counts()
+
+def activity_heatmap(selected_user: str, df: pd.DataFrame):
+    """
+    Generate a heatmap of user activity by day and period for the selected user.
+    """
+    if selected_user != 'Overall':
+        df = df[df['User'] == selected_user]
+
+    user_heatmap = df.pivot_table(index='day_name', columns='period', values='Message', aggfunc='count').fillna(0)
+
+    return user_heatmap
