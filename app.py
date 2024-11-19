@@ -1,9 +1,7 @@
-# Import necessary libraries
 import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt  # type: ignore
-from textblob import TextBlob  # For sentiment analysis
 from src.preprocessor import parse_whatsapp_chat
 from src.helper import (
     fetch_stats,
@@ -20,13 +18,11 @@ from src.helper import (
 )
 
 # Application Title
-st.title("📊 WhatsApp Chat Analyzer 📊")
+st.title("📊WhatsApp Chat Analyzer📊")
 
 # Sidebar: File Uploader
 st.sidebar.header("Upload Chat File")
 uploaded_file = st.sidebar.file_uploader("Upload a WhatsApp chat file (.txt format)", type=["txt"])
-
-
 
 # Check if a file is uploaded
 if uploaded_file:
@@ -36,16 +32,15 @@ if uploaded_file:
         df = parse_whatsapp_chat(file_data)
 
         # Display success message and show a preview of the data
-        st.success("✅ Chat Data Loaded Successfully! ✅")
+        st.success("✅Chat Data Loaded Successfully!✅")
         st.dataframe(df.head())  # Show the first few rows of the DataFrame
-
-
 
         # Sidebar: User selection for analysis
         unique_users = sorted([user for user in df["User"].unique() if user != "group_notification"])
         unique_users.insert(0, "Overall")  # Add "Overall" option for global stats
         selected_user = st.sidebar.selectbox("Select User for Analysis", unique_users)
-         # Analysis Section: Triggered by button
+
+        # Analysis Section: Triggered by button
         if st.sidebar.button("Show Analysis"):
             # Fetch and display basic statistics
             num_messages, words, num_media_messages, num_links = fetch_stats(df, selected_user)
@@ -129,7 +124,7 @@ if uploaded_file:
                         color=[colors[i % len(colors)] for i in range(len(top_users))],
                     )
                     ax.set_title("Top Active Users")
-                    plt.xticks(rotation="vertical")
+                    plt.xticks(rotation='vertical')
                     st.pyplot(fig)
 
                 with col2:
@@ -172,13 +167,11 @@ if uploaded_file:
                 ax.set_title("Top Emojis Distribution")
                 st.pyplot(fig)
 
-
-        # Sentiment Analysis Section
+        # Sentiment Analysis
         if st.sidebar.button("Show Sentiment"):
             st.subheader("😊 Sentiment Analysis 😊")
             sentiment_counts, sentiment_data = perform_sentiment_analysis(df, selected_user)
-
-            # Display sentiment counts
+            # Use simple for loop to display sentiment metrics
             col1, col2 = st.columns(2)
             with col1:
                 st.write("### Sentiment Summary")
@@ -211,12 +204,30 @@ if uploaded_file:
             ax.set_ylabel("Message Count")
             plt.grid(True)
             st.pyplot(fig)
+
+        # Show Summary Features
         if st.sidebar.button("Show Summary"):
-            st.info("📋 Chat Summary feature coming soon!")
+            # Create two columns for displaying the summaries side by side
+            col1, col2 = st.columns(2)
+
+            with col1:
+                # Summary Feature 1: Basic Statistics
+                num_messages, words, num_media_messages, num_links = fetch_stats(df, selected_user)
+                st.subheader("📋Chat Summary")
+                st.write(f"**Total Messages**: {num_messages}")
+                st.write(f"**Total Words**: {words}")
+                st.write(f"**Media Shared**: {num_media_messages}")
+                st.write(f"**Links Shared**: {num_links}")
+
+            with col2:
+                # Summary Feature 2: Sentiment Summary
+                sentiment_counts, _ = perform_sentiment_analysis(df, selected_user)
+                st.subheader("😊Sentiment Summary")
+                st.write(f"**Positive Messages**: {sentiment_counts.get('Positive', 0)}")
+                st.write(f"**Negative Messages**: {sentiment_counts.get('Negative', 0)}")
+                st.write(f"**Neutral Messages**: {sentiment_counts.get('Neutral', 0)}")
 
     except Exception as e:
-        # Handle errors during file processing
-        st.error(f"🚨 An error occurred while processing the file: {e}")
+        st.error(f"🚨 Error: {e}")
 else:
-    # Prompt user to upload a file if none is provided
     st.warning("⚠️ Please upload a WhatsApp chat file to begin.")
