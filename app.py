@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt  # type: ignore
+from textblob import TextBlob  # For sentiment analysis
 from src.preprocessor import parse_whatsapp_chat
 from src.helper import (
     fetch_stats,
@@ -14,15 +15,18 @@ from src.helper import (
     daily_timeline,
     week_activity_map,
     month_activity_map,
-    activity_heatmap
+    activity_heatmap,
+    perform_sentiment_analysis
 )
 
 # Application Title
-st.title("📊WhatsApp Chat Analyzer📊")
+st.title("📊 WhatsApp Chat Analyzer 📊")
 
 # Sidebar: File Uploader
 st.sidebar.header("Upload Chat File")
 uploaded_file = st.sidebar.file_uploader("Upload a WhatsApp chat file (.txt format)", type=["txt"])
+
+
 
 # Check if a file is uploaded
 if uploaded_file:
@@ -32,15 +36,16 @@ if uploaded_file:
         df = parse_whatsapp_chat(file_data)
 
         # Display success message and show a preview of the data
-        st.success("✅Chat Data Loaded Successfully!✅")
+        st.success("✅ Chat Data Loaded Successfully! ✅")
         st.dataframe(df.head())  # Show the first few rows of the DataFrame
+
+
 
         # Sidebar: User selection for analysis
         unique_users = sorted([user for user in df["User"].unique() if user != "group_notification"])
         unique_users.insert(0, "Overall")  # Add "Overall" option for global stats
         selected_user = st.sidebar.selectbox("Select User for Analysis", unique_users)
-
-        # Analysis Section: Triggered by button
+         # Analysis Section: Triggered by button
         if st.sidebar.button("Show Analysis"):
             # Fetch and display basic statistics
             num_messages, words, num_media_messages, num_links = fetch_stats(df, selected_user)
@@ -167,10 +172,45 @@ if uploaded_file:
                 ax.set_title("Top Emojis Distribution")
                 st.pyplot(fig)
 
-        # Additional Features (Placeholders)
-        if st.sidebar.button("Show Sentiment"):
-            st.info("🛠 Sentiment Analysis is under development. Stay tuned!")
 
+        # Sentiment Analysis Section
+        if st.sidebar.button("Show Sentiment"):
+            st.subheader("😊 Sentiment Analysis 😊")
+            sentiment_counts, sentiment_data = perform_sentiment_analysis(df, selected_user)
+
+            # Display sentiment counts
+            col1, col2 = st.columns(2)
+            with col1:
+                st.write("### Sentiment Summary")
+                st.metric("Positive Messages", sentiment_counts.get("Positive", 0))
+                st.metric("Negative Messages", sentiment_counts.get("Negative", 0))
+                st.metric("Neutral Messages", sentiment_counts.get("Neutral", 0))
+
+            with col2:
+                # Pie chart of sentiment distribution
+                st.write("### Sentiment Distribution")
+                fig, ax = plt.subplots()
+                ax.pie(
+                    sentiment_counts,
+                    labels=sentiment_counts.index,
+                    autopct="%0.2f%%",
+                    colors=["green", "red", "gray"]
+                )
+                ax.set_title("Sentiment Distribution")
+                st.pyplot(fig)
+
+            # Optional: Show sentiment trends over time
+            st.write("### Sentiment Over Time")
+            sentiment_data["Date"] = pd.to_datetime(sentiment_data["Date"])  # Ensure Date is datetime
+            sentiment_trends = sentiment_data.groupby(["Date", "Sentiment"]).size().unstack(fill_value=0)
+
+            fig, ax = plt.subplots(figsize=(10, 5))
+            sentiment_trends.plot(ax=ax, marker="o", linewidth=2)
+            ax.set_title("Sentiment Trends Over Time")
+            ax.set_xlabel("Date")
+            ax.set_ylabel("Message Count")
+            plt.grid(True)
+            st.pyplot(fig)
         if st.sidebar.button("Show Summary"):
             st.info("📋 Chat Summary feature coming soon!")
 

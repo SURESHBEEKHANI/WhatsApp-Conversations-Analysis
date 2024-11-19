@@ -5,6 +5,8 @@ import pandas as pd
 from collections import Counter
 import emoji
 
+from textblob import TextBlob 
+
 # Initialize URL extractor globally
 url_extractor = URLExtract()
 
@@ -146,3 +148,20 @@ def activity_heatmap(selected_user: str, df: pd.DataFrame):
     user_heatmap = df.pivot_table(index='day_name', columns='period', values='Message', aggfunc='count').fillna(0)
 
     return user_heatmap
+
+# Function to perform sentiment analysis
+def perform_sentiment_analysis(data, selected_user):
+    """Analyze sentiment of messages."""
+    if selected_user != "Overall":
+        data = data[data["User"] == selected_user]
+
+    # Calculate polarity and classify sentiment
+    data["Polarity"] = data["Message"].apply(lambda x: TextBlob(x).sentiment.polarity)
+    data["Sentiment"] = data["Polarity"].apply(
+        lambda x: "Positive" if x > 0.1 else ("Negative" if x < -0.1 else "Neutral")
+    )
+
+    # Aggregate sentiment counts
+    sentiment_counts = data["Sentiment"].value_counts()
+
+    return sentiment_counts, data
