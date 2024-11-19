@@ -48,5 +48,66 @@ WhatsApp Chat Analyzer is a Streamlit-based web application that allows users to
 
 
 
- ```bash
-   pip install -r requirements.txt
+### Install Dependencies
+Install the required Python libraries by running the following command:
+
+
+pip install -r requirements.txt
+
+### Run the Application: Launch the Streamlit application
+streamlit run app.py
+
+### Upload Chat File:
+Upload Chat File
+Export a .txt file from WhatsApp.
+Upload it through the app's interface to start the analysis.
+
+### 🔍 Key Visualizations:
+
+📈 Chat Statistics
+Analyze total messages, words, media shared, and links.
+📅 Monthly and Daily Timeline
+Visualize message trends over time using monthly and daily charts.
+🌟 Word Cloud
+Explore the most frequently used words in your chats through a dynamic word cloud.
+
+### 🤖 Technical Details
+
+Programming Language: Python
+Framework: Streamlit for the web interface.
+Visualization: Matplotlib, Seaborn
+Text Analysis: Custom preprocessing logic for WhatsApp data.
+
+#### Project Structure
+bash
+
+📂 src/
+   ├── preprocessor.py      # Parsing and cleaning WhatsApp chat data
+   ├── helper.py            # Core helper functions for analysis
+📂 assets/
+   ├── example_image_1.png  # Example visualizations
+📂 app.py                   # Main Streamlit app file
+📂 README.md                # Project documentation
+
+#### requirements.txt            # Dependencies
+
+Python Version: 3.7+
+Libraries:
+Streamlit
+Matplotlib
+Seaborn
+Pandas
+NumPy
+
+
+### 🛡️ License
+
+This project is licensed under the MIT License.
+
+###  Contact
+
+For questions or feedback, feel free to reach out:
+
+Email: SURESHBEEKHANI26@gmail.com
+GitHub: https://github.com/SURESHBEEKHANI
+Enjoy analyzing your chats! 🎉
