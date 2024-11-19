@@ -46,5 +46,7 @@ WhatsApp Chat Analyzer is a Streamlit-based web application that allows users to
    git clone https://github.com/SURESHBEEKHANI/WhatsApp-Conversations-Analysis.git
    cd whatsapp-chat-analyzer
 
-   pip install -r requirements.txt
 
+
+ ```bash
+   pip install -r requirements.txt
