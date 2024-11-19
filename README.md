@@ -48,14 +48,11 @@ WhatsApp Chat Analyzer is a Streamlit-based web application that allows users to
 
 
 
-### Install Dependencies
-Install the required Python libraries by running the following command:
-
-
+2. ### Install Dependencies:
+```bash
 pip install -r requirements.txt
 
-### Run the Application: Launch the Streamlit application
-streamlit run app.py
+3. *** Run the Application: ***
 
 ### Upload Chat File:
 Upload Chat File
