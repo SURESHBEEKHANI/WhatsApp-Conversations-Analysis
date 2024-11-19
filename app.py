@@ -18,7 +18,7 @@ from src.helper import (
 )
 
 # Application Title
-st.title("📊 WhatsApp Chat Analyzer")
+st.title("📊WhatsApp Chat Analyzer📊")
 
 # Sidebar: File Uploader
 st.sidebar.header("Upload Chat File")
@@ -32,7 +32,7 @@ if uploaded_file:
         df = parse_whatsapp_chat(file_data)
 
         # Display success message and show a preview of the data
-        st.success("✅ Chat Data Loaded Successfully!")
+        st.success("✅Chat Data Loaded Successfully!✅")
         st.dataframe(df.head())  # Show the first few rows of the DataFrame
 
         # Sidebar: User selection for analysis
@@ -45,7 +45,7 @@ if uploaded_file:
             # Fetch and display basic statistics
             num_messages, words, num_media_messages, num_links = fetch_stats(df, selected_user)
 
-            st.subheader("📈 Key Chat Statistics 📈")
+            st.subheader("📈Key Chat Statistics📈")
             col1, col2, col3, col4 = st.columns(4)
             col1.metric("Total Messages", num_messages)
             col2.metric("Total Words", words)
@@ -53,31 +53,31 @@ if uploaded_file:
             col4.metric("Links Shared", num_links)
 
             # Monthly Timeline Analysis
-            st.subheader("📅 Monthly Timeline 📅")
+            st.subheader("📅Monthly Timeline📅")
             timeline = monthly_timeline(selected_user, df)
             fig, ax = plt.subplots()
             ax.plot(timeline["time"], timeline["Message"], color="green")
+            ax.set_title("Message Trends Over Time (Monthly)")  # Plot title
             ax.set_xlabel("Time (Month-Year)")  # X-axis label
             ax.set_ylabel("Number of Messages")  # Y-axis label
-            ax.set_title("Message Trends Over Time")  # Plot title
             plt.xticks(rotation="vertical")
             plt.legend()  # Show the legend for better clarity
             plt.grid(True)
             st.pyplot(fig)
 
             # Daily Timeline
-            st.subheader("📅 Daily Timeline 📅")
+            st.subheader("📅Daily Timeline📅")
             daily_data = daily_timeline(selected_user, df)  # Get daily timeline data
             fig, ax = plt.subplots(figsize=(12, 6))
             ax.plot(daily_data['only_date'], daily_data['Message'], color='blue')  # Line chart
+            ax.set_title("Message Trends Over Time (Daily)")  # Title for the plot
             ax.set_xlabel("Date (Day-Month-Year)")  # Label for x-axis
             ax.set_ylabel("Number of Messages")  # Label for y-axis
-            ax.set_title("Message Trends Over Time (Daily)")  # Title for the plot
             plt.xticks(rotation=80)  # Rotate x-axis labels for better visibility
             st.pyplot(fig)
 
             # Activity Map
-            st.subheader("📅 Activity Map 📅")
+            st.subheader("📅Activity Map📅")
             col1, col2 = st.columns(2)
 
             with col1:
@@ -85,6 +85,7 @@ if uploaded_file:
                 busy_day = week_activity_map(selected_user, df)
                 fig, ax = plt.subplots()
                 ax.bar(busy_day.index, busy_day.values, color='purple')
+                ax.set_title("Weekly Activity: Most Busy Day")
                 plt.xticks(rotation='vertical')
                 st.pyplot(fig)
 
@@ -93,14 +94,16 @@ if uploaded_file:
                 busy_month = month_activity_map(selected_user, df)
                 fig, ax = plt.subplots()
                 ax.bar(busy_month.index, busy_month.values, color='orange')
+                ax.set_title("Monthly Activity: Most Busy Month")
                 plt.xticks(rotation='vertical')
                 st.pyplot(fig)
 
             # Weekly Activity Heatmap
-            st.title("Weekly Activity Map")
+            st.title("📅Weekly Activity Map📅")
             user_heatmap = activity_heatmap(selected_user, df)
             fig, ax = plt.subplots()
-            ax = sns.heatmap(user_heatmap)
+            sns.heatmap(user_heatmap, ax=ax, cmap="coolwarm")
+            ax.set_title("Heatmap of Weekly Activity")
             st.pyplot(fig)
 
             # Most Active Users (Overall Analysis only)
@@ -134,6 +137,7 @@ if uploaded_file:
             fig, ax = plt.subplots()
             ax.imshow(wordcloud, interpolation="bilinear")
             ax.axis("off")  # Hide axes for better visualization
+            ax.set_title("Word Cloud Representation")
             st.pyplot(fig)
 
             # Most Common Words
@@ -141,7 +145,7 @@ if uploaded_file:
             common_words = most_common_word(selected_user, df)
             fig, ax = plt.subplots(figsize=(10, 6))
             ax.bar(common_words[0], common_words[1], color="skyblue", edgecolor="black")
-            ax.set_title("Most Common Words")
+            ax.set_title("Most Common Words Used")
             ax.set_xlabel("Words")
             ax.set_ylabel("Frequency")
             ax.tick_params(axis="x", rotation=45)
@@ -160,6 +164,7 @@ if uploaded_file:
                 # Pie chart for top emojis
                 fig, ax = plt.subplots()
                 ax.pie(emoji_df[1].head(), labels=emoji_df[0].head(), autopct="%0.2f%%")
+                ax.set_title("Top Emojis Distribution")
                 st.pyplot(fig)
 
         # Additional Features (Placeholders)

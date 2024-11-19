@@ -1,48 +1,50 @@
-# WhatsApp Conversations Analysis
+# 📊 WhatsApp Chat Analyzer
 
-This project extracts valuable insights from WhatsApp chat data using Python. By analyzing conversation patterns, it reveals metrics like user activity, sentiment, keyword trends, and visualization of conversation dynamics. It's ideal for uncovering interaction trends, identifying top contributors, and analyzing the tone and frequency of conversations.
+WhatsApp Chat Analyzer is a Streamlit-based web application that allows users to upload and analyze their WhatsApp chat history. The application provides insights into various aspects of the chat data, including user activity, message trends, word usage, and emoji analysis.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-- [Contributing](#contributing)
+## 🚀 Features
+
+### Core Features:
+1. **Upload WhatsApp Chat Files**:
+   - Upload `.txt` files exported directly from WhatsApp.
+   - Automatic parsing and preprocessing of the uploaded chat data.
+
+2. **Comprehensive Chat Statistics**:
+   - Total messages, words, media shared, and links shared.
+   - Statistics can be filtered for specific users or overall chat analysis.
+
+3. **Timeline Analysis**:
+   - **Monthly Trends**: Visualize message trends over months with clear line charts.
+   - **Daily Trends**: Analyze daily activity patterns with precise visualizations.
+
+4. **Activity Analysis**:
+   - **Weekly Heatmap**: A heatmap that highlights the busiest days of the week and time slots.
+   - **Most Busy Day and Month**: Bar charts showing the days and months with the highest activity.
+
+5. **User Behavior Insights**:
+   - **Most Active Users**: Identify top contributors to the chat, along with their activity percentages.
+   - Supports individual and overall chat analysis.
+
+6. **Text and Word Analysis**:
+   - **Word Cloud**: Beautiful visual representation of the most frequently used words.
+   - **Most Common Words**: A bar chart showing the top words used in the chat.
+
+7. **Emoji Analysis**:
+   - Detailed breakdown of the most frequently used emojis.
+   - Pie charts showing the distribution of top emojis.
+
+### Advanced Features (Planned):
+- **Sentiment Analysis**: Detect the overall sentiment of conversations.
+- **Chat Summary**: Automated generation of chat summaries.
 
 ---
 
-## Overview
+## 🛠️ How to Use
 
-**WhatsApp Conversations Analysis** is a Python-based tool designed to analyze WhatsApp chat exports in `.txt` format. The tool parses conversation history to generate insights on message frequency, user activity, sentiment, word usage patterns, and more.
-
-### This project helps answer questions such as:
-- Who are the most active contributors?
-- How does sentiment shift over time?
-- What are the most common words or phrases?
-- How do activity patterns vary over days, weeks, or months?
-
-## Features
-
-- **Participant Analysis**: Identifies and ranks participants by message count.
-- **Time Series Analysis**: Plots message frequency over specified time frames.
-- **Word Cloud Generation**: Displays commonly used words visually.
-- **Sentiment Analysis**: Assesses the overall sentiment and tone of messages.
-- **Message Length Analysis**: Analyzes and visualizes average message length per participant.
-- **Keyword Trends**: Tracks and analyzes trends of specific keywords or phrases.
-
-## Installation
-
-### Prerequisites
-
-- Python 3.7 or above
-- Required libraries (install with `requirements.txt`)
-
-### Steps
-
-1. **Clone the repository**
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SURESHBEEKHANI/WhatsApp-Conversations-Analysis.git
-   cd WhatsApp-Conversations-Analysis
+   cd whatsapp-chat-analyzer
+
+   pip install -r requirements.txt
+
